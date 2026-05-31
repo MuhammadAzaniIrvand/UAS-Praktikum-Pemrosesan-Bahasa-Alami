@@ -1,0 +1,1433 @@
+2026-05-28 20:47:12,433 | tts | INFO | Loading TTS model: tts_models/multilingual/multi-dataset/xtts_v2
+2026-05-28 22:56:17,199 | tts | INFO | Loading TTS model: tts_models/multilingual/multi-dataset/xtts_v2
+2026-05-28 22:59:24,112 | tts | INFO | Loading TTS model: tts_models/multilingual/multi-dataset/xtts_v2
+2026-05-28 23:59:00,982 | tts | INFO | Loading TTS model: tts_models/multilingual/multi-dataset/xtts_v2
+2026-05-28 23:59:21,758 | tts | INFO | TTS model loaded.
+2026-05-28 23:59:21,758 | tts | INFO | Synthesizing | lang=id | text="Tentu, silakan infokan tanggal keberangkatan dan kota asalmu"
+2026-05-28 23:59:21,768 | tts | ERROR | TTS gagal:  ❗ Language id is not supported. Supported languages are ['en', 'es', 'fr', 'de', 'it', 'pt', 'pl', 'tr', 'ru', 'nl', 'cs', 'ar', 'zh-cn', 'hu', 'ko', 'ja', 'hi']
+2026-05-29 14:11:07,190 | tts | INFO | Loading Indonesian TTS model from /home/azani/Kuliah/semester_6/nlp/prak/uas/voice-cs-system/models/indonesian-tts/checkpoint_1260000-inference.pth
+2026-05-29 14:11:09,679 | tts | INFO | TTS model loaded.
+2026-05-29 14:11:09,679 | tts | INFO | Synthesizing | text="Tentu, saya bisa bantu carikan jadwal flight ke Jeddah untuk"
+2026-05-29 14:11:14,626 | tts | INFO | TTS selesai | response_upload_1780038627.wav | latency=4.95s
+2026-05-29 14:14:22,778 | tts | INFO | Loading Indonesian TTS model from /home/azani/Kuliah/semester_6/nlp/prak/uas/voice-cs-system/models/indonesian-tts/checkpoint_1260000-inference.pth
+2026-05-29 14:14:25,047 | tts | INFO | TTS model loaded.
+2026-05-29 14:14:25,047 | tts | INFO | Synthesizing | text="Tentu, aku bisa bantu carikan jadwalnya. Tolong infokan tang"
+2026-05-29 14:14:30,045 | tts | INFO | TTS selesai | response_upload_1780038824.wav | latency=5.0s
+2026-05-29 14:17:31,085 | tts | INFO | Synthesizing | voice=id-ID-ArdiNeural | text="Tentu, saya bisa bantu carikan jadwalnya. Tolong infokan kot"
+2026-05-29 14:17:31,085 | tts | ERROR | TTS gagal: asyncio.run() cannot be called from a running event loop
+2026-05-29 14:19:28,753 | tts | INFO | Synthesizing | voice=id-ID-ArdiNeural | text="Tentu, aku bisa bantu carikan jadwalnya. Tolong infokan kamu"
+2026-05-29 14:19:43,889 | tts | INFO | TTS selesai | response_upload_1780039117.wav | latency=15.14s
+2026-05-29 14:40:30,539 | tts | INFO | Synthesizing | lang=id | text="Halo, selamat datang di sistem perjalanan umrah."
+2026-05-29 14:40:41,682 | tts | ERROR | TTS gagal: module 'transformers.pytorch_utils' has no attribute 'isin_mps_friendly'
+2026-05-29 14:56:24,962 | tts | INFO | Synthesizing | lang=id | dominant=ID | text="Tentu, saya bisa bantu carikan jadwal penerbangan ke Jeddah."
+2026-05-29 14:56:24,962 | tts | ERROR | TTS gagal: No module named 'indonesian_tts'
+2026-05-29 14:56:24,962 | tts | INFO | Synthesizing | lang=en | dominant=EN | text="You can book via Traveloka or directly at the airline websit"
+2026-05-29 14:56:34,097 | tts | INFO | Loading Coqui TTS: tts_models/multilingual/multi-dataset/xtts_v2
+2026-05-29 14:56:48,406 | tts | INFO | Coqui TTS loaded.
+2026-05-29 14:56:55,493 | tts | INFO | TTS selesai | response_test_en.wav | latency=30.53s
+2026-05-29 16:36:18,582 | tts | INFO | Synthesizing | lang=id | text="Tentu saya bisa bantu carikan jadwal penerbangan ke Jeddah."
+2026-05-29 16:36:32,954 | tts | INFO | Loading Indonesian TTS (Wikidepia VITS)...
+2026-05-29 16:36:34,241 | tts | INFO | Indonesian TTS loaded.
+2026-05-29 16:36:35,580 | tts | INFO | TTS selesai | response_test_id.wav | latency=17.0s
+2026-05-29 16:37:37,455 | tts | INFO | Synthesizing | lang=en | text="You can book your flight via Traveloka or the airline websit"
+2026-05-29 16:37:51,035 | tts | INFO | Loading Coqui XTTS: tts_models/multilingual/multi-dataset/xtts_v2
+2026-05-29 16:38:07,810 | tts | INFO | Coqui XTTS loaded.
+2026-05-29 16:38:17,833 | tts | INFO | TTS selesai | response_test_en.wav | latency=40.38s
+2026-05-29 16:44:44,845 | tts | INFO | Synthesizing | lang=id | text="Tentu, aku bisa bantu carikan jadwalnya. Tolong infokan kota"
+2026-05-29 16:44:56,061 | tts | INFO | Loading Indonesian TTS (Wikidepia VITS)...
+2026-05-29 16:44:57,322 | tts | INFO | Indonesian TTS loaded.
+2026-05-29 16:45:01,418 | tts | INFO | TTS selesai | response_upload_1780047839.wav | latency=16.57s
+2026-05-29 16:48:31,669 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu carikan jadwal penerbangan ke Jeddah."
+2026-05-29 16:48:41,610 | tts | INFO | Loading Indonesian TTS (Wikidepia VITS)...
+2026-05-29 16:48:42,730 | tts | INFO | Indonesian TTS loaded.
+2026-05-29 16:48:42,731 | tts | INFO | ID TTS mapped: "Tentu, saja bisa bantu tʃarikan jadwal penerbanɡan ke Jeddah"
+2026-05-29 16:48:44,387 | tts | INFO | TTS selesai | response_test_mapped.wav | latency=12.72s
+2026-05-29 16:50:01,258 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu carikan jadwal penerbangan ke Jeddah."
+2026-05-29 16:50:10,915 | tts | INFO | Loading Indonesian TTS (Wikidepia VITS)...
+2026-05-29 16:50:12,008 | tts | INFO | Indonesian TTS loaded.
+2026-05-29 16:50:12,008 | tts | INFO | ID TTS mapped: "Tentu, saja bisa bantu tʃarikan jadwal penerbanɡan ke Jeddah"
+2026-05-29 16:50:13,778 | tts | INFO | TTS selesai | response_test_mapped.wav | latency=12.52s
+2026-05-29 17:10:16,700 | tts | INFO | Synthesizing | lang=en | text="Most standard Umrah packages already include a visit to Madi"
+2026-05-29 17:10:26,727 | tts | INFO | Loading Coqui XTTS: tts_models/multilingual/multi-dataset/xtts_v2
+2026-05-29 17:10:46,371 | tts | INFO | Coqui XTTS loaded.
+2026-05-29 17:11:11,966 | tts | INFO | TTS selesai | response_upload_1780049374.wav | latency=55.27s
+2026-05-29 21:03:08,008 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu carikan jadwalnya. Tolong infokan tan"
+2026-05-29 21:03:20,294 | tts | INFO | Loading Indonesian TTS (Wikidepia VITS)...
+2026-05-29 21:03:21,647 | tts | INFO | Indonesian TTS loaded.
+2026-05-29 21:03:27,598 | tts | INFO | TTS selesai | response_2222_audio1.wav | latency=19.59s
+2026-05-29 21:04:31,470 | tts | INFO | Synthesizing | lang=id | text="Haji adalah ibadah wajib pada waktu tertentu (bulan Dzulhijj"
+2026-05-29 21:04:39,264 | tts | INFO | TTS selesai | response_2222_audio10.wav | latency=7.79s
+2026-05-29 21:16:12,726 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu atur jadwalnya. Mohon informasikan ta"
+2026-05-29 21:16:23,370 | tts | INFO | Loading Indonesian TTS (Wikidepia VITS)...
+2026-05-29 21:16:24,421 | tts | INFO | Indonesian TTS loaded.
+2026-05-29 21:16:27,228 | tts | INFO | TTS selesai | response_2222_audio1.wav | latency=14.5s
+2026-05-29 21:17:16,709 | tts | INFO | Synthesizing | lang=en | text="You should look for "Umrah Reguler" packages that specifical"
+2026-05-29 21:17:16,722 | tts | INFO | Loading Coqui XTTS: tts_models/multilingual/multi-dataset/xtts_v2
+2026-05-29 21:17:44,918 | tts | INFO | Coqui XTTS loaded.
+2026-05-29 21:18:11,695 | tts | INFO | TTS selesai | response_2222_audio2.wav | latency=54.99s
+2026-05-29 21:18:58,197 | tts | INFO | Synthesizing | lang=en | text="I can certainly help you with that. You can book a private c"
+2026-05-29 21:19:15,102 | tts | INFO | TTS selesai | response_2222_audio3.wav | latency=16.9s
+2026-05-29 21:20:03,537 | tts | INFO | Synthesizing | lang=en | text="First, register via the Nusuk platform or a licensed travel "
+2026-05-29 21:20:38,227 | tts | INFO | TTS selesai | response_2222_audio4.wav | latency=34.69s
+2026-05-29 21:21:44,432 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Language Pro"
+2026-05-29 21:23:06,051 | tts | INFO | TTS selesai | response_2222_audio5.wav | latency=81.62s
+2026-05-29 21:24:04,371 | tts | INFO | Synthesizing | lang=en | text="You can take the Haramain High Speed Railway for around SAR "
+2026-05-29 21:24:38,973 | tts | INFO | TTS selesai | response_2222_audio6.wav | latency=34.6s
+2026-05-29 21:25:36,739 | tts | INFO | Synthesizing | lang=id | text="Pilihlah jadwal penerbangan yang tiba di Jeddah pada pagi ha"
+2026-05-29 21:25:40,652 | tts | INFO | TTS selesai | response_2222_audio7.wav | latency=3.91s
+2026-05-29 21:26:27,729 | tts | INFO | Synthesizing | lang=id | text="Haji wajib dilaksanakan pada waktu tertentu di bulan Dzulhij"
+2026-05-29 21:26:31,891 | tts | INFO | TTS selesai | response_2222_audio10.wav | latency=4.16s
+2026-05-29 21:27:14,942 | tts | INFO | Synthesizing | lang=id | text="Kamu bisa mengurus visa melalui agen travel umrah resmi atau"
+2026-05-29 21:27:18,433 | tts | INFO | TTS selesai | response_2222_audio12.wav | latency=3.49s
+2026-05-29 21:28:02,657 | tts | INFO | Synthesizing | lang=en | text="Ensure your passport is valid for at least six months and pr"
+2026-05-29 21:28:31,296 | tts | INFO | TTS selesai | response_2222_audio14.wav | latency=28.64s
+2026-05-29 21:29:14,036 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu atur jadwalnya. Tolong infokan tangga"
+2026-05-29 21:29:16,983 | tts | INFO | TTS selesai | response_2301_audio1.wav | latency=2.95s
+2026-05-29 21:29:59,495 | tts | INFO | Synthesizing | lang=id | text="Kamu bisa cari paket Umrah Reguler karena biasanya sudah oto"
+2026-05-29 21:30:02,885 | tts | INFO | TTS selesai | response_2301_audio2.wav | latency=3.39s
+2026-05-29 21:30:44,651 | tts | INFO | Synthesizing | lang=en | text="You can book the Haramain High Speed Railway online for the "
+2026-05-29 21:31:16,581 | tts | INFO | TTS selesai | response_2301_audio3.wav | latency=31.93s
+2026-05-29 21:32:11,804 | tts | INFO | Synthesizing | lang=en | text="First, visit the official Saudi Visa website or Nusuk platfo"
+2026-05-29 21:32:42,946 | tts | INFO | TTS selesai | response_2301_audio4.wav | latency=31.14s
+2026-05-29 21:33:38,258 | tts | INFO | Synthesizing | lang=en | text="I can certainly help you find the best direct flight schedul"
+2026-05-29 21:34:01,267 | tts | INFO | TTS selesai | response_2301_audio5.wav | latency=23.01s
+2026-05-29 21:35:04,537 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-29 21:43:28,655 | tts | INFO | Synthesizing | lang=en | text="Role: Friendly Umrah and Hajj travel assistant.
+Competency: "
+2026-05-29 21:43:38,334 | tts | INFO | Loading Coqui XTTS: tts_models/multilingual/multi-dataset/xtts_v2
+2026-05-29 21:43:52,081 | tts | INFO | Coqui XTTS loaded.
+2026-05-29 21:45:06,735 | tts | INFO | TTS selesai | response_2301_audio6.wav | latency=98.08s
+2026-05-29 21:45:45,791 | tts | INFO | Synthesizing | lang=id | text="Puasa Ramadan wajib karena merupakan salah satu rukun Islam "
+2026-05-29 21:45:45,792 | tts | INFO | Loading Indonesian TTS (Wikidepia VITS)...
+2026-05-29 21:45:46,816 | tts | INFO | Indonesian TTS loaded.
+2026-05-29 21:45:49,997 | tts | INFO | TTS selesai | response_2301_audio11.wav | latency=4.21s
+2026-05-29 21:50:41,112 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu carikan jadwalnya. Tolong beri tahu k"
+2026-05-29 21:50:50,908 | tts | INFO | Loading Indonesian TTS (Wikidepia VITS)...
+2026-05-29 21:50:51,893 | tts | INFO | Indonesian TTS loaded.
+2026-05-29 21:50:54,237 | tts | INFO | TTS selesai | response_2222_audio1.wav | latency=13.12s
+2026-05-29 21:51:34,975 | tts | INFO | Synthesizing | lang=en | text="I recommend looking for "Umrah Plus" packages that offer cus"
+2026-05-29 21:51:34,990 | tts | INFO | Loading Coqui XTTS: tts_models/multilingual/multi-dataset/xtts_v2
+2026-05-29 21:51:48,305 | tts | INFO | Coqui XTTS loaded.
+2026-05-29 21:52:14,719 | tts | INFO | TTS selesai | response_2222_audio2.wav | latency=39.74s
+2026-05-29 21:53:01,129 | tts | INFO | Synthesizing | lang=en | text="I recommend booking the Haramain High-Speed Railway online v"
+2026-05-29 21:53:23,673 | tts | INFO | TTS selesai | response_2222_audio3.wav | latency=22.54s
+2026-05-29 21:54:09,811 | tts | INFO | Synthesizing | lang=en | text="Role: Friendly Umrah and Hajj travel assistant.
+Language Cap"
+2026-05-29 21:55:16,743 | tts | INFO | TTS selesai | response_2222_audio4.wav | latency=66.93s
+2026-05-29 21:56:11,316 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-29 21:57:15,949 | tts | INFO | TTS selesai | response_2222_audio5.wav | latency=64.63s
+2026-05-29 21:58:02,151 | tts | INFO | Synthesizing | lang=en | text="You can take the Haramain High-Speed Railway for a fast and "
+2026-05-29 21:58:23,296 | tts | INFO | TTS selesai | response_2222_audio6.wav | latency=21.15s
+2026-05-29 21:59:17,752 | tts | INFO | Synthesizing | lang=id | text="Role: Friendly Umrah and Hajj travel assistant.
+Skill: Code-"
+2026-05-29 21:59:23,526 | tts | INFO | TTS selesai | response_2222_audio7.wav | latency=5.77s
+2026-05-29 22:00:06,879 | tts | INFO | Synthesizing | lang=id | text="Haji wajib dilaksanakan pada waktu tertentu di bulan Dzulhij"
+2026-05-29 22:00:12,024 | tts | INFO | TTS selesai | response_2222_audio10.wav | latency=5.14s
+2026-05-29 22:00:57,079 | tts | INFO | Synthesizing | lang=id | text="Kamu bisa mengurus visa melalui agen travel resmi (PIHK) ata"
+2026-05-29 22:01:01,297 | tts | INFO | TTS selesai | response_2222_audio12.wav | latency=4.22s
+2026-05-29 22:01:38,628 | tts | INFO | Synthesizing | lang=en | text="Ensure your passport is valid for at least six months and ob"
+2026-05-29 22:02:05,117 | tts | INFO | TTS selesai | response_2222_audio14.wav | latency=26.49s
+2026-05-29 22:02:46,419 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu atur jadwal penerbanganmu. Boleh info"
+2026-05-29 22:02:48,596 | tts | INFO | TTS selesai | response_2301_audio1.wav | latency=2.18s
+2026-05-29 22:03:35,561 | tts | INFO | Synthesizing | lang=en | text="I recommend choosing an "Economy Umrah" package that explici"
+2026-05-29 22:04:06,231 | tts | INFO | TTS selesai | response_2301_audio2.wav | latency=30.67s
+2026-05-29 22:04:47,770 | tts | INFO | Synthesizing | lang=en | text="You should book the Haramain High Speed Railway online right"
+2026-05-29 22:05:16,379 | tts | INFO | TTS selesai | response_2301_audio3.wav | latency=28.61s
+2026-05-29 22:05:55,289 | tts | INFO | Synthesizing | lang=en | text="First, select your visa type through the official KSA Visa p"
+2026-05-29 22:06:22,400 | tts | INFO | TTS selesai | response_2301_audio4.wav | latency=27.11s
+2026-05-29 22:07:07,851 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu carikan jadwal penerbangan langsung k"
+2026-05-29 22:07:11,146 | tts | INFO | TTS selesai | response_2301_audio5.wav | latency=3.29s
+2026-05-29 22:07:50,825 | tts | INFO | Synthesizing | lang=en | text="I can help you arrange transportation to Medina via private "
+2026-05-29 22:08:15,112 | tts | INFO | TTS selesai | response_2301_audio6.wav | latency=24.29s
+2026-05-29 22:08:58,546 | tts | INFO | Synthesizing | lang=id | text="Puasa Ramadan wajib dilaksanakan karena merupakan salah satu"
+2026-05-29 22:09:02,242 | tts | INFO | TTS selesai | response_2301_audio11.wav | latency=3.7s
+2026-05-29 22:09:55,867 | tts | INFO | Synthesizing | lang=id | text="Kamu bisa mengurusnya melalui agen travel umrah resmi atau s"
+2026-05-29 22:09:59,545 | tts | INFO | TTS selesai | response_2301_audio12.wav | latency=3.68s
+2026-05-29 22:10:33,162 | tts | INFO | Synthesizing | lang=en | text="Ensure your passport is valid for at least six months and pr"
+2026-05-29 22:11:03,936 | tts | INFO | TTS selesai | response_2301_audio14.wav | latency=30.77s
+2026-05-29 22:11:47,099 | tts | INFO | Synthesizing | lang=id | text="Siapkan dokumen seperti paspor dan visa, pakaian ihram atau "
+2026-05-29 22:11:52,798 | tts | INFO | TTS selesai | response_2301_audio15.wav | latency=5.7s
+2026-05-29 22:12:41,417 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu carikan jadwalnya. Silakan infokan ta"
+2026-05-29 22:12:45,265 | tts | INFO | TTS selesai | response_2302_audio01.wav | latency=3.85s
+2026-05-29 22:13:39,537 | tts | INFO | Synthesizing | lang=id | text="Kami punya paket Umrah Simpel yang sudah include Madinah vis"
+2026-05-29 22:13:42,468 | tts | INFO | TTS selesai | response_2302_audio02.wav | latency=2.93s
+2026-05-29 22:14:37,162 | tts | INFO | Synthesizing | lang=en | text="I recommend booking the Haramain High Speed Railway online f"
+2026-05-29 22:15:04,159 | tts | INFO | TTS selesai | response_2302_audio03.wav | latency=27.0s
+2026-05-29 22:16:00,330 | tts | INFO | Synthesizing | lang=en | text="First, visit the official Nusuk or Saudi Visa website to sel"
+2026-05-29 22:16:29,611 | tts | INFO | TTS selesai | response_2302_audio04.wav | latency=29.28s
+2026-05-29 22:17:18,573 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-29 22:18:28,069 | tts | INFO | TTS selesai | response_2302_audio05.wav | latency=69.5s
+2026-05-29 22:19:14,177 | tts | INFO | Synthesizing | lang=en | text="You can arrange transport to Madinah through your Umrah trav"
+2026-05-29 22:19:38,402 | tts | INFO | TTS selesai | response_2302_audio06.wav | latency=24.23s
+2026-05-29 22:20:20,843 | tts | INFO | Synthesizing | lang=id | text="Puasa Ramadan wajib dijalankan karena merupakan salah satu r"
+2026-05-29 22:20:24,099 | tts | INFO | TTS selesai | response_2302_audio11.wav | latency=3.26s
+2026-05-29 22:20:57,201 | tts | INFO | Synthesizing | lang=en | text="Ensure your passport has at least six months of validity and"
+2026-05-29 22:21:24,257 | tts | INFO | TTS selesai | response_2302_audio14.wav | latency=27.06s
+2026-05-29 22:22:02,853 | tts | INFO | Synthesizing | lang=id | text="Pastikan paspor, visa, dan dokumen kesehatan sudah siap, ser"
+2026-05-29 22:22:07,287 | tts | INFO | TTS selesai | response_2302_audio15.wav | latency=4.43s
+2026-05-29 22:22:39,494 | tts | INFO | Synthesizing | lang=id | text="Belajar bahasa Arab itu menantang, tapi sangat bisa dilakuka"
+2026-05-29 22:22:42,814 | tts | INFO | TTS selesai | response_2302_audio17.wav | latency=3.32s
+2026-05-29 22:23:21,786 | tts | INFO | Synthesizing | lang=id | text="Tentu, aku bisa bantu susun itinerary perjalananmu ke Jeddah"
+2026-05-29 22:23:24,494 | tts | INFO | TTS selesai | response_2303_audio01.wav | latency=2.71s
+2026-05-29 22:24:06,330 | tts | INFO | Synthesizing | lang=en | text="You should look for "Umrah Express" packages that specifical"
+2026-05-29 22:24:31,183 | tts | INFO | TTS selesai | response_2303_audio02.wav | latency=24.85s
+2026-05-29 22:25:12,794 | tts | INFO | Synthesizing | lang=en | text="I recommend booking the Haramain High-Speed Railway online f"
+2026-05-29 22:25:35,872 | tts | INFO | TTS selesai | response_2303_audio03.wav | latency=23.08s
+2026-05-29 22:26:13,631 | tts | INFO | Synthesizing | lang=en | text="First, prepare your passport and digital photo, then apply t"
+2026-05-29 22:26:41,083 | tts | INFO | TTS selesai | response_2303_audio04.wav | latency=27.45s
+2026-05-29 22:27:35,073 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Skill: Under"
+2026-05-29 22:28:24,797 | tts | INFO | TTS selesai | response_2303_audio05.wav | latency=49.72s
+2026-05-29 22:29:10,667 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-29 22:30:08,454 | tts | INFO | TTS selesai | response_2303_audio06.wav | latency=57.79s
+2026-05-29 22:30:53,893 | tts | INFO | Synthesizing | lang=id | text="Paling praktis langsung naik Haramain High-Speed Railway dar"
+2026-05-29 22:30:56,929 | tts | INFO | TTS selesai | response_2303_audio07.wav | latency=3.04s
+2026-05-29 22:31:34,070 | tts | INFO | Synthesizing | lang=id | text="Buka website maskapai atau aplikasi OTA seperti Traveloka, l"
+2026-05-29 22:31:37,605 | tts | INFO | TTS selesai | response_2303_audio13.wav | latency=3.53s
+2026-05-29 22:32:21,952 | tts | INFO | Synthesizing | lang=id | text="Siapkan dokumen penting seperti paspor dan visa, serta bawa "
+2026-05-29 22:32:25,649 | tts | INFO | TTS selesai | response_2303_audio15.wav | latency=3.7s
+2026-05-29 22:32:59,636 | tts | INFO | Synthesizing | lang=id | text="Mulailah dengan menentukan budget dan waktu keberangkatan ya"
+2026-05-29 22:33:02,733 | tts | INFO | TTS selesai | response_2303_audio19.wav | latency=3.1s
+2026-05-29 22:33:39,475 | tts | INFO | Synthesizing | lang=id | text="Tentu, boleh infokan kota asal dan tanggal keberangkatan pas"
+2026-05-29 22:33:41,814 | tts | INFO | TTS selesai | response_2304_audio01.wav | latency=2.34s
+2026-05-29 22:34:16,846 | tts | INFO | Synthesizing | lang=en | text="You should look for "Umrah Reguler" packages that explicitly"
+2026-05-29 22:34:40,445 | tts | INFO | TTS selesai | response_2304_audio02.wav | latency=23.6s
+2026-05-29 22:35:17,837 | tts | INFO | Synthesizing | lang=en | text="I recommend booking the Haramain High Speed Railway online f"
+2026-05-29 22:35:45,319 | tts | INFO | TTS selesai | response_2304_audio03.wav | latency=27.48s
+2026-05-29 22:36:18,402 | tts | INFO | Synthesizing | lang=en | text="You can apply through the official Nusuk platform or the MoF"
+2026-05-29 22:36:49,395 | tts | INFO | TTS selesai | response_2304_audio04.wav | latency=30.99s
+2026-05-29 22:37:37,656 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-29 22:38:44,392 | tts | INFO | TTS selesai | response_2304_audio05.wav | latency=66.74s
+2026-05-29 22:39:20,568 | tts | INFO | Synthesizing | lang=en | text="The most efficient way is the Haramain High Speed Railway, w"
+2026-05-29 22:39:47,303 | tts | INFO | TTS selesai | response_2304_audio06.wav | latency=26.74s
+2026-05-29 22:40:27,948 | tts | INFO | Synthesizing | lang=id | text="Sebaiknya mendarat di Madinah terlebih dahulu agar perjalana"
+2026-05-29 22:40:31,062 | tts | INFO | TTS selesai | response_2304_audio07.wav | latency=3.11s
+2026-05-29 22:41:04,912 | tts | INFO | Synthesizing | lang=id | text="Puasa Ramadan wajib karena merupakan salah satu rukun Islam "
+2026-05-29 22:41:07,915 | tts | INFO | TTS selesai | response_2304_audio11.wav | latency=3.0s
+2026-05-29 22:41:54,168 | tts | INFO | Synthesizing | lang=id | text="Siapkan dokumen penting seperti paspor dan visa, serta pakai"
+2026-05-29 22:41:57,294 | tts | INFO | TTS selesai | response_2304_audio15.wav | latency=3.13s
+2026-05-29 22:42:36,462 | tts | INFO | Synthesizing | lang=en | text="Start by making a simple checklist for your documents and es"
+2026-05-29 22:43:00,128 | tts | INFO | TTS selesai | response_2304_audio18.wav | latency=23.67s
+2026-05-29 22:43:41,250 | tts | INFO | Synthesizing | lang=id | text="Bisa banget! Tolong infokan kota keberangkatan dan tanggal p"
+2026-05-29 22:43:43,284 | tts | INFO | TTS selesai | response_2306_Audio01.wav | latency=2.03s
+2026-05-29 22:44:20,498 | tts | INFO | Synthesizing | lang=en | text="I recommend choosing a "Regular Umrah" package since they ty"
+2026-05-29 22:44:45,075 | tts | INFO | TTS selesai | response_2306_Audio02.wav | latency=24.58s
+2026-05-29 22:45:29,516 | tts | INFO | Synthesizing | lang=id | text="Kamu bisa booking tiket Haramain High Speed Railway secara o"
+2026-05-29 22:45:32,559 | tts | INFO | TTS selesai | response_2306_Audio03.wav | latency=3.04s
+2026-05-29 22:46:15,292 | tts | INFO | Synthesizing | lang=en | text="First, choose between a tourist visa via the official Nusuk "
+2026-05-29 22:46:50,062 | tts | INFO | TTS selesai | response_2306_Audio04.wav | latency=34.77s
+2026-05-29 22:47:33,425 | tts | INFO | Synthesizing | lang=en | text="I can definitely help you find the best flight schedule and "
+2026-05-29 22:47:55,000 | tts | INFO | TTS selesai | response_2306_Audio05.wav | latency=21.58s
+2026-05-29 22:48:41,009 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-29 22:49:36,709 | tts | INFO | TTS selesai | response_2306_Audio06.wav | latency=55.7s
+2026-05-29 22:50:12,761 | tts | INFO | Synthesizing | lang=id | text="Puasa Ramadan wajib karena merupakan salah satu rukun Islam "
+2026-05-29 22:50:15,861 | tts | INFO | TTS selesai | response_2306_Audio11.wav | latency=3.1s
+2026-05-29 22:50:52,839 | tts | INFO | Synthesizing | lang=id | text="Kamu bisa mengurusnya melalui agen travel umrah resmi (PPIU)"
+2026-05-29 22:50:56,260 | tts | INFO | TTS selesai | response_2306_Audio12.wav | latency=3.42s
+2026-05-29 22:51:34,888 | tts | INFO | Synthesizing | lang=id | text="Buka aplikasi travel atau situs resmi maskapai, lalu masukka"
+2026-05-29 22:51:39,412 | tts | INFO | TTS selesai | response_2306_Audio13.wav | latency=4.52s
+2026-05-29 22:52:21,724 | tts | INFO | Synthesizing | lang=en | text="Ensure your passport is valid for at least six months and yo"
+2026-05-29 22:52:52,392 | tts | INFO | TTS selesai | response_2306_Audio14.wav | latency=30.67s
+2026-05-29 22:53:38,485 | tts | INFO | Synthesizing | lang=id | text="Siapkan dokumen penting seperti paspor, visa, dan sertifikat"
+2026-05-29 22:53:42,224 | tts | INFO | TTS selesai | response_2306_Audio15.wav | latency=3.74s
+2026-05-29 22:54:17,296 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu carikan jadwal penerbangannya. Tolong"
+2026-05-29 22:54:19,721 | tts | INFO | TTS selesai | response_2307_audio01.wav | latency=2.43s
+2026-05-29 22:54:56,208 | tts | INFO | Synthesizing | lang=en | text="You should look for "Economy Umrah Packages" as they are str"
+2026-05-29 22:55:24,820 | tts | INFO | TTS selesai | response_2307_audio02.wav | latency=28.61s
+2026-05-29 22:56:02,278 | tts | INFO | Synthesizing | lang=id | text="Tentu, kamu bisa memesan tiket kereta cepat Haramain High Sp"
+2026-05-29 22:56:05,977 | tts | INFO | TTS selesai | response_2307_audio03.wav | latency=3.7s
+2026-05-29 22:56:50,025 | tts | INFO | Synthesizing | lang=en | text="You can apply through the official Nusuk platform or the KSA"
+2026-05-29 22:57:27,927 | tts | INFO | TTS selesai | response_2307_audio04.wav | latency=37.9s
+2026-05-29 22:58:22,706 | tts | INFO | Synthesizing | lang=ar | text="Na'am, tabi'an! Saya bisa bantu carikan jadwal flight terbai"
+2026-05-29 22:59:03,581 | tts | INFO | TTS selesai | response_2307_audio05.wav | latency=40.88s
+2026-05-29 22:59:48,670 | tts | INFO | Synthesizing | lang=en | text="You can book the Haramain High-Speed Railway for a fast and "
+2026-05-29 23:00:11,093 | tts | INFO | TTS selesai | response_2307_audio06.wav | latency=22.42s
+2026-05-29 23:00:54,926 | tts | INFO | Synthesizing | lang=id | text="Sebaiknya landing di Jeddah pagi hari agar bisa langsung lan"
+2026-05-29 23:00:57,845 | tts | INFO | TTS selesai | response_2307_audio07.wav | latency=2.92s
+2026-05-29 23:01:38,133 | tts | INFO | Synthesizing | lang=id | text="Haji wajib dilakukan pada waktu tertentu di bulan Dzulhijjah"
+2026-05-29 23:01:41,953 | tts | INFO | TTS selesai | response_2307_audio10.wav | latency=3.82s
+2026-05-29 23:02:24,723 | tts | INFO | Synthesizing | lang=id | text="Siapkan dokumen wajib seperti paspor, visa, dan bukti vaksin"
+2026-05-29 23:02:29,024 | tts | INFO | TTS selesai | response_2307_audio15.wav | latency=4.3s
+2026-05-29 23:03:08,348 | tts | INFO | Synthesizing | lang=id | text="Tidak terlalu susah kok, asalkan kamu mulai dari kosakata da"
+2026-05-29 23:03:11,318 | tts | INFO | TTS selesai | response_2307_audio17.wav | latency=2.97s
+2026-05-29 23:03:48,900 | tts | INFO | Synthesizing | lang=id | text="Tentu, aku bisa bantu carikan jadwalnya. Tolong infokan tang"
+2026-05-29 23:03:51,331 | tts | INFO | TTS selesai | response_2308_audio01.wav | latency=2.43s
+2026-05-29 23:04:32,318 | tts | INFO | Synthesizing | lang=en | text="I recommend looking for "Umrah Regular Plus Madinah" package"
+2026-05-29 23:05:00,594 | tts | INFO | TTS selesai | response_2308_audio02.wav | latency=28.28s
+2026-05-29 23:05:39,089 | tts | INFO | Synthesizing | lang=en | text="You can book the Haramain High-Speed Railway online through "
+2026-05-29 23:06:01,615 | tts | INFO | TTS selesai | response_2308_audio03.wav | latency=22.53s
+2026-05-29 23:06:47,218 | tts | INFO | Synthesizing | lang=en | text="First, visit the official KSA Visa portal or Nusuk app to fi"
+2026-05-29 23:07:21,021 | tts | INFO | TTS selesai | response_2308_audio04.wav | latency=33.8s
+2026-05-29 23:08:07,463 | tts | INFO | Synthesizing | lang=ar | text="أبشر يا أخي، يمكنني مساعدتك في ذلك. من فضلك زودني بمدينة الإ"
+2026-05-29 23:08:35,833 | tts | INFO | TTS selesai | response_2308_audio05.wav | latency=28.37s
+2026-05-29 23:09:27,136 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-29 23:10:34,796 | tts | INFO | TTS selesai | response_2308_audio06.wav | latency=67.66s
+2026-05-29 23:11:11,884 | tts | INFO | Synthesizing | lang=id | text="Kamu bisa mengurusnya melalui agen travel resmi yang terdaft"
+2026-05-29 23:11:15,443 | tts | INFO | TTS selesai | response_2308_audio12.wav | latency=3.56s
+2026-05-29 23:11:49,158 | tts | INFO | Synthesizing | lang=id | text="Buka aplikasi atau website maskapai dan masukkan kota asal s"
+2026-05-29 23:11:53,131 | tts | INFO | TTS selesai | response_2308_audio13.wav | latency=3.97s
+2026-05-29 23:12:30,491 | tts | INFO | Synthesizing | lang=id | text="Siapkan dokumen penting seperti paspor dan visa, serta pakai"
+2026-05-29 23:12:34,080 | tts | INFO | TTS selesai | response_2308_audio15.wav | latency=3.59s
+2026-05-29 23:13:12,009 | tts | INFO | Synthesizing | lang=id | text="Tidak susah kok, asalkan kamu mulai dari kosakata dasar yang"
+2026-05-29 23:13:14,602 | tts | INFO | TTS selesai | response_2308_audio17.wav | latency=2.59s
+2026-05-29 23:13:51,941 | tts | INFO | Synthesizing | lang=id | text="Boleh, silakan infokan kota asal dan tanggal pastinya minggu"
+2026-05-29 23:13:54,172 | tts | INFO | TTS selesai | response_2309_audio01.wav | latency=2.23s
+2026-05-29 23:14:32,799 | tts | INFO | Synthesizing | lang=en | text="I recommend choosing an "Umrah Regular" package, as these ty"
+2026-05-29 23:14:58,515 | tts | INFO | TTS selesai | response_2309_audio02.wav | latency=25.72s
+2026-05-29 23:15:35,065 | tts | INFO | Synthesizing | lang=en | text="You can book the Haramain High Speed Railway online for a fa"
+2026-05-29 23:16:00,915 | tts | INFO | TTS selesai | response_2309_audio03.wav | latency=25.85s
+2026-05-29 23:16:35,989 | tts | INFO | Synthesizing | lang=en | text="You can apply through the Nusuk platform or a licensed trave"
+2026-05-29 23:16:59,676 | tts | INFO | TTS selesai | response_2309_audio04.wav | latency=23.69s
+2026-05-29 23:17:53,773 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-29 23:18:52,055 | tts | INFO | TTS selesai | response_2309_audio05.wav | latency=58.28s
+2026-05-29 23:19:39,185 | tts | INFO | Synthesizing | lang=ar | text="يمكنك حجز سيارة فوراً عبر تطبيق Careem أو Uber، أو التوجه مب"
+2026-05-29 23:20:04,737 | tts | INFO | TTS selesai | response_2309_audio06.wav | latency=25.55s
+2026-05-29 23:20:53,015 | tts | INFO | Synthesizing | lang=id | text="Kamu bisa naik Haramain High Speed Railway untuk perjalanan "
+2026-05-29 23:20:57,053 | tts | INFO | TTS selesai | response_2309_audio08.wav | latency=4.04s
+2026-05-29 23:21:43,023 | tts | INFO | Synthesizing | lang=id | text="Kamu bisa mengurus visa melalui agen travel resmi (PPIU) ata"
+2026-05-29 23:21:46,800 | tts | INFO | TTS selesai | response_2309_audio12.wav | latency=3.78s
+2026-05-29 23:22:31,274 | tts | INFO | Synthesizing | lang=id | text="Siapkan dokumen utama seperti paspor, visa, dan sertifikat v"
+2026-05-29 23:22:35,342 | tts | INFO | TTS selesai | response_2309_audio15.wav | latency=4.07s
+2026-05-29 23:23:11,854 | tts | INFO | Synthesizing | lang=id | text="Tidak susah kok, asalkan kamu mulai dari kosakata dasar dan "
+2026-05-29 23:23:14,836 | tts | INFO | TTS selesai | response_2309_audio17.wav | latency=2.98s
+2026-05-29 23:23:49,345 | tts | INFO | Synthesizing | lang=id | text="Bisa banget, silakan beri tahu kota asal dan tujuanmu untuk "
+2026-05-29 23:23:51,844 | tts | INFO | TTS selesai | response_2310_Audio01.wav | latency=2.5s
+2026-05-29 23:24:29,490 | tts | INFO | Synthesizing | lang=en | text="You should look for a "Regular Umrah" package, as these typi"
+2026-05-29 23:24:54,672 | tts | INFO | TTS selesai | response_2310_Audio02.wav | latency=25.18s
+2026-05-29 23:25:31,345 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya sarankan menggunakan kereta cepat Haramain High "
+2026-05-29 23:25:35,292 | tts | INFO | TTS selesai | response_2310_Audio03.wav | latency=3.95s
+2026-05-29 23:26:18,688 | tts | INFO | Synthesizing | lang=en | text="You can apply for a tourist visa through the official KSA vi"
+2026-05-29 23:26:49,583 | tts | INFO | TTS selesai | response_2310_Audio04.wav | latency=30.9s
+2026-05-29 23:27:41,579 | tts | INFO | Synthesizing | lang=en | text="Certainly, I can help you find the best direct flight schedu"
+2026-05-29 23:28:01,097 | tts | INFO | TTS selesai | response_2310_Audio05.wav | latency=19.52s
+2026-05-29 23:28:46,736 | tts | INFO | Synthesizing | lang=en | text="Role: Friendly Umrah and Hajj travel assistant.
+Language Pro"
+2026-05-29 23:29:51,598 | tts | INFO | TTS selesai | response_2310_Audio06.wav | latency=64.86s
+2026-05-29 23:30:37,524 | tts | INFO | Synthesizing | lang=id | text="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-29 23:30:44,263 | tts | INFO | TTS selesai | response_2310_Audio07.wav | latency=6.74s
+2026-05-29 23:31:22,785 | tts | INFO | Synthesizing | lang=id | text="Puasa Ramadan itu wajib karena merupakan salah satu dari lim"
+2026-05-29 23:31:25,894 | tts | INFO | TTS selesai | response_2310_Audio11.wav | latency=3.11s
+2026-05-29 23:32:06,203 | tts | INFO | Synthesizing | lang=en | text="Make sure your passport has at least six months of validity "
+2026-05-29 23:32:34,688 | tts | INFO | TTS selesai | response_2310_Audio14.wav | latency=28.48s
+2026-05-29 23:33:37,544 | tts | INFO | Synthesizing | lang=id | text="Siap, mari kita berangkat! Segera siapkan dokumen dan perlen"
+2026-05-29 23:33:39,371 | tts | INFO | TTS selesai | response_2310_Audio20.wav | latency=1.83s
+2026-05-29 23:34:12,257 | tts | INFO | Synthesizing | lang=id | text="Bisa banget! Tolong infokan kota keberangkatan dan tanggal p"
+2026-05-29 23:34:13,989 | tts | INFO | TTS selesai | response_2311_audio01.wav | latency=1.73s
+2026-05-29 23:34:52,604 | tts | INFO | Synthesizing | lang=en | text="I recommend looking for "Umrah Plus Madinah" packages that i"
+2026-05-29 23:35:25,449 | tts | INFO | TTS selesai | response_2311_audio02.wav | latency=32.85s
+2026-05-29 23:36:00,560 | tts | INFO | Synthesizing | lang=id | text="Tentu, kamu bisa pilih naik kereta cepat Haramain High Speed"
+2026-05-29 23:36:03,124 | tts | INFO | TTS selesai | response_2311_audio03.wav | latency=2.56s
+2026-05-29 23:36:42,481 | tts | INFO | Synthesizing | lang=en | text="First, visit the official KSA Visa portal or the Nusuk app t"
+2026-05-29 23:37:10,781 | tts | INFO | TTS selesai | response_2311_audio04.wav | latency=28.3s
+2026-05-29 23:37:51,602 | tts | INFO | Synthesizing | lang=en | text="I can certainly help you find the best direct flight schedul"
+2026-05-29 23:38:10,535 | tts | INFO | TTS selesai | response_2311_audio05.wav | latency=18.93s
+2026-05-29 23:38:55,399 | tts | INFO | Synthesizing | lang=en | text="You can take the Haramain High Speed Railway for a fast and "
+2026-05-29 23:39:17,030 | tts | INFO | TTS selesai | response_2311_audio06.wav | latency=21.63s
+2026-05-29 23:39:58,170 | tts | INFO | Synthesizing | lang=en | text="I will check the transport options from Makkah to Madinah fo"
+2026-05-29 23:40:20,531 | tts | INFO | TTS selesai | response_2311_audio09.wav | latency=22.36s
+2026-05-29 23:41:03,604 | tts | INFO | Synthesizing | lang=id | text="Kamu bisa mengurus visa melalui biro perjalanan umrah (PPIU)"
+2026-05-29 23:41:06,923 | tts | INFO | TTS selesai | response_2311_audio12.wav | latency=3.32s
+2026-05-29 23:41:47,535 | tts | INFO | Synthesizing | lang=en | text="Make sure your passport is valid for at least six months and"
+2026-05-29 23:42:11,129 | tts | INFO | TTS selesai | response_2311_audio14.wav | latency=23.59s
+2026-05-29 23:42:52,297 | tts | INFO | Synthesizing | lang=id | text="Tidak susah kok, asalkan kamu mulai dari kosa kata dasar yan"
+2026-05-29 23:42:55,589 | tts | INFO | TTS selesai | response_2311_audio17.wav | latency=3.29s
+2026-05-29 23:43:29,935 | tts | INFO | Synthesizing | lang=id | text="Tentu, aku bisa bantu carikan jadwalnya. Tolong infokan tang"
+2026-05-29 23:43:32,247 | tts | INFO | TTS selesai | response_2312_audio1.wav | latency=2.31s
+2026-05-29 23:44:16,018 | tts | INFO | Synthesizing | lang=id | text="Kamu bisa pilih paket umrah reguler yang sudah termasuk prog"
+2026-05-29 23:44:18,652 | tts | INFO | TTS selesai | response_2312_audio2.wav | latency=2.63s
+2026-05-29 23:44:57,581 | tts | INFO | Synthesizing | lang=id | text="Tentu, Anda bisa memilih menggunakan kereta cepat Haramain a"
+2026-05-29 23:45:00,858 | tts | INFO | TTS selesai | response_2312_audio3.wav | latency=3.28s
+2026-05-29 23:45:40,602 | tts | INFO | Synthesizing | lang=en | text="Visit the official Saudi visa portal or use the Nusuk app to"
+2026-05-29 23:46:08,989 | tts | INFO | TTS selesai | response_2312_audio4.wav | latency=28.39s
+2026-05-29 23:47:02,824 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-29 23:48:01,447 | tts | INFO | TTS selesai | response_2312_audio5.wav | latency=58.62s
+2026-05-29 23:48:49,840 | tts | INFO | Synthesizing | lang=ar | text="يمكنك حجز قطار الحرمين السريع أو سيارة خاصة لرحلتك من جدة إل"
+2026-05-29 23:49:10,805 | tts | INFO | TTS selesai | response_2312_audio6.wav | latency=20.97s
+2026-05-29 23:49:57,523 | tts | INFO | Synthesizing | lang=id | text="Sebaiknya mendarat langsung di Madinah terlebih dahulu agar "
+2026-05-29 23:50:01,443 | tts | INFO | TTS selesai | response_2312_audio7.wav | latency=3.92s
+2026-05-29 23:50:41,867 | tts | INFO | Synthesizing | lang=id | text="Puasa Ramadan wajib karena merupakan salah satu rukun Islam "
+2026-05-29 23:50:45,203 | tts | INFO | TTS selesai | response_2312_audio11.wav | latency=3.34s
+2026-05-29 23:51:29,329 | tts | INFO | Synthesizing | lang=id | text="Siapkan dokumen penting seperti paspor dan visa, pakaian ihr"
+2026-05-29 23:51:33,895 | tts | INFO | TTS selesai | response_2312_audio15.wav | latency=4.57s
+2026-05-29 23:52:09,830 | tts | INFO | Synthesizing | lang=id | text="Pertama, pastikan paspor Anda masih berlaku minimal enam bul"
+2026-05-29 23:52:12,741 | tts | INFO | TTS selesai | response_2312_audio19.wav | latency=2.91s
+2026-05-29 23:52:49,297 | tts | INFO | Synthesizing | lang=id | text="Bahasa Inggrisnya adalah "I want to go to Makkah next week" "
+2026-05-29 23:52:50,516 | tts | INFO | TTS selesai | response_2312_audio20.wav | latency=1.22s
+2026-05-29 23:53:29,431 | tts | INFO | Synthesizing | lang=id | text="Tentu, aku bisa bantu buatkan jadwal penerbangan ke Jeddah u"
+2026-05-29 23:53:31,979 | tts | INFO | TTS selesai | response_2318_audio01.wav | latency=2.55s
+2026-05-29 23:54:22,595 | tts | INFO | Synthesizing | lang=en | text="Role: Friendly Umrah and Hajj travel assistant.
+Language Ski"
+2026-05-29 23:55:30,145 | tts | INFO | TTS selesai | response_2318_audio02.wav | latency=67.55s
+2026-05-29 23:56:09,444 | tts | INFO | Synthesizing | lang=id | text="Kamu bisa pesan tiket Haramain High Speed Railway secara onl"
+2026-05-29 23:56:12,195 | tts | INFO | TTS selesai | response_2318_audio03.wav | latency=2.75s
+2026-05-29 23:57:02,696 | tts | INFO | Synthesizing | lang=en | text="Role: Friendly Umrah and Hajj travel assistant.
+Language Ski"
+2026-05-29 23:58:15,387 | tts | INFO | TTS selesai | response_2318_audio04.wav | latency=72.69s
+2026-05-29 23:59:03,432 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 00:00:14,304 | tts | INFO | TTS selesai | response_2318_audio05.wav | latency=70.87s
+2026-05-30 00:00:57,302 | tts | INFO | Synthesizing | lang=ar | text="يمكنك حجز قطار الحرمين السريع أو سيارة خاصة عبر تطبيقات Care"
+2026-05-30 00:01:21,913 | tts | INFO | TTS selesai | response_2318_audio06.wav | latency=24.61s
+2026-05-30 00:02:07,756 | tts | INFO | Synthesizing | lang=ar | text="Role: Umrah and Hajj travel assistant (friendly).
+Skills: Un"
+2026-05-30 00:03:25,455 | tts | INFO | TTS selesai | response_2318_audio09.wav | latency=77.7s
+2026-05-30 00:04:07,873 | tts | INFO | Synthesizing | lang=id | text="Haji wajib dilaksanakan pada waktu tertentu di bulan Dzulhij"
+2026-05-30 00:04:11,719 | tts | INFO | TTS selesai | response_2318_audio10.wav | latency=3.85s
+2026-05-30 00:04:47,085 | tts | INFO | Synthesizing | lang=id | text="Buka website maskapai atau aplikasi travel favorit, lalu mas"
+2026-05-30 00:04:50,985 | tts | INFO | TTS selesai | response_2318_audio13.wav | latency=3.9s
+2026-05-30 00:05:26,517 | tts | INFO | Synthesizing | lang=id | text="Mulailah dengan menentukan budget dan waktu keberangkatan ya"
+2026-05-30 00:05:29,474 | tts | INFO | TTS selesai | response_2318_audio19.wav | latency=2.96s
+2026-05-30 00:06:07,352 | tts | INFO | Synthesizing | lang=id | text="Bisa banget! Tolong beri tahu tanggal pasti dan preferensi m"
+2026-05-30 00:06:09,243 | tts | INFO | TTS selesai | response_2319_Audio1.wav | latency=1.89s
+2026-05-30 00:06:47,312 | tts | INFO | Synthesizing | lang=en | text="You should look for an Umrah Reguler package, as most standa"
+2026-05-30 00:07:13,403 | tts | INFO | TTS selesai | response_2319_Audio2.wav | latency=26.09s
+2026-05-30 00:08:04,159 | tts | INFO | Synthesizing | lang=en | text="Role: Friendly Umrah and Hajj travel assistant.
+Skill: Under"
+2026-05-30 00:09:14,645 | tts | INFO | TTS selesai | response_2319_Audio3.wav | latency=70.49s
+2026-05-30 00:09:58,328 | tts | INFO | Synthesizing | lang=en | text="Visit the official Nusuk platform or a certified travel agen"
+2026-05-30 00:10:28,553 | tts | INFO | TTS selesai | response_2319_Audio4.wav | latency=30.22s
+2026-05-30 00:11:16,505 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-30 00:12:31,446 | tts | INFO | TTS selesai | response_2319_Audio5.wav | latency=74.94s
+2026-05-30 00:13:20,428 | tts | INFO | Synthesizing | lang=ar | text="يمكنك حجز قطار الحرمين السريع لرحلة مريحة وسريعة، أو استئجار"
+2026-05-30 00:13:46,774 | tts | INFO | TTS selesai | response_2319_Audio6.wav | latency=26.35s
+2026-05-30 00:14:35,915 | tts | INFO | Synthesizing | lang=id | text="Haji wajib dilaksanakan pada waktu tertentu di bulan Dzulhij"
+2026-05-30 00:14:39,850 | tts | INFO | TTS selesai | response_2319_Audio10.wav | latency=3.93s
+2026-05-30 00:15:25,687 | tts | INFO | Synthesizing | lang=id | text="Buka aplikasi atau website travel favorit, lalu masukkan rut"
+2026-05-30 00:15:29,493 | tts | INFO | TTS selesai | response_2319_Audio13.wav | latency=3.81s
+2026-05-30 00:16:12,264 | tts | INFO | Synthesizing | lang=id | text="Fokus cari hotel di area Misfalah atau Aziziyah karena harga"
+2026-05-30 00:16:15,833 | tts | INFO | TTS selesai | response_2319_Audio16.wav | latency=3.57s
+2026-05-30 00:16:52,206 | tts | INFO | Synthesizing | lang=id | text="Mulailah dengan menentukan budget dan memutuskan apakah ingi"
+2026-05-30 00:16:55,311 | tts | INFO | TTS selesai | response_2319_Audio19.wav | latency=3.11s
+2026-05-30 00:17:30,708 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu atur jadwalnya. Boleh tolong infokan "
+2026-05-30 00:17:33,408 | tts | INFO | TTS selesai | response_2323_audio01.wav | latency=2.7s
+2026-05-30 00:18:24,259 | tts | INFO | Synthesizing | lang=en | text="I recommend choosing an "Umrah Plus Madinah" package"
+2026-05-30 00:18:30,971 | tts | INFO | TTS selesai | response_2323_audio02.wav | latency=6.71s
+2026-05-30 00:19:07,009 | tts | INFO | Synthesizing | lang=en | text="The fastest way is to book the Haramain High Speed Railway t"
+2026-05-30 00:19:27,423 | tts | INFO | TTS selesai | response_2323_audio03.wav | latency=20.41s
+2026-05-30 00:20:02,946 | tts | INFO | Synthesizing | lang=en | text="First, visit the official Nusuk or Saudi Visa platform to re"
+2026-05-30 00:20:30,868 | tts | INFO | TTS selesai | response_2323_audio04.wav | latency=27.92s
+2026-05-30 00:21:19,474 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-30 00:22:20,048 | tts | INFO | TTS selesai | response_2323_audio05.wav | latency=60.57s
+2026-05-30 00:22:56,237 | tts | INFO | Synthesizing | lang=en | text="You can book the Haramain High Speed Railway for a fast and "
+2026-05-30 00:23:15,920 | tts | INFO | TTS selesai | response_2323_audio06.wav | latency=19.68s
+2026-05-30 00:23:59,623 | tts | INFO | Synthesizing | lang=id | text="Buka website maskapai atau aplikasi travel, masukkan kota as"
+2026-05-30 00:24:03,168 | tts | INFO | TTS selesai | response_2323_audio13.wav | latency=3.54s
+2026-05-30 00:24:41,375 | tts | INFO | Synthesizing | lang=en | text="Ensure your passport is valid for at least six months and pr"
+2026-05-30 00:25:06,817 | tts | INFO | TTS selesai | response_2323_audio14.wav | latency=25.44s
+2026-05-30 00:25:51,373 | tts | INFO | Synthesizing | lang=id | text="Siapkan dokumen penting seperti paspor, visa, dan sertifikat"
+2026-05-30 00:25:55,974 | tts | INFO | TTS selesai | response_2323_audio15.wav | latency=4.6s
+2026-05-30 00:26:36,298 | tts | INFO | Synthesizing | lang=id | text="Cari hotel di area Mahbas Jin atau Aziziyah yang menyediakan"
+2026-05-30 00:26:39,532 | tts | INFO | TTS selesai | response_2323_audio16.wav | latency=3.23s
+2026-05-30 00:27:17,618 | tts | INFO | Synthesizing | lang=en | text="Start by making a simple checklist of your essentials like I"
+2026-05-30 00:27:40,678 | tts | INFO | TTS selesai | response_2323_audio18.wav | latency=23.06s
+2026-05-30 00:28:14,911 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu carikan opsi jadwal penerbangan ke Je"
+2026-05-30 00:28:17,569 | tts | INFO | TTS selesai | response_2325_audio1.wav | latency=2.66s
+2026-05-30 00:29:01,810 | tts | INFO | Synthesizing | lang=id | text="Kamu bisa memilih paket Umrah Reguler karena biasanya sudah "
+2026-05-30 00:29:04,918 | tts | INFO | TTS selesai | response_2325_audio2.wav | latency=3.11s
+2026-05-30 00:29:44,204 | tts | INFO | Synthesizing | lang=en | text="You can book the Haramain High Speed Railway online for a fa"
+2026-05-30 00:30:09,076 | tts | INFO | TTS selesai | response_2325_audio3.wav | latency=24.87s
+2026-05-30 00:30:52,918 | tts | INFO | Synthesizing | lang=en | text="You can apply through the official Nusuk platform or a regis"
+2026-05-30 00:31:17,155 | tts | INFO | TTS selesai | response_2325_audio4.wav | latency=24.24s
+2026-05-30 00:32:05,348 | tts | INFO | Synthesizing | lang=ar | text="يمكنك استخدام تطبيقات مثل Skyscanner أو Wego للبحث عن أفضل ا"
+2026-05-30 00:32:29,484 | tts | INFO | TTS selesai | response_2325_audio5.wav | latency=24.14s
+2026-05-30 00:33:13,922 | tts | INFO | Synthesizing | lang=en | text="Please contact your travel agent or the transport provider i"
+2026-05-30 00:33:35,785 | tts | INFO | TTS selesai | response_2325_audio6.wav | latency=21.86s
+2026-05-30 00:34:22,726 | tts | INFO | Synthesizing | lang=id | text="Pilihlah jadwal penerbangan yang tiba di Jeddah pada pagi ha"
+2026-05-30 00:34:25,953 | tts | INFO | TTS selesai | response_2325_audio7.wav | latency=3.23s
+2026-05-30 00:35:10,352 | tts | INFO | Synthesizing | lang=id | text="Haji adalah rukun Islam yang wajib dilaksanakan pada waktu t"
+2026-05-30 00:35:14,642 | tts | INFO | TTS selesai | response_2325_audio8.wav | latency=4.29s
+2026-05-30 00:36:00,324 | tts | INFO | Synthesizing | lang=en | text="Make sure your passport is valid for at least six months and"
+2026-05-30 00:36:32,759 | tts | INFO | TTS selesai | response_2325_audio9.wav | latency=32.43s
+2026-05-30 00:37:05,966 | tts | INFO | Synthesizing | lang=en | text="Don't worry, just start by making a simple checklist for you"
+2026-05-30 00:37:27,452 | tts | INFO | TTS selesai | response_2325_audio10.wav | latency=21.49s
+2026-05-30 00:38:04,998 | tts | INFO | Synthesizing | lang=id | text="Tentu, bisa banget. Tolong infokan tanggal pasti dan prefere"
+2026-05-30 00:38:07,194 | tts | INFO | TTS selesai | response_2326_audio01.wav | latency=2.2s
+2026-05-30 00:38:47,951 | tts | INFO | Synthesizing | lang=en | text="You should look for a "Standard Umrah" package that explicit"
+2026-05-30 00:39:13,663 | tts | INFO | TTS selesai | response_2326_audio02.wav | latency=25.71s
+2026-05-30 00:39:55,848 | tts | INFO | Synthesizing | lang=en | text="You can book the Haramain High-Speed Railway online via thei"
+2026-05-30 00:40:24,465 | tts | INFO | TTS selesai | response_2326_audio03.wav | latency=28.62s
+2026-05-30 00:40:57,903 | tts | INFO | Synthesizing | lang=en | text="First, choose your visa type and visit the official Nusuk pl"
+2026-05-30 00:41:26,142 | tts | INFO | TTS selesai | response_2326_audio04.wav | latency=28.24s
+2026-05-30 00:42:14,600 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-30 00:43:27,753 | tts | INFO | TTS selesai | response_2326_audio05.wav | latency=73.15s
+2026-05-30 00:44:13,387 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 00:45:25,586 | tts | INFO | TTS selesai | response_2326_audio06.wav | latency=72.2s
+2026-05-30 00:46:03,160 | tts | INFO | Synthesizing | lang=id | text="Sebaiknya mendarat di Jeddah pagi hari agar bisa langsung na"
+2026-05-30 00:46:05,969 | tts | INFO | TTS selesai | response_2326_audio07.wav | latency=2.81s
+2026-05-30 00:46:45,350 | tts | INFO | Synthesizing | lang=id | text="Puasa Ramadan itu wajib karena merupakan salah satu dari lim"
+2026-05-30 00:46:48,632 | tts | INFO | TTS selesai | response_2326_audio11.wav | latency=3.28s
+2026-05-30 00:47:34,295 | tts | INFO | Synthesizing | lang=id | text="Buka aplikasi travel atau situs maskapai, lalu masukkan kota"
+2026-05-30 00:47:38,340 | tts | INFO | TTS selesai | response_2326_audio13.wav | latency=4.04s
+2026-05-30 00:48:14,941 | tts | INFO | Synthesizing | lang=id | text="Belajar bahasa Arab itu menantang, tapi sangat bisa dilakuka"
+2026-05-30 00:48:18,186 | tts | INFO | TTS selesai | response_2326_audio17.wav | latency=3.24s
+2026-05-30 00:48:51,099 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu carikan jadwalnya. Tolong infokan kot"
+2026-05-30 00:48:53,393 | tts | INFO | TTS selesai | response_2330_audio01.wav | latency=2.29s
+2026-05-30 00:49:31,547 | tts | INFO | Synthesizing | lang=en | text="You should look for "Umrah Regular" or "Economy" packages, a"
+2026-05-30 00:50:00,675 | tts | INFO | TTS selesai | response_2330_audio02.wav | latency=29.13s
+2026-05-30 00:50:33,374 | tts | INFO | Synthesizing | lang=en | text="I recommend booking the Haramain High-Speed Railway for a fa"
+2026-05-30 00:50:56,215 | tts | INFO | TTS selesai | response_2330_audio03.wav | latency=22.84s
+2026-05-30 00:51:32,548 | tts | INFO | Synthesizing | lang=en | text="You can apply through the official Nusuk platform or a regis"
+2026-05-30 00:51:56,960 | tts | INFO | TTS selesai | response_2330_audio04.wav | latency=24.41s
+2026-05-30 00:52:45,586 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah/Hajj travel assistant.
+Skills: Code-swi"
+2026-05-30 00:53:54,905 | tts | INFO | TTS selesai | response_2330_audio05.wav | latency=69.32s
+2026-05-30 00:54:37,253 | tts | INFO | Synthesizing | lang=ar | text="يمكنك حجز قطار الحرمين السريع عبر الموقع الإلكتروني لضمان مق"
+2026-05-30 00:55:00,893 | tts | INFO | TTS selesai | response_2330_audio06.wav | latency=23.64s
+2026-05-30 00:55:47,055 | tts | INFO | Synthesizing | lang=id | text="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 00:55:52,875 | tts | INFO | TTS selesai | response_2330_audio07.wav | latency=5.82s
+2026-05-30 00:56:28,934 | tts | INFO | Synthesizing | lang=id | text="Kamu bisa mengurusnya melalui travel agent resmi (PPIU) atau"
+2026-05-30 00:56:32,143 | tts | INFO | TTS selesai | response_2330_audio12.wav | latency=3.21s
+2026-05-30 00:57:09,487 | tts | INFO | Synthesizing | lang=en | text="Ensure your passport is valid for at least six months and pr"
+2026-05-30 00:57:35,386 | tts | INFO | TTS selesai | response_2330_audio14.wav | latency=25.9s
+2026-05-30 00:58:21,681 | tts | INFO | Synthesizing | lang=id | text="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 00:58:27,124 | tts | INFO | TTS selesai | response_2330_audio15.wav | latency=5.44s
+2026-05-30 00:59:02,835 | tts | INFO | Synthesizing | lang=id | text="Belajar Bahasa Arab itu menantang tapi sangat mungkin dilaku"
+2026-05-30 00:59:06,169 | tts | INFO | TTS selesai | response_2330_audio17.wav | latency=3.33s
+2026-05-30 00:59:46,294 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu carikan jadwal flight yang tersedia. "
+2026-05-30 00:59:48,696 | tts | INFO | TTS selesai | response_2331_audio01.wav | latency=2.4s
+2026-05-30 01:00:26,821 | tts | INFO | Synthesizing | lang=en | text="I recommend looking for a standard Umrah package that specif"
+2026-05-30 01:00:52,214 | tts | INFO | TTS selesai | response_2331_audio02.wav | latency=25.39s
+2026-05-30 01:01:28,141 | tts | INFO | Synthesizing | lang=en | text="I recommend booking the Haramain High Speed Railway online v"
+2026-05-30 01:01:53,509 | tts | INFO | TTS selesai | response_2331_audio03.wav | latency=25.37s
+2026-05-30 01:02:28,780 | tts | INFO | Synthesizing | lang=en | text="You can apply through the official KSA Visa portal or via a "
+2026-05-30 01:02:54,660 | tts | INFO | TTS selesai | response_2331_audio04.wav | latency=25.88s
+2026-05-30 01:03:35,643 | tts | INFO | Synthesizing | lang=en | text="I can definitely help you find the best flight schedules to "
+2026-05-30 01:03:54,017 | tts | INFO | TTS selesai | response_2331_audio05.wav | latency=18.37s
+2026-05-30 01:04:44,764 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Language ski"
+2026-05-30 01:05:49,609 | tts | INFO | TTS selesai | response_2331_audio06.wav | latency=64.84s
+2026-05-30 01:06:33,417 | tts | INFO | Synthesizing | lang=id | text="Haji wajib dilaksanakan pada waktu tertentu di bulan Dzulhij"
+2026-05-30 01:06:36,982 | tts | INFO | TTS selesai | response_2331_audio10.wav | latency=3.57s
+2026-05-30 01:07:19,013 | tts | INFO | Synthesizing | lang=id | text="Kamu bisa mengurusnya dengan mudah melalui agen travel resmi"
+2026-05-30 01:07:22,388 | tts | INFO | TTS selesai | response_2331_audio12.wav | latency=3.37s
+2026-05-30 01:08:13,145 | tts | INFO | Synthesizing | lang=id | text="Pastikan paspor, visa, sertifikat vaksin, kain ihram atau mu"
+2026-05-30 01:08:17,354 | tts | INFO | TTS selesai | response_2331_audio15.wav | latency=4.21s
+2026-05-30 01:09:00,563 | tts | INFO | Synthesizing | lang=id | text="Tidak susah kok, asalkan kamu fokus pada kosakata harian dan"
+2026-05-30 01:09:03,478 | tts | INFO | TTS selesai | response_2331_audio17.wav | latency=2.92s
+2026-05-30 01:09:36,711 | tts | INFO | Synthesizing | lang=id | text="Tentu, boleh banget! Tolong infokan tanggal keberangkatan da"
+2026-05-30 01:09:39,004 | tts | INFO | TTS selesai | response_2334_audio01.wav | latency=2.29s
+2026-05-30 01:10:17,817 | tts | INFO | Synthesizing | lang=en | text="I recommend choosing a "Regular Umrah" package that explicit"
+2026-05-30 01:10:47,146 | tts | INFO | TTS selesai | response_2334_audio02.wav | latency=29.33s
+2026-05-30 01:11:22,184 | tts | INFO | Synthesizing | lang=en | text="You can book the Haramain High-Speed Railway online via thei"
+2026-05-30 01:11:50,293 | tts | INFO | TTS selesai | response_2334_audio03.wav | latency=28.11s
+2026-05-30 01:12:35,606 | tts | INFO | Synthesizing | lang=en | text="Role: Friendly Umrah and Hajj travel assistant.
+Language cap"
+2026-05-30 01:13:39,662 | tts | INFO | TTS selesai | response_2334_audio04.wav | latency=64.06s
+2026-05-30 01:14:26,333 | tts | INFO | Synthesizing | lang=ar | text="Na'am ya akhi, saya bisa bantu buatkan best schedule untuk U"
+2026-05-30 01:15:09,801 | tts | INFO | TTS selesai | response_2334_audio05.wav | latency=43.47s
+2026-05-30 01:15:55,398 | tts | INFO | Synthesizing | lang=ar | text="يمكنك استئجار سيارة خاصة مع سائق عبر تطبيقات مثل Careem أو ا"
+2026-05-30 01:16:07,599 | tts | INFO | TTS selesai | response_2334_audio06.wav | latency=12.2s
+2026-05-30 01:16:53,665 | tts | INFO | Synthesizing | lang=id | text="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 01:16:59,369 | tts | INFO | TTS selesai | response_2334_audio07.wav | latency=5.7s
+2026-05-30 01:17:37,281 | tts | INFO | Synthesizing | lang=id | text="Kamu bisa mengurusnya melalui agen travel resmi (PPIU) agar "
+2026-05-30 01:17:40,170 | tts | INFO | TTS selesai | response_2334_audio08.wav | latency=2.89s
+2026-05-30 01:18:14,350 | tts | INFO | Synthesizing | lang=en | text="Ensure your passport is valid for at least six months and ob"
+2026-05-30 01:18:45,078 | tts | INFO | TTS selesai | response_2334_audio09.wav | latency=30.73s
+2026-05-30 01:19:23,774 | tts | INFO | Synthesizing | lang=id | text="Tidak terlalu sulit kok, asalkan kamu mulai dari kosakata ha"
+2026-05-30 01:19:26,519 | tts | INFO | TTS selesai | response_2334_audio10.wav | latency=2.75s
+2026-05-30 01:20:00,541 | tts | INFO | Synthesizing | lang=id | text="Tentu, I can help you with that. Silakan infokan kota asal d"
+2026-05-30 01:20:02,604 | tts | INFO | TTS selesai | response_2337_audio01.wav | latency=2.06s
+2026-05-30 01:20:43,059 | tts | INFO | Synthesizing | lang=en | text="You should look for "Umrah Plus Madinah" packages that alrea"
+2026-05-30 01:21:07,835 | tts | INFO | TTS selesai | response_2337_audio02.wav | latency=24.78s
+2026-05-30 01:21:46,321 | tts | INFO | Synthesizing | lang=en | text="You can book the Haramain High-Speed Railway online through "
+2026-05-30 01:22:11,396 | tts | INFO | TTS selesai | response_2337_audio03.wav | latency=25.07s
+2026-05-30 01:22:52,268 | tts | INFO | Synthesizing | lang=en | text="Visit the official KSA Visa portal or use the Nusuk app to f"
+2026-05-30 01:23:20,259 | tts | INFO | TTS selesai | response_2337_audio04.wav | latency=27.99s
+2026-05-30 01:24:08,353 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Language Pro"
+2026-05-30 01:25:05,417 | tts | INFO | TTS selesai | response_2337_audio05.wav | latency=57.06s
+2026-05-30 01:25:48,004 | tts | INFO | Synthesizing | lang=ar | text="يمكنك حجز قطار الحرمين السريع عبر الإنترنت لرحلة مريحة وسريع"
+2026-05-30 01:26:17,108 | tts | INFO | TTS selesai | response_2337_audio06.wav | latency=29.1s
+2026-05-30 01:26:55,839 | tts | INFO | Synthesizing | lang=id | text="Pilihlah jadwal penerbangan pagi agar kamu tiba di Jeddah se"
+2026-05-30 01:26:58,702 | tts | INFO | TTS selesai | response_2337_audio07.wav | latency=2.86s
+2026-05-30 01:27:34,995 | tts | INFO | Synthesizing | lang=id | text="Buka website maskapai atau travel agent online, lalu masukka"
+2026-05-30 01:27:39,033 | tts | INFO | TTS selesai | response_2337_audio13.wav | latency=4.04s
+2026-05-30 01:28:15,320 | tts | INFO | Synthesizing | lang=en | text="Ensure your passport has at least six months of validity and"
+2026-05-30 01:28:54,097 | tts | INFO | TTS selesai | response_2337_audio14.wav | latency=38.78s
+2026-05-30 01:29:37,903 | tts | INFO | Synthesizing | lang=en | text="Start by making a simple checklist for your essentials like "
+2026-05-30 01:29:59,596 | tts | INFO | TTS selesai | response_2337_audio18.wav | latency=21.69s
+2026-05-30 01:30:35,946 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu buatkan jadwalnya. Silakan informasik"
+2026-05-30 01:30:38,487 | tts | INFO | TTS selesai | response_2338_audio01.wav | latency=2.54s
+2026-05-30 01:31:27,967 | tts | INFO | Synthesizing | lang=en | text="Most standard Umrah packages already include a visit to Madi"
+2026-05-30 01:31:51,480 | tts | INFO | TTS selesai | response_2338_audio02.wav | latency=23.51s
+2026-05-30 01:32:27,258 | tts | INFO | Synthesizing | lang=en | text="You can book the Haramain High-Speed Railway online for a fa"
+2026-05-30 01:32:50,911 | tts | INFO | TTS selesai | response_2338_audio03.wav | latency=23.65s
+2026-05-30 01:33:25,114 | tts | INFO | Synthesizing | lang=en | text="You can apply through the official KSA Visa website or the N"
+2026-05-30 01:33:59,212 | tts | INFO | TTS selesai | response_2338_audio04.wav | latency=34.1s
+2026-05-30 01:34:39,796 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu carikan opsi penerbangan terbaik ke J"
+2026-05-30 01:34:42,900 | tts | INFO | TTS selesai | response_2338_audio05.wav | latency=3.1s
+2026-05-30 01:35:28,503 | tts | INFO | Synthesizing | lang=en | text="Role: Friendly Umrah and Hajj travel assistant.
+Language Cap"
+2026-05-30 01:36:24,029 | tts | INFO | TTS selesai | response_2338_audio06.wav | latency=55.53s
+2026-05-30 01:37:00,713 | tts | INFO | Synthesizing | lang=id | text="Anda bisa mengurusnya melalui agen travel umrah atau mengaju"
+2026-05-30 01:37:03,612 | tts | INFO | TTS selesai | response_2338_audio12.wav | latency=2.9s
+2026-05-30 01:37:49,407 | tts | INFO | Synthesizing | lang=id | text="Buka website maskapai atau aplikasi travel, lalu masukkan ko"
+2026-05-30 01:37:53,199 | tts | INFO | TTS selesai | response_2338_audio13.wav | latency=3.79s
+2026-05-30 01:38:41,751 | tts | INFO | Synthesizing | lang=id | text="Pastikan paspor, visa, dan kain ihram atau pakaian muslim su"
+2026-05-30 01:38:45,295 | tts | INFO | TTS selesai | response_2338_audio15.wav | latency=3.54s
+2026-05-30 01:39:24,427 | tts | INFO | Synthesizing | lang=id | text="Tidak susah kok, asalkan kamu fokus pada kosakata harian yan"
+2026-05-30 01:39:27,119 | tts | INFO | TTS selesai | response_2338_audio17.wav | latency=2.69s
+2026-05-30 01:40:00,686 | tts | INFO | Synthesizing | lang=id | text="Bisa banget, aku bantu carikan ya. Tolong beri tahu kota keb"
+2026-05-30 01:40:03,381 | tts | INFO | TTS selesai | response_2341_audio01.wav | latency=2.7s
+2026-05-30 01:40:36,936 | tts | INFO | Synthesizing | lang=id | text="Tentu, boleh kasih tahu tanggal pasti dan kota asal keberang"
+2026-05-30 01:40:39,289 | tts | INFO | TTS selesai | response_2341_audio01(1).wav | latency=2.35s
+2026-05-30 01:41:30,185 | tts | INFO | Synthesizing | lang=en | text="I recommend looking for "Umrah Regular" packages that specif"
+2026-05-30 01:41:56,667 | tts | INFO | TTS selesai | response_2341_audio02.wav | latency=26.48s
+2026-05-30 01:42:39,613 | tts | INFO | Synthesizing | lang=en | text="Most standard Umrah packages already include a visit to Madi"
+2026-05-30 01:43:05,776 | tts | INFO | TTS selesai | response_2341_audio02(1).wav | latency=26.16s
+2026-05-30 01:43:55,287 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu atur transportasinya. Anda bisa memil"
+2026-05-30 01:43:58,206 | tts | INFO | TTS selesai | response_2341_audio03.wav | latency=2.92s
+2026-05-30 01:44:45,464 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa membantu mengatur transportasi Anda. Anda d"
+2026-05-30 01:44:48,052 | tts | INFO | TTS selesai | response_2341_audio03(1).wav | latency=2.59s
+2026-05-30 01:45:26,709 | tts | INFO | Synthesizing | lang=en | text="You can apply for your Saudi visa through the official Nusuk"
+2026-05-30 01:46:01,011 | tts | INFO | TTS selesai | response_2341_audio04.wav | latency=34.3s
+2026-05-30 01:46:35,976 | tts | INFO | Synthesizing | lang=en | text="You can apply through the official Nusuk platform or a licen"
+2026-05-30 01:47:01,427 | tts | INFO | TTS selesai | response_2341_audio04(1).wav | latency=25.45s
+2026-05-30 01:47:50,127 | tts | INFO | Synthesizing | lang=en | text="I can definitely help you find the best flight schedules to "
+2026-05-30 01:48:15,825 | tts | INFO | TTS selesai | response_2341_audio05.wav | latency=25.7s
+2026-05-30 01:48:53,582 | tts | INFO | Synthesizing | lang=en | text="I can certainly help you find the best direct flight schedul"
+2026-05-30 01:49:14,663 | tts | INFO | TTS selesai | response_2341_audio05(1).wav | latency=21.08s
+2026-05-30 01:50:10,692 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-30 01:51:06,257 | tts | INFO | TTS selesai | response_2341_audio06.wav | latency=55.57s
+2026-05-30 01:51:51,768 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 01:52:55,495 | tts | INFO | TTS selesai | response_2341_audio06(1).wav | latency=63.73s
+2026-05-30 01:53:50,859 | tts | INFO | Synthesizing | lang=id | text="Sebaiknya mendarat di Jeddah lalu langsung menuju Madinah me"
+2026-05-30 01:53:54,080 | tts | INFO | TTS selesai | response_2341_audio07.wav | latency=3.22s
+2026-05-30 01:54:36,057 | tts | INFO | Synthesizing | lang=id | text="Sebaiknya Anda tiba di Jeddah pada pagi hari dan langsung la"
+2026-05-30 01:54:39,185 | tts | INFO | TTS selesai | response_2341_audio07(1).wav | latency=3.13s
+2026-05-30 01:55:13,492 | tts | INFO | Synthesizing | lang=id | text="Kamu bisa mengurusnya melalui agen travel umrah resmi atau s"
+2026-05-30 01:55:16,923 | tts | INFO | TTS selesai | response_2341_audio08.wav | latency=3.43s
+2026-05-30 01:55:58,862 | tts | INFO | Synthesizing | lang=id | text="Kamu bisa mengurusnya melalui agen travel resmi yang terdaft"
+2026-05-30 01:56:01,810 | tts | INFO | TTS selesai | response_2341_audio08(1).wav | latency=2.95s
+2026-05-30 01:56:45,236 | tts | INFO | Synthesizing | lang=en | text="Ensure your passport has at least six months of validity and"
+2026-05-30 01:57:14,086 | tts | INFO | TTS selesai | response_2341_audio09.wav | latency=28.85s
+2026-05-30 01:57:55,388 | tts | INFO | Synthesizing | lang=en | text="Make sure your passport is valid for at least six months and"
+2026-05-30 01:58:19,353 | tts | INFO | TTS selesai | response_2341_audio09(1).wav | latency=23.96s
+2026-05-30 01:59:04,509 | tts | INFO | Synthesizing | lang=id | text="Belajar bahasa Arab bisa terasa menantang di awal, tapi sebe"
+2026-05-30 01:59:08,435 | tts | INFO | TTS selesai | response_2341_audio10.wav | latency=3.93s
+2026-05-30 01:59:52,375 | tts | INFO | Synthesizing | lang=id | text="Tidak susah kok, yang penting mulai dari kosakata praktis un"
+2026-05-30 01:59:54,977 | tts | INFO | TTS selesai | response_2341_audio10(1).wav | latency=2.6s
+2026-05-30 02:00:32,371 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu atur jadwalnya. Tolong infokan kota k"
+2026-05-30 02:00:34,763 | tts | INFO | TTS selesai | response_2342_audio01.wav | latency=2.39s
+2026-05-30 02:01:11,692 | tts | INFO | Synthesizing | lang=en | text="Most standard Umrah packages already include Madinah Ziarah "
+2026-05-30 02:01:37,058 | tts | INFO | TTS selesai | response_2342_audio02.wav | latency=25.37s
+2026-05-30 02:02:15,893 | tts | INFO | Synthesizing | lang=en | text="I recommend booking the Haramain High-Speed Railway online f"
+2026-05-30 02:02:38,329 | tts | INFO | TTS selesai | response_2342_audio03.wav | latency=22.44s
+2026-05-30 02:03:25,736 | tts | INFO | Synthesizing | lang=en | text="You can apply through the official Nusuk platform or a licen"
+2026-05-30 02:03:55,100 | tts | INFO | TTS selesai | response_2342_audio04.wav | latency=29.36s
+2026-05-30 02:04:43,965 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-30 02:05:44,094 | tts | INFO | TTS selesai | response_2342_audio05.wav | latency=60.13s
+2026-05-30 02:06:30,161 | tts | INFO | Synthesizing | lang=ar | text="يمكنك حجز قطار الحرمين السريع عبر موقعه الرسمي أو طلب سيارة "
+2026-05-30 02:06:59,911 | tts | INFO | TTS selesai | response_2342_audio06.wav | latency=29.75s
+2026-05-30 02:07:43,543 | tts | INFO | Synthesizing | lang=id | text="Haji wajib dilakukan pada waktu tertentu di bulan Dzulhijjah"
+2026-05-30 02:07:47,713 | tts | INFO | TTS selesai | response_2342_audio10.wav | latency=4.17s
+2026-05-30 02:08:23,826 | tts | INFO | Synthesizing | lang=id | text="Puasa Ramadan wajib karena merupakan salah satu rukun Islam "
+2026-05-30 02:08:26,879 | tts | INFO | TTS selesai | response_2342_audio11.wav | latency=3.05s
+2026-05-30 02:09:06,733 | tts | INFO | Synthesizing | lang=en | text="Ensure your passport is valid for at least six months and pr"
+2026-05-30 02:09:28,828 | tts | INFO | TTS selesai | response_2342_audio14.wav | latency=22.1s
+2026-05-30 02:10:05,517 | tts | INFO | Synthesizing | lang=id | text="Mulailah dengan menentukan budget dan waktu keberangkatan ya"
+2026-05-30 02:10:08,526 | tts | INFO | TTS selesai | response_2342_audio19.wav | latency=3.01s
+2026-05-30 02:10:55,585 | tts | INFO | Synthesizing | lang=id | text="Tentu, aku bisa bantu buatkan schedule-nya. Tolong infokan t"
+2026-05-30 02:10:58,082 | tts | INFO | TTS selesai | response_2343_audio1.wav | latency=2.5s
+2026-05-30 02:11:45,661 | tts | INFO | Synthesizing | lang=en | text="You should look for "Umrah Reguler" packages, as they typica"
+2026-05-30 02:12:08,669 | tts | INFO | TTS selesai | response_2343_audio2.wav | latency=23.01s
+2026-05-30 02:12:50,616 | tts | INFO | Synthesizing | lang=id | text="Tentu, kamu bisa pesan tiket kereta cepat Haramain High Spee"
+2026-05-30 02:12:53,710 | tts | INFO | TTS selesai | response_2343_audio3.wav | latency=3.09s
+2026-05-30 02:13:38,097 | tts | INFO | Synthesizing | lang=en | text="You can apply through the official Nusuk platform or the KSA"
+2026-05-30 02:14:11,278 | tts | INFO | TTS selesai | response_2343_audio4.wav | latency=33.18s
+2026-05-30 02:15:04,467 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-30 02:16:07,728 | tts | INFO | TTS selesai | response_2343_audio5.wav | latency=63.26s
+2026-05-30 02:16:53,072 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 02:18:06,732 | tts | INFO | TTS selesai | response_2343_audio6.wav | latency=73.66s
+2026-05-30 02:18:54,211 | tts | INFO | Synthesizing | lang=id | text="Kamu bisa mengurusnya secara online melalui platform Nusuk a"
+2026-05-30 02:18:57,920 | tts | INFO | TTS selesai | response_2343_audio12.wav | latency=3.71s
+2026-05-30 02:19:42,856 | tts | INFO | Synthesizing | lang=en | text="Make sure your passport is valid for at least six months and"
+2026-05-30 02:20:22,976 | tts | INFO | TTS selesai | response_2343_audio14.wav | latency=40.12s
+2026-05-30 02:21:13,267 | tts | INFO | Synthesizing | lang=id | text="Cari hotel di area Aziziyah atau Mahbas Jin yang harganya le"
+2026-05-30 02:21:17,137 | tts | INFO | TTS selesai | response_2343_audio16.wav | latency=3.87s
+2026-05-30 02:21:57,464 | tts | INFO | Synthesizing | lang=id | text="Fokuslah pada latihan fisik seperti rutin jalan kaki agar st"
+2026-05-30 02:22:00,591 | tts | INFO | TTS selesai | response_2343_audio18.wav | latency=3.13s
+2026-05-30 02:22:44,511 | tts | INFO | Synthesizing | lang=id | text="Tentu, aku bisa bantu carikan jadwalnya. Tolong infokan kota"
+2026-05-30 02:22:46,717 | tts | INFO | TTS selesai | response_2344_audio1.m4a.wav | latency=2.21s
+2026-05-30 02:23:38,681 | tts | INFO | Synthesizing | lang=en | text="You should look for "Umrah Ekonomi" or standard packages tha"
+2026-05-30 02:24:09,138 | tts | INFO | TTS selesai | response_2344_audio2.m4a.wav | latency=30.46s
+2026-05-30 02:24:56,332 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu pesankan kereta cepat Haramain atau m"
+2026-05-30 02:24:58,913 | tts | INFO | TTS selesai | response_2344_audio3.m4a.wav | latency=2.58s
+2026-05-30 02:25:50,881 | tts | INFO | Synthesizing | lang=en | text="First, choose your visa type via the official Nusuk platform"
+2026-05-30 02:26:19,157 | tts | INFO | TTS selesai | response_2344_audio4.wav | latency=28.28s
+2026-05-30 02:27:07,273 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-30 02:28:12,886 | tts | INFO | TTS selesai | response_2344_audio5.m4a.wav | latency=65.61s
+2026-05-30 02:28:58,583 | tts | INFO | Synthesizing | lang=en | text="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 02:29:54,332 | tts | INFO | TTS selesai | response_2344_audio6.m4a.wav | latency=55.75s
+2026-05-30 02:30:34,226 | tts | INFO | Synthesizing | lang=id | text="Haji adalah ibadah wajib yang dilakukan pada waktu tertentu "
+2026-05-30 02:30:38,367 | tts | INFO | TTS selesai | response_2344_audio10.m4a.wav | latency=4.14s
+2026-05-30 02:31:13,241 | tts | INFO | Synthesizing | lang=id | text="Buka aplikasi pemesanan tiket seperti Traveloka atau Skyscan"
+2026-05-30 02:31:16,962 | tts | INFO | TTS selesai | response_2344_audio13.wav | latency=3.72s
+2026-05-30 02:31:52,818 | tts | INFO | Synthesizing | lang=id | text="Tidak sesulit itu kok, apalagi jika kamu fokus pada kosakata"
+2026-05-30 02:31:55,473 | tts | INFO | TTS selesai | response_2344_audio17.wav | latency=2.65s
+2026-05-30 02:32:49,805 | tts | INFO | Synthesizing | lang=id | text="Kalimatnya adalah "I want to go to Makkah next week." Semoga"
+2026-05-30 02:32:51,354 | tts | INFO | TTS selesai | response_2344_audio20.m4a.wav | latency=1.55s
+2026-05-30 02:33:38,447 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu carikan jadwal flight-nya. Boleh tolo"
+2026-05-30 02:33:40,895 | tts | INFO | TTS selesai | response_2345_audio01.wav | latency=2.45s
+2026-05-30 02:34:26,432 | tts | INFO | Synthesizing | lang=id | text="Kamu bisa pilih paket Umrah reguler yang sudah menyertakan p"
+2026-05-30 02:34:29,586 | tts | INFO | TTS selesai | response_2345_audio02.wav | latency=3.15s
+2026-05-30 02:35:09,740 | tts | INFO | Synthesizing | lang=en | text="I recommend booking the Haramain High Speed Railway for a fa"
+2026-05-30 02:35:34,074 | tts | INFO | TTS selesai | response_2345_audio03.wav | latency=24.33s
+2026-05-30 02:36:07,748 | tts | INFO | Synthesizing | lang=en | text="Apply through the official Nusuk platform or a certified tra"
+2026-05-30 02:36:39,264 | tts | INFO | TTS selesai | response_2345_audio04.wav | latency=31.52s
+2026-05-30 02:37:32,516 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 02:38:35,006 | tts | INFO | TTS selesai | response_2345_audio05.wav | latency=62.49s
+2026-05-30 02:39:13,709 | tts | INFO | Synthesizing | lang=en | text="I can certainly help you arrange transport from Jeddah to Ma"
+2026-05-30 02:39:36,117 | tts | INFO | TTS selesai | response_2345_audio06.wav | latency=22.41s
+2026-05-30 02:40:27,182 | tts | INFO | Synthesizing | lang=id | text="Sebaiknya pilih jadwal di hari kerja agar tidak terlalu rama"
+2026-05-30 02:40:30,026 | tts | INFO | TTS selesai | response_2345_audio07.wav | latency=2.84s
+2026-05-30 02:41:11,777 | tts | INFO | Synthesizing | lang=id | text="Haji wajib dilaksanakan pada waktu tertentu di bulan Dzulhij"
+2026-05-30 02:41:16,579 | tts | INFO | TTS selesai | response_2345_audio08.wav | latency=4.8s
+2026-05-30 02:42:01,545 | tts | INFO | Synthesizing | lang=id | text="Puasa Ramadhan wajib karena merupakan salah satu rukun Islam"
+2026-05-30 02:42:04,861 | tts | INFO | TTS selesai | response_2345_audio09.wav | latency=3.32s
+2026-05-30 02:42:42,198 | tts | INFO | Synthesizing | lang=id | text="Kamu bisa mengurusnya melalui agen travel resmi yang terdaft"
+2026-05-30 02:42:45,244 | tts | INFO | TTS selesai | response_2345_audio10.wav | latency=3.05s
+2026-05-30 02:43:28,278 | tts | INFO | Synthesizing | lang=id | text="Buka aplikasi atau website travel pilihan Anda, lalu masukka"
+2026-05-30 02:43:31,770 | tts | INFO | TTS selesai | response_2345_audio11.wav | latency=3.49s
+2026-05-30 02:44:15,716 | tts | INFO | Synthesizing | lang=en | text="Ensure your passport is valid for at least six months and pr"
+2026-05-30 02:44:46,108 | tts | INFO | TTS selesai | response_2345_audio12.wav | latency=30.39s
+2026-05-30 02:45:25,944 | tts | INFO | Synthesizing | lang=id | text="Siapkan dokumen penting seperti paspor dan visa, serta pakai"
+2026-05-30 02:45:29,621 | tts | INFO | TTS selesai | response_2345_audio13.wav | latency=3.68s
+2026-05-30 02:46:07,718 | tts | INFO | Synthesizing | lang=id | text="Tidak terlalu susah jika kamu fokus pada kosakata dasar untu"
+2026-05-30 02:46:10,582 | tts | INFO | TTS selesai | response_2345_audio14.wav | latency=2.86s
+2026-05-30 02:46:46,392 | tts | INFO | Synthesizing | lang=id | text="Mulailah dengan menyiapkan paspor dan menentukan budget yang"
+2026-05-30 02:46:49,280 | tts | INFO | TTS selesai | response_2345_audio15.wav | latency=2.89s
+2026-05-30 02:47:23,392 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu buatkan jadwalnya. Tolong beri tahu s"
+2026-05-30 02:47:25,611 | tts | INFO | TTS selesai | response_2347_audio1.wav | latency=2.22s
+2026-05-30 02:47:59,643 | tts | INFO | Synthesizing | lang=en | text="You should look for an "Umrah Plus" package that explicitly "
+2026-05-30 02:48:29,929 | tts | INFO | TTS selesai | response_2347_audio2.wav | latency=30.29s
+2026-05-30 02:49:08,453 | tts | INFO | Synthesizing | lang=en | text="You can book the Haramain High Speed Railway online for the "
+2026-05-30 02:49:32,865 | tts | INFO | TTS selesai | response_2347_audio3.wav | latency=24.41s
+2026-05-30 02:50:18,598 | tts | INFO | Synthesizing | lang=en | text="You can apply for a tourist e-visa via the official Saudi po"
+2026-05-30 02:50:49,430 | tts | INFO | TTS selesai | response_2347_audio4.wav | latency=30.83s
+2026-05-30 02:51:37,656 | tts | INFO | Synthesizing | lang=ar | text="Role: Umrah and Hajj travel assistant (friendly).
+Capabiliti"
+2026-05-30 02:52:45,542 | tts | INFO | TTS selesai | response_2347_audio5.wav | latency=67.89s
+2026-05-30 02:53:30,297 | tts | INFO | Synthesizing | lang=ar | text="يمكنك استخدام قطار الحرمين السريع فهو الخيار الأسرع، أو حجز "
+2026-05-30 02:54:04,474 | tts | INFO | TTS selesai | response_2347_audio6.wav | latency=34.18s
+2026-05-30 02:54:55,802 | tts | INFO | Synthesizing | lang=id | text="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 02:55:01,257 | tts | INFO | TTS selesai | response_2347_audio7.wav | latency=5.45s
+2026-05-30 02:55:37,464 | tts | INFO | Synthesizing | lang=id | text="Puasa Ramadan wajib karena merupakan salah satu rukun Islam "
+2026-05-30 02:55:40,452 | tts | INFO | TTS selesai | response_2347_audio11.wav | latency=2.99s
+2026-05-30 02:56:13,623 | tts | INFO | Synthesizing | lang=en | text="Ensure your passport is valid for at least six months and pr"
+2026-05-30 02:56:42,254 | tts | INFO | TTS selesai | response_2347_audio14.wav | latency=28.63s
+2026-05-30 02:57:14,448 | tts | INFO | Synthesizing | lang=id | text="Tidak terlalu sulit kok, asalkan kamu mulai dari kosakata da"
+2026-05-30 02:57:17,251 | tts | INFO | TTS selesai | response_2347_audio17.wav | latency=2.8s
+2026-05-30 02:57:55,288 | tts | INFO | Synthesizing | lang=id | text="Bisa, saya bantu carikan jadwal flight ke Jeddah untuk mingg"
+2026-05-30 02:57:57,743 | tts | INFO | TTS selesai | response_2348_audio01.wav | latency=2.45s
+2026-05-30 02:58:36,989 | tts | INFO | Synthesizing | lang=en | text="You should look for "Umrah Ekonomi" or standard packages, as"
+2026-05-30 02:59:05,840 | tts | INFO | TTS selesai | response_2348_audio02.wav | latency=28.85s
+2026-05-30 02:59:57,024 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu berikan rekomendasinya. Anda bisa mem"
+2026-05-30 02:59:58,351 | tts | INFO | TTS selesai | response_2348_audio03.wav | latency=1.33s
+2026-05-30 03:00:37,311 | tts | INFO | Synthesizing | lang=en | text="Visit the official KSA Visa platform or use the Nusuk app to"
+2026-05-30 03:01:06,536 | tts | INFO | TTS selesai | response_2348_audio04.wav | latency=29.22s
+2026-05-30 03:01:47,914 | tts | INFO | Synthesizing | lang=en | text="I can certainly help you find the best direct flight schedul"
+2026-05-30 03:02:10,864 | tts | INFO | TTS selesai | response_2348_audio05.wav | latency=22.95s
+2026-05-30 03:02:54,324 | tts | INFO | Synthesizing | lang=en | text="You can book a private car or a shuttle service through your"
+2026-05-30 03:03:17,739 | tts | INFO | TTS selesai | response_2348_audio06.wav | latency=23.42s
+2026-05-30 03:04:00,884 | tts | INFO | Synthesizing | lang=id | text="Sebaiknya mendarat di Jeddah lalu langsung lanjut ke Madinah"
+2026-05-30 03:04:04,314 | tts | INFO | TTS selesai | response_2348_audio07.wav | latency=3.43s
+2026-05-30 03:04:48,296 | tts | INFO | Synthesizing | lang=id | text="Kamu bisa mengurusnya melalui agen travel resmi atau langsun"
+2026-05-30 03:04:51,479 | tts | INFO | TTS selesai | response_2348_audio12.wav | latency=3.18s
+2026-05-30 03:05:25,076 | tts | INFO | Synthesizing | lang=id | text="Buka aplikasi travel atau website maskapai favorit Anda, lal"
+2026-05-30 03:05:28,823 | tts | INFO | TTS selesai | response_2348_audio13.wav | latency=3.75s
+2026-05-30 03:06:13,464 | tts | INFO | Synthesizing | lang=en | text="Ensure your passport is valid for at least six months and ha"
+2026-05-30 03:06:42,105 | tts | INFO | TTS selesai | response_2348_audio14.wav | latency=28.64s
+2026-05-30 03:07:32,903 | tts | INFO | Synthesizing | lang=id | text="Role: Friendly Umrah and Hajj travel assistant.
+Language cap"
+2026-05-30 03:07:38,590 | tts | INFO | TTS selesai | response_2355_audio01.wav | latency=5.69s
+2026-05-30 03:08:15,352 | tts | INFO | Synthesizing | lang=en | text="I recommend our Essential Umrah package, which is straightfo"
+2026-05-30 03:08:34,618 | tts | INFO | TTS selesai | response_2355_audio02.wav | latency=19.27s
+2026-05-30 03:09:15,564 | tts | INFO | Synthesizing | lang=en | text="You can book the Haramain High-Speed Railway online for the "
+2026-05-30 03:09:40,554 | tts | INFO | TTS selesai | response_2355_audio03.wav | latency=24.99s
+2026-05-30 03:10:25,915 | tts | INFO | Synthesizing | lang=en | text="Role: Friendly Umrah and Hajj travel assistant.
+Language abi"
+2026-05-30 03:11:26,708 | tts | INFO | TTS selesai | response_2355_audio04.wav | latency=60.79s
+2026-05-30 03:12:10,875 | tts | INFO | Synthesizing | lang=en | text="I can definitely help you find the best flight schedule and "
+2026-05-30 03:12:29,811 | tts | INFO | TTS selesai | response_2355_audio05.wav | latency=18.94s
+2026-05-30 03:13:15,593 | tts | INFO | Synthesizing | lang=ar | text="Persona: Friendly Umrah and Hajj travel assistant.
+Capabilit"
+2026-05-30 03:14:10,616 | tts | INFO | TTS selesai | response_2355_audio06.wav | latency=55.02s
+2026-05-30 03:14:55,025 | tts | INFO | Synthesizing | lang=id | text="Sebaiknya mendarat di Jeddah pada pagi hari agar bisa langsu"
+2026-05-30 03:14:58,121 | tts | INFO | TTS selesai | response_2355_audio07.wav | latency=3.1s
+2026-05-30 03:15:42,573 | tts | INFO | Synthesizing | lang=id | text="Haji wajib dilaksanakan pada waktu tertentu di bulan Dzulhij"
+2026-05-30 03:15:46,623 | tts | INFO | TTS selesai | response_2355_audio10.wav | latency=4.05s
+2026-05-30 03:16:22,680 | tts | INFO | Synthesizing | lang=id | text="Buka situs maskapai atau aplikasi travel, lalu pilih tujuan "
+2026-05-30 03:16:25,788 | tts | INFO | TTS selesai | response_2355_audio13.wav | latency=3.11s
+2026-05-30 03:17:01,719 | tts | INFO | Synthesizing | lang=id | text="Tidak terlalu susah kok, asalkan kamu fokus pada kosakata pr"
+2026-05-30 03:17:04,518 | tts | INFO | TTS selesai | response_2355_audio17.wav | latency=2.8s
+2026-05-30 03:17:42,963 | tts | INFO | Synthesizing | lang=id | text="Boleh, tolong infokan kota keberangkatan dan preferensi wakt"
+2026-05-30 03:17:45,521 | tts | INFO | TTS selesai | response_2357_audio01.wav | latency=2.56s
+2026-05-30 03:18:23,657 | tts | INFO | Synthesizing | lang=en | text="You should look for a "Regular" or "Economy" Umrah package t"
+2026-05-30 03:18:52,551 | tts | INFO | TTS selesai | response_2357_audio02.wav | latency=28.89s
+2026-05-30 03:19:31,339 | tts | INFO | Synthesizing | lang=en | text="I recommend booking the Haramain High-Speed Railway online f"
+2026-05-30 03:19:53,753 | tts | INFO | TTS selesai | response_2357_audio03.wav | latency=22.41s
+2026-05-30 03:20:37,548 | tts | INFO | Synthesizing | lang=en | text="You can apply through the official KSA Visa website or the N"
+2026-05-30 03:21:09,061 | tts | INFO | TTS selesai | response_2357_audio04.wav | latency=31.51s
+2026-05-30 03:22:02,253 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-30 03:23:01,349 | tts | INFO | TTS selesai | response_2357_audio05.wav | latency=59.1s
+2026-05-30 03:23:46,591 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah/Hajj travel assistant.
+Language Skills:"
+2026-05-30 03:24:49,958 | tts | INFO | TTS selesai | response_2357_audio06.wav | latency=63.37s
+2026-05-30 03:25:33,088 | tts | INFO | Synthesizing | lang=id | text="Sebaiknya mendarat di Jeddah lalu langsung naik kereta cepat"
+2026-05-30 03:25:36,311 | tts | INFO | TTS selesai | response_2357_audio07.wav | latency=3.22s
+2026-05-30 03:26:18,450 | tts | INFO | Synthesizing | lang=id | text="Prosesnya bisa dilakukan melalui travel agent resmi atau sec"
+2026-05-30 03:26:21,492 | tts | INFO | TTS selesai | response_2357_audio12.wav | latency=3.04s
+2026-05-30 03:27:04,297 | tts | INFO | Synthesizing | lang=id | text="Siapkan dokumen penting seperti paspor, visa, dan buku kunin"
+2026-05-30 03:27:08,961 | tts | INFO | TTS selesai | response_2357_audio15.wav | latency=4.66s
+2026-05-30 03:27:49,179 | tts | INFO | Synthesizing | lang=id | text="Tidak sulit kok, asalkan kamu fokus pada kosakata praktis ya"
+2026-05-30 03:27:52,013 | tts | INFO | TTS selesai | response_2357_audio17.wav | latency=2.83s
+2026-05-30 03:28:33,221 | tts | INFO | Synthesizing | lang=id | text="Tentu, aku bisa bantu carikan jadwalnya. Tolong infokan tang"
+2026-05-30 03:28:35,718 | tts | INFO | TTS selesai | response_2359_audio1.wav | latency=2.5s
+2026-05-30 03:29:10,374 | tts | INFO | Synthesizing | lang=en | text="You should look for "Umrah Reguler" packages that explicitly"
+2026-05-30 03:29:37,464 | tts | INFO | TTS selesai | response_2359_audio2.wav | latency=27.09s
+2026-05-30 03:30:13,976 | tts | INFO | Synthesizing | lang=en | text="You can book the Haramain High Speed Railway online for a fa"
+2026-05-30 03:30:37,144 | tts | INFO | TTS selesai | response_2359_audio3.wav | latency=23.17s
+2026-05-30 03:31:19,277 | tts | INFO | Synthesizing | lang=en | text="You can apply via the official Nusuk platform or through a c"
+2026-05-30 03:31:44,222 | tts | INFO | TTS selesai | response_2359_audio4.wav | latency=24.94s
+2026-05-30 03:32:35,186 | tts | INFO | Synthesizing | lang=ar | text="Na'am, tentu saya bisa bantu buatkan skedul yang lebih mubas"
+2026-05-30 03:33:11,920 | tts | INFO | TTS selesai | response_2359_audio5.wav | latency=36.73s
+2026-05-30 03:34:00,692 | tts | INFO | Synthesizing | lang=en | text="You can take the Haramain High-Speed Railway for the fastest"
+2026-05-30 03:34:33,605 | tts | INFO | TTS selesai | response_2359_audio6.wav | latency=32.91s
+2026-05-30 03:35:25,071 | tts | INFO | Synthesizing | lang=id | text="Role: Friendly Umrah and Hajj travel assistant.
+Language Ski"
+2026-05-30 03:35:31,078 | tts | INFO | TTS selesai | response_2359_audio7.wav | latency=6.01s
+2026-05-30 03:36:09,513 | tts | INFO | Synthesizing | lang=id | text="Sekarang proses visa umrah biasanya diurus oleh travel agent"
+2026-05-30 03:36:12,746 | tts | INFO | TTS selesai | response_2359_audio12.wav | latency=3.23s
+2026-05-30 03:36:50,269 | tts | INFO | Synthesizing | lang=en | text="Ensure your passport is valid for at least six months and pr"
+2026-05-30 03:37:14,333 | tts | INFO | TTS selesai | response_2359_audio14.wav | latency=24.06s
+2026-05-30 03:37:51,302 | tts | INFO | Synthesizing | lang=id | text="Tidak terlalu sulit jika kamu fokus pada kosakata praktis un"
+2026-05-30 03:37:54,057 | tts | INFO | TTS selesai | response_2359_audio17.wav | latency=2.76s
+2026-05-30 03:38:26,439 | tts | INFO | Synthesizing | lang=id | text="Tentu, aku bisa bantu carikan jadwalnya. Tolong infokan kota"
+2026-05-30 03:38:28,856 | tts | INFO | TTS selesai | response_2360_audio01.wav | latency=2.42s
+2026-05-30 03:39:15,373 | tts | INFO | Synthesizing | lang=en | text="I recommend looking for "Umrah Standard" packages that expli"
+2026-05-30 03:39:36,544 | tts | INFO | TTS selesai | response_2360_audio02.wav | latency=21.17s
+2026-05-30 03:40:12,879 | tts | INFO | Synthesizing | lang=en | text="Sure, I can guide you through the options! I recommend booki"
+2026-05-30 03:40:33,694 | tts | INFO | TTS selesai | response_2360_audio03.wav | latency=20.82s
+2026-05-30 03:41:07,712 | tts | INFO | Synthesizing | lang=en | text="You can apply through the official Nusuk platform or a certi"
+2026-05-30 03:41:30,891 | tts | INFO | TTS selesai | response_2360_audio04.wav | latency=23.18s
+2026-05-30 03:42:18,769 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 03:43:27,961 | tts | INFO | TTS selesai | response_2360_audio05.wav | latency=69.19s
+2026-05-30 03:44:13,360 | tts | INFO | Synthesizing | lang=en | text="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 03:45:06,021 | tts | INFO | TTS selesai | response_2360_audio06.wav | latency=52.66s
+2026-05-30 03:45:57,375 | tts | INFO | Synthesizing | lang=id | text="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 03:46:02,751 | tts | INFO | TTS selesai | response_2360_audio07.wav | latency=5.38s
+2026-05-30 03:46:45,426 | tts | INFO | Synthesizing | lang=id | text="Haji wajib dilaksanakan pada waktu tertentu di bulan Dzulhij"
+2026-05-30 03:46:49,147 | tts | INFO | TTS selesai | response_2360_audio10.wav | latency=3.72s
+2026-05-30 03:47:24,953 | tts | INFO | Synthesizing | lang=id | text="Puasa Ramadan wajib karena merupakan salah satu dari lima ru"
+2026-05-30 03:47:28,145 | tts | INFO | TTS selesai | response_2360_audio11.wav | latency=3.19s
+2026-05-30 03:48:04,579 | tts | INFO | Synthesizing | lang=en | text="Ensure your passport is valid for at least six months and pr"
+2026-05-30 03:48:31,965 | tts | INFO | TTS selesai | response_2360_audio14.wav | latency=27.39s
+2026-05-30 03:49:06,432 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu carikan jadwalnya. Tolong infokan kot"
+2026-05-30 03:49:08,834 | tts | INFO | TTS selesai | response_2362_audio01.wav | latency=2.4s
+2026-05-30 03:49:47,585 | tts | INFO | Synthesizing | lang=en | text="I recommend choosing a standard Umrah package that explicitl"
+2026-05-30 03:50:09,326 | tts | INFO | TTS selesai | response_2362_audio02.wav | latency=21.74s
+2026-05-30 03:50:52,828 | tts | INFO | Synthesizing | lang=id | text="Kamu bisa pesan tiket kereta cepat Haramain High Speed Railw"
+2026-05-30 03:50:56,556 | tts | INFO | TTS selesai | response_2362_audio03.wav | latency=3.73s
+2026-05-30 03:51:34,710 | tts | INFO | Synthesizing | lang=en | text="Visit the official KSA Visa portal or Nusuk platform to fill"
+2026-05-30 03:52:00,093 | tts | INFO | TTS selesai | response_2362_audio04.wav | latency=25.38s
+2026-05-30 03:52:48,337 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-30 03:53:57,056 | tts | INFO | TTS selesai | response_2362_audio05.wav | latency=68.72s
+2026-05-30 03:54:38,726 | tts | INFO | Synthesizing | lang=ar | text="يمكنك حجز قطار الحرمين السريع عبر موقعهم الرسمي أو طلب سيارة"
+2026-05-30 03:55:04,075 | tts | INFO | TTS selesai | response_2362_audio06.wav | latency=25.35s
+2026-05-30 03:55:48,973 | tts | INFO | Synthesizing | lang=id | text="Sebaiknya mendarat di Jeddah lalu langsung menuju Madinah un"
+2026-05-30 03:55:51,786 | tts | INFO | TTS selesai | response_2362_audio07.wav | latency=2.81s
+2026-05-30 03:56:27,578 | tts | INFO | Synthesizing | lang=id | text="Puasa Ramadan wajib dilakukan karena merupakan salah satu ru"
+2026-05-30 03:56:30,680 | tts | INFO | TTS selesai | response_2362_audio11.wav | latency=3.1s
+2026-05-30 03:57:09,051 | tts | INFO | Synthesizing | lang=id | text="Siapkan dokumen utama seperti paspor dan visa, serta perleng"
+2026-05-30 03:57:12,598 | tts | INFO | TTS selesai | response_2362_audio15.wav | latency=3.55s
+2026-05-30 03:57:46,874 | tts | INFO | Synthesizing | lang=id | text="Tidak terlalu susah kok, yang penting kamu fokus pada kosaka"
+2026-05-30 03:57:49,877 | tts | INFO | TTS selesai | response_2362_audio17.wav | latency=3.0s
+2026-05-30 03:58:29,498 | tts | INFO | Synthesizing | lang=id | text="Bahasa Inggrisnya adalah "I want to go to Makkah next week.""
+2026-05-30 03:58:31,145 | tts | INFO | TTS selesai | response_2362_audio20.wav | latency=1.65s
+2026-05-30 03:59:09,110 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu carikan jadwal flight ke Jeddah untuk"
+2026-05-30 03:59:11,829 | tts | INFO | TTS selesai | response_2363_audio01.wav | latency=2.72s
+2026-05-30 03:59:46,339 | tts | INFO | Synthesizing | lang=en | text="I recommend looking for "Umrah Reguler" packages that explic"
+2026-05-30 04:00:14,744 | tts | INFO | TTS selesai | response_2363_audio02.wav | latency=28.41s
+2026-05-30 04:00:47,576 | tts | INFO | Synthesizing | lang=en | text="I recommend booking the Haramain High Speed Railway online f"
+2026-05-30 04:01:07,299 | tts | INFO | TTS selesai | response_2363_audio03.wav | latency=19.72s
+2026-05-30 04:01:52,499 | tts | INFO | Synthesizing | lang=en | text="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-30 04:02:52,444 | tts | INFO | TTS selesai | response_2363_audio04.wav | latency=59.95s
+2026-05-30 04:03:40,633 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Language Cap"
+2026-05-30 04:04:29,208 | tts | INFO | TTS selesai | response_2363_audio05.wav | latency=48.58s
+2026-05-30 04:05:14,944 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Language Ski"
+2026-05-30 04:06:24,332 | tts | INFO | TTS selesai | response_2363_audio06.wav | latency=69.39s
+2026-05-30 04:07:10,556 | tts | INFO | Synthesizing | lang=id | text="Role: Friendly Umrah and Hajj travel assistant.
+Language Ski"
+2026-05-30 04:07:15,979 | tts | INFO | TTS selesai | response_2363_audio07.wav | latency=5.42s
+2026-05-30 04:08:00,528 | tts | INFO | Synthesizing | lang=id | text="Haji wajib dilaksanakan pada waktu tertentu di bulan Dzulhij"
+2026-05-30 04:08:04,597 | tts | INFO | TTS selesai | response_2363_audio10.wav | latency=4.07s
+2026-05-30 04:08:42,308 | tts | INFO | Synthesizing | lang=id | text="Betul sekali, puasa di bulan Ramadhan adalah salah satu ruku"
+2026-05-30 04:08:44,798 | tts | INFO | TTS selesai | response_2363_audio11.wav | latency=2.49s
+2026-05-30 04:09:18,661 | tts | INFO | Synthesizing | lang=en | text="Ensure your passport is valid for at least six months and pr"
+2026-05-30 04:09:47,077 | tts | INFO | TTS selesai | response_2363_audio14.wav | latency=28.42s
+2026-05-30 04:10:22,150 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu carikan jadwal terbaik untukmu. Tolon"
+2026-05-30 04:10:24,850 | tts | INFO | TTS selesai | response_2364_audio01.wav | latency=2.7s
+2026-05-30 04:11:11,508 | tts | INFO | Synthesizing | lang=en | text="You should look for "Umrah Reguler" packages that explicitly"
+2026-05-30 04:11:39,077 | tts | INFO | TTS selesai | response_2364_audio02.wav | latency=27.57s
+2026-05-30 04:12:15,405 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu memberikan informasinya. Anda bisa me"
+2026-05-30 04:12:18,286 | tts | INFO | TTS selesai | response_2364_audio03.wav | latency=2.88s
+2026-05-30 04:12:56,981 | tts | INFO | Synthesizing | lang=en | text="First, visit the official Nusuk platform or use a licensed t"
+2026-05-30 04:13:23,043 | tts | INFO | TTS selesai | response_2364_audio04.wav | latency=26.06s
+2026-05-30 04:14:11,324 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-30 04:15:23,252 | tts | INFO | TTS selesai | response_2364_audio05.wav | latency=71.93s
+2026-05-30 04:16:08,778 | tts | INFO | Synthesizing | lang=ar | text="يمكنك استخدام قطار الح"
+2026-05-30 04:16:14,740 | tts | INFO | TTS selesai | response_2364_audio06.wav | latency=5.96s
+2026-05-30 04:16:47,282 | tts | INFO | Synthesizing | lang=id | text="Kamu bisa mengurusnya melalui biro travel umrah resmi atau s"
+2026-05-30 04:16:50,267 | tts | INFO | TTS selesai | response_2364_audio12.wav | latency=2.98s
+2026-05-30 04:17:33,330 | tts | INFO | Synthesizing | lang=id | text="Buka aplikasi atau website maskapai, lalu masukkan kota asal"
+2026-05-30 04:17:37,215 | tts | INFO | TTS selesai | response_2364_audio13.wav | latency=3.89s
+2026-05-30 04:18:26,099 | tts | INFO | Synthesizing | lang=en | text="Make sure your passport has at least six months of validity "
+2026-05-30 04:18:57,365 | tts | INFO | TTS selesai | response_2364_audio14.wav | latency=31.27s
+2026-05-30 04:19:33,581 | tts | INFO | Synthesizing | lang=id | text="Belajar bahasa Arab mungkin terasa menantang di awal, tapi a"
+2026-05-30 04:19:36,944 | tts | INFO | TTS selesai | response_2364_audio17.wav | latency=3.36s
+2026-05-30 04:20:15,464 | tts | INFO | Synthesizing | lang=id | text="Tentu, aku bisa bantu carikan jadwalnya. Tolong info kota as"
+2026-05-30 04:20:17,985 | tts | INFO | TTS selesai | response_2366_audio01.wav | latency=2.52s
+2026-05-30 04:20:58,361 | tts | INFO | Synthesizing | lang=en | text="You should look for "Umrah Plus Madinah" packages to ensure "
+2026-05-30 04:21:25,035 | tts | INFO | TTS selesai | response_2366_audio02.wav | latency=26.67s
+2026-05-30 04:22:03,255 | tts | INFO | Synthesizing | lang=en | text="You can book the Haramain High Speed Railway online for the "
+2026-05-30 04:22:33,054 | tts | INFO | TTS selesai | response_2366_audio03.wav | latency=29.8s
+2026-05-30 04:23:16,816 | tts | INFO | Synthesizing | lang=en | text="First, visit the official Nusuk platform or contact an autho"
+2026-05-30 04:23:45,840 | tts | INFO | TTS selesai | response_2366_audio04.wav | latency=29.02s
+2026-05-30 04:24:34,130 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 04:25:38,351 | tts | INFO | TTS selesai | response_2366_audio05.wav | latency=64.22s
+2026-05-30 04:26:21,139 | tts | INFO | Synthesizing | lang=en | text="You can easily book the Haramain High-Speed Railway through "
+2026-05-30 04:26:46,954 | tts | INFO | TTS selesai | response_2366_audio06.wav | latency=25.81s
+2026-05-30 04:27:36,678 | tts | INFO | Synthesizing | lang=id | text="Sebaiknya pilih jadwal tiba di Jeddah pada pagi hari atau ma"
+2026-05-30 04:27:39,956 | tts | INFO | TTS selesai | response_2366_audio07.wav | latency=3.28s
+2026-05-30 04:28:12,552 | tts | INFO | Synthesizing | lang=id | text="Puasa Ramadan itu wajib karena merupakan salah satu dari Ruk"
+2026-05-30 04:28:15,712 | tts | INFO | TTS selesai | response_2366_audio11.wav | latency=3.16s
+2026-05-30 04:28:56,891 | tts | INFO | Synthesizing | lang=en | text="Open a travel app or website, enter your destination and tra"
+2026-05-30 04:29:21,406 | tts | INFO | TTS selesai | response_2366_audio13.wav | latency=24.51s
+2026-05-30 04:29:57,104 | tts | INFO | Synthesizing | lang=id | text="Pastikan kamu membawa dokumen penting seperti paspor, visa, "
+2026-05-30 04:30:01,393 | tts | INFO | TTS selesai | response_2366_audio15.wav | latency=4.29s
+2026-05-30 04:30:43,287 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu carikan jadwalnya. Tolong infokan tan"
+2026-05-30 04:30:45,349 | tts | INFO | TTS selesai | response_2367_audio1.wav | latency=2.06s
+2026-05-30 04:31:25,885 | tts | INFO | Synthesizing | lang=en | text="You should look for "Umrah Plus Madinah" packages to ensure "
+2026-05-30 04:31:51,953 | tts | INFO | TTS selesai | response_2367_audio2.wav | latency=26.07s
+2026-05-30 04:32:31,524 | tts | INFO | Synthesizing | lang=en | text="I recommend booking the Haramain High Speed Railway online f"
+2026-05-30 04:32:55,045 | tts | INFO | TTS selesai | response_2367_audio3.wav | latency=23.52s
+2026-05-30 04:33:39,930 | tts | INFO | Synthesizing | lang=en | text="First, visit the official Nusuk or Saudi eVisa portal to upl"
+2026-05-30 04:34:15,234 | tts | INFO | TTS selesai | response_2367_audio4.wav | latency=35.3s
+2026-05-30 04:35:09,000 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 04:36:25,032 | tts | INFO | TTS selesai | response_2367_audio5.wav | latency=76.03s
+2026-05-30 04:37:06,166 | tts | INFO | Synthesizing | lang=en | text="You can book a private car through your hotel or use the Har"
+2026-05-30 04:37:27,469 | tts | INFO | TTS selesai | response_2367_audio6.wav | latency=21.3s
+2026-05-30 04:38:13,238 | tts | INFO | Synthesizing | lang=id | text="Sebaiknya kamu terbang langsung ke Madinah dulu agar bisa le"
+2026-05-30 04:38:16,404 | tts | INFO | TTS selesai | response_2367_audio7.wav | latency=3.17s
+2026-05-30 04:38:57,374 | tts | INFO | Synthesizing | lang=id | text="Haji wajib dilaksanakan pada waktu tertentu di bulan Dzulhij"
+2026-05-30 04:39:01,429 | tts | INFO | TTS selesai | response_2367_audio10.wav | latency=4.06s
+2026-05-30 04:39:41,509 | tts | INFO | Synthesizing | lang=id | text="Buka website maskapai atau aplikasi travel seperti Traveloka"
+2026-05-30 04:39:45,740 | tts | INFO | TTS selesai | response_2367_audio13.wav | latency=4.23s
+2026-05-30 04:40:22,264 | tts | INFO | Synthesizing | lang=en | text="Start by making a simple checklist for your essentials and d"
+2026-05-30 04:40:50,670 | tts | INFO | TTS selesai | response_2367_audio18.wav | latency=28.41s
+2026-05-30 04:41:27,392 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu carikan jadwal penerbangannya. Mohon "
+2026-05-30 04:41:30,142 | tts | INFO | TTS selesai | response_2369_audio1.wav | latency=2.75s
+2026-05-30 04:42:07,738 | tts | INFO | Synthesizing | lang=en | text="I suggest choosing a standard Umrah package, as most of them"
+2026-05-30 04:42:35,100 | tts | INFO | TTS selesai | response_2369_audio2.wav | latency=27.36s
+2026-05-30 04:43:07,131 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa membantu Anda memesan taksi pribadi atau ti"
+2026-05-30 04:43:09,693 | tts | INFO | TTS selesai | response_2369_audio3.wav | latency=2.56s
+2026-05-30 04:43:43,892 | tts | INFO | Synthesizing | lang=en | text="First, choose your visa type and visit the official Nusuk or"
+2026-05-30 04:44:16,750 | tts | INFO | TTS selesai | response_2369_audio4.wav | latency=32.86s
+2026-05-30 04:45:05,255 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-30 04:46:18,340 | tts | INFO | TTS selesai | response_2369_audio5.wav | latency=73.09s
+2026-05-30 04:47:08,818 | tts | INFO | Synthesizing | lang=en | text="Role: Friendly Umrah and Hajj travel assistant.
+Capability: "
+2026-05-30 04:48:08,177 | tts | INFO | TTS selesai | response_2369_audio6.wav | latency=59.36s
+2026-05-30 04:48:49,868 | tts | INFO | Synthesizing | lang=id | text="Sebaiknya Anda mendarat di Jeddah dan langsung menuju Madina"
+2026-05-30 04:48:53,174 | tts | INFO | TTS selesai | response_2369_audio7.wav | latency=3.31s
+2026-05-30 04:49:38,816 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-30 04:50:29,780 | tts | INFO | TTS selesai | response_2369_audio8.wav | latency=50.96s
+2026-05-30 04:51:10,875 | tts | INFO | Synthesizing | lang=id | text="Kamu bisa mengajukan visa turis atau visa kunjungan pribadi "
+2026-05-30 04:51:14,626 | tts | INFO | TTS selesai | response_2369_audio9.wav | latency=3.75s
+2026-05-30 04:51:51,631 | tts | INFO | Synthesizing | lang=id | text="Buka aplikasi travel atau website maskapai pilihanmu, lalu m"
+2026-05-30 04:51:55,824 | tts | INFO | TTS selesai | response_2369_audio10.wav | latency=4.19s
+2026-05-30 04:52:34,639 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu carikan jadwal penerbangan ke Jeddah "
+2026-05-30 04:52:37,250 | tts | INFO | TTS selesai | response_2371_audio01.wav | latency=2.61s
+2026-05-30 04:53:17,443 | tts | INFO | Synthesizing | lang=en | text="You should look for a standard Umrah package that explicitly"
+2026-05-30 04:53:41,687 | tts | INFO | TTS selesai | response_2371_audio02.wav | latency=24.24s
+2026-05-30 04:54:20,526 | tts | INFO | Synthesizing | lang=en | text="I recommend booking the Haramain High-Speed Railway online f"
+2026-05-30 04:54:42,598 | tts | INFO | TTS selesai | response_2371_audio03.wav | latency=22.07s
+2026-05-30 04:55:20,228 | tts | INFO | Synthesizing | lang=en | text="You can apply through the official Nusuk platform or via an "
+2026-05-30 04:55:48,038 | tts | INFO | TTS selesai | response_2371_audio04.wav | latency=27.81s
+2026-05-30 04:56:40,762 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Language Pro"
+2026-05-30 04:57:53,725 | tts | INFO | TTS selesai | response_2371_audio05.wav | latency=72.96s
+2026-05-30 04:58:39,189 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-30 04:59:39,794 | tts | INFO | TTS selesai | response_2371_audio06.wav | latency=60.6s
+2026-05-30 05:00:30,867 | tts | INFO | Synthesizing | lang=id | text="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 05:00:36,684 | tts | INFO | TTS selesai | response_2371_audio07.wav | latency=5.82s
+2026-05-30 05:01:11,870 | tts | INFO | Synthesizing | lang=id | text="Kamu bisa mengurus visa melalui agen travel resmi (PPIU) ata"
+2026-05-30 05:01:14,498 | tts | INFO | TTS selesai | response_2371_audio12.wav | latency=2.63s
+2026-05-30 05:01:47,607 | tts | INFO | Synthesizing | lang=id | text="Buka website maskapai atau aplikasi travel seperti Traveloka"
+2026-05-30 05:01:51,799 | tts | INFO | TTS selesai | response_2371_audio13.wav | latency=4.19s
+2026-05-30 05:02:30,102 | tts | INFO | Synthesizing | lang=id | text="Belajar bahasa Arab tidak sesulit itu jika kamu fokus pada k"
+2026-05-30 05:02:33,312 | tts | INFO | TTS selesai | response_2371_audio17.wav | latency=3.21s
+2026-05-30 05:03:05,121 | tts | INFO | Synthesizing | lang=id | text="Tentu, boleh banget! Tolong infokan tanggal keberangkatan da"
+2026-05-30 05:03:07,234 | tts | INFO | TTS selesai | response_2372_audio01.wav | latency=2.11s
+2026-05-30 05:03:49,977 | tts | INFO | Synthesizing | lang=en | text="You should look for a "Regular Umrah" package, as most stand"
+2026-05-30 05:04:19,554 | tts | INFO | TTS selesai | response_2372_audio02.wav | latency=29.58s
+2026-05-30 05:05:00,838 | tts | INFO | Synthesizing | lang=en | text="I recommend booking the Haramain High-Speed Railway via thei"
+2026-05-30 05:05:28,928 | tts | INFO | TTS selesai | response_2372_audio03.wav | latency=28.09s
+2026-05-30 05:06:10,575 | tts | INFO | Synthesizing | lang=en | text="Register through the official Nusuk app or a certified trave"
+2026-05-30 05:06:34,928 | tts | INFO | TTS selesai | response_2372_audio04.wav | latency=24.35s
+2026-05-30 05:07:25,578 | tts | INFO | Synthesizing | lang=ar | text="Na'am, tentu bisa! Saya akan bantu carikan direct flight ter"
+2026-05-30 05:07:51,892 | tts | INFO | TTS selesai | response_2372_audio05.wav | latency=26.31s
+2026-05-30 05:08:32,606 | tts | INFO | Synthesizing | lang=ar | text="يمكنك حجز قطار الحرمين السريع عبر موقعهم الإلكتروني لرحلة مر"
+2026-05-30 05:09:03,667 | tts | INFO | TTS selesai | response_2372_audio06.wav | latency=31.06s
+2026-05-30 05:09:41,624 | tts | INFO | Synthesizing | lang=id | text="Haji wajib dilaksanakan pada waktu tertentu di bulan Dzulhij"
+2026-05-30 05:09:46,160 | tts | INFO | TTS selesai | response_2372_audio10.wav | latency=4.54s
+2026-05-30 05:10:19,000 | tts | INFO | Synthesizing | lang=id | text="Puasa Ramadan wajib karena merupakan salah satu dari lima Ru"
+2026-05-30 05:10:22,069 | tts | INFO | TTS selesai | response_2372_audio11.wav | latency=3.07s
+2026-05-30 05:11:09,791 | tts | INFO | Synthesizing | lang=en | text="Ensure your passport is valid for at least six months and pr"
+2026-05-30 05:11:39,340 | tts | INFO | TTS selesai | response_2372_audio14.wav | latency=29.55s
+2026-05-30 05:12:19,828 | tts | INFO | Synthesizing | lang=id | text="Siapkan dokumen penting seperti paspor dan visa, pakaian ihr"
+2026-05-30 05:12:23,705 | tts | INFO | TTS selesai | response_2372_audio15.wav | latency=3.88s
+2026-05-30 05:12:58,438 | tts | INFO | Synthesizing | lang=id | text="Tentu, aku bisa bantu carikan jadwalnya. Tolong informasikan"
+2026-05-30 05:13:01,045 | tts | INFO | TTS selesai | response_2374_audio01.wav | latency=2.61s
+2026-05-30 05:13:35,174 | tts | INFO | Synthesizing | lang=en | text="You should look for "Umrah Regular" or "Umrah Economy" packa"
+2026-05-30 05:14:02,840 | tts | INFO | TTS selesai | response_2374_audio02.wav | latency=27.67s
+2026-05-30 05:14:37,155 | tts | INFO | Synthesizing | lang=en | text="You can book the Haramain High Speed Railway online for a fa"
+2026-05-30 05:14:56,883 | tts | INFO | TTS selesai | response_2374_audio03.wav | latency=19.73s
+2026-05-30 05:15:48,235 | tts | INFO | Synthesizing | lang=en | text="Start by visiting the official Nusuk platform or using a cer"
+2026-05-30 05:16:12,738 | tts | INFO | TTS selesai | response_2374_audio04.wav | latency=24.5s
+2026-05-30 05:17:11,371 | tts | INFO | Synthesizing | lang=id | text="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-30 05:17:16,315 | tts | INFO | TTS selesai | response_2374_audio05.wav | latency=4.94s
+2026-05-30 05:18:01,532 | tts | INFO | Synthesizing | lang=en | text="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 05:19:03,581 | tts | INFO | TTS selesai | response_2374_audio06.wav | latency=62.05s
+2026-05-30 05:19:40,570 | tts | INFO | Synthesizing | lang=id | text="Puasa Ramadan wajib karena merupakan salah satu rukun Islam "
+2026-05-30 05:19:43,681 | tts | INFO | TTS selesai | response_2374_audio11.wav | latency=3.11s
+2026-05-30 05:20:20,713 | tts | INFO | Synthesizing | lang=id | text="Buka website maskapai atau aplikasi travel, lalu masukkan ko"
+2026-05-30 05:20:24,942 | tts | INFO | TTS selesai | response_2374_audio13.wav | latency=4.23s
+2026-05-30 05:21:06,894 | tts | INFO | Synthesizing | lang=id | text="Pastikan paspor, visa, tiket, dan perlengkapan ibadah sepert"
+2026-05-30 05:21:10,613 | tts | INFO | TTS selesai | response_2374_audio15.wav | latency=3.72s
+2026-05-30 05:21:54,408 | tts | INFO | Synthesizing | lang=id | text="Tidak susah kok, asalkan kamu mulai dari kosa kata dasar yan"
+2026-05-30 05:21:56,955 | tts | INFO | TTS selesai | response_2374_audio17.wav | latency=2.55s
+2026-05-30 05:22:30,506 | tts | INFO | Synthesizing | lang=id | text="Bisa banget, aku siap bantu! Tolong infokan tanggal keberang"
+2026-05-30 05:22:32,711 | tts | INFO | TTS selesai | response_2375_audio01.wav | latency=2.2s
+2026-05-30 05:23:12,848 | tts | INFO | Synthesizing | lang=en | text="You should look for a "Standard Umrah Package" as they typic"
+2026-05-30 05:23:37,883 | tts | INFO | TTS selesai | response_2375_audio02.wav | latency=25.04s
+2026-05-30 05:24:19,307 | tts | INFO | Synthesizing | lang=en | text="You can book the Haramain High Speed Railway online for a fa"
+2026-05-30 05:24:44,168 | tts | INFO | TTS selesai | response_2375_audio03.wav | latency=24.86s
+2026-05-30 05:25:23,313 | tts | INFO | Synthesizing | lang=en | text="Visit the official Nusuk or KSA visa portal to create an acc"
+2026-05-30 05:25:47,230 | tts | INFO | TTS selesai | response_2375_audio04.wav | latency=23.92s
+2026-05-30 05:26:45,741 | tts | INFO | Synthesizing | lang=ar | text="Role: Friendly Umrah and Hajj travel assistant.
+Language Abi"
+2026-05-30 05:27:48,054 | tts | INFO | TTS selesai | response_2375_audio05.wav | latency=62.31s
+2026-05-30 05:28:38,791 | tts | INFO | Synthesizing | lang=ar | text="يمكنك طلب سيارة خاصة عبر تطبيقات Uber أو Careem للوصول فوراً"
+2026-05-30 05:29:02,130 | tts | INFO | TTS selesai | response_2375_audio06.wav | latency=23.34s
+2026-05-30 05:29:46,546 | tts | INFO | Synthesizing | lang=id | text="Silakan periksa dokumen itinerary atau aplikasi perjalanan A"
+2026-05-30 05:29:49,908 | tts | INFO | TTS selesai | response_2375_audio08.wav | latency=3.36s
+2026-05-30 05:30:25,500 | tts | INFO | Synthesizing | lang=id | text="Puasa Ramadan adalah salah satu rukun Islam yang diperintahk"
+2026-05-30 05:30:28,422 | tts | INFO | TTS selesai | response_2375_audio11.wav | latency=2.92s
+2026-05-30 05:31:24,887 | tts | INFO | Synthesizing | lang=id | text="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 05:31:31,634 | tts | INFO | TTS selesai | response_2375_audio15.wav | latency=6.75s
+2026-05-30 05:32:12,668 | tts | INFO | Synthesizing | lang=id | text="Coba buat checklist perlengkapan esensial satu per satu agar"
+2026-05-30 05:32:15,840 | tts | INFO | TTS selesai | response_2375_audio18.wav | latency=3.17s
+2026-05-30 05:32:58,327 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu buatkan jadwalnya. Tolong infokan tan"
+2026-05-30 05:33:00,938 | tts | INFO | TTS selesai | response_2379_audio01.wav | latency=2.61s
+2026-05-30 05:33:38,726 | tts | INFO | Synthesizing | lang=id | text="Kamu bisa pilih paket Umrah reguler yang sudah include Madin"
+2026-05-30 05:33:41,259 | tts | INFO | TTS selesai | response_2379_audio02.wav | latency=2.53s
+2026-05-30 05:34:25,421 | tts | INFO | Synthesizing | lang=id | text="Tentu, Anda bisa memesan tiket Kereta Cepat Haramain secara "
+2026-05-30 05:34:28,565 | tts | INFO | TTS selesai | response_2379_audio03.wav | latency=3.14s
+2026-05-30 05:35:16,314 | tts | INFO | Synthesizing | lang=ar | text="Na"
+2026-05-30 05:35:18,444 | tts | INFO | TTS selesai | response_2379_audio05.wav | latency=2.13s
+2026-05-30 05:36:02,800 | tts | INFO | Synthesizing | lang=en | text="You can use the Careem or Uber app for a private taxi, or bo"
+2026-05-30 05:36:25,972 | tts | INFO | TTS selesai | response_2379_audio06.wav | latency=23.17s
+2026-05-30 05:37:22,145 | tts | INFO | Synthesizing | lang=id | text="Sebaik"
+2026-05-30 05:37:22,351 | tts | INFO | TTS selesai | response_2379_audio07.wav | latency=0.21s
+2026-05-30 05:38:08,657 | tts | INFO | Synthesizing | lang=id | text="Prosesnya paling mudah melalui agen travel umrah resmi (PPIU"
+2026-05-30 05:38:12,396 | tts | INFO | TTS selesai | response_2379_audio12.wav | latency=3.74s
+2026-05-30 05:38:55,203 | tts | INFO | Synthesizing | lang=en | text="Focus on your spiritual intention (niyyah) first and create "
+2026-05-30 05:39:22,256 | tts | INFO | TTS selesai | response_2379_audio18.wav | latency=27.05s
+2026-05-30 05:40:02,526 | tts | INFO | Synthesizing | lang=en | text="First, visit the official Nusuk platform or use a certified "
+2026-05-30 05:40:35,024 | tts | INFO | TTS selesai | response_2479_audio04.wav | latency=32.5s
+2026-05-30 05:41:21,316 | tts | INFO | Synthesizing | lang=id | text="Siapkan dokumen penting seperti paspor dan visa, serta perle"
+2026-05-30 05:41:25,251 | tts | INFO | TTS selesai | response_2479_audio15.wav | latency=3.94s
+2026-05-30 05:42:09,812 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu carikan jadwal penerbangan terbaik un"
+2026-05-30 05:42:12,679 | tts | INFO | TTS selesai | response_upload_1779961620.wav | latency=2.87s
+2026-05-30 05:42:52,000 | tts | INFO | Synthesizing | lang=id | text="Boleh, silakan infokan tanggal keberangkatan dan kota asalmu"
+2026-05-30 05:42:54,298 | tts | INFO | TTS selesai | response_upload_1779961786.wav | latency=2.3s
+2026-05-30 05:43:36,963 | tts | INFO | Synthesizing | lang=id | text="Tentu, aku bisa bantu carikan jadwalnya. Tolong infokan tang"
+2026-05-30 05:43:39,220 | tts | INFO | TTS selesai | response_upload_1779961787.wav | latency=2.26s
+2026-05-30 05:44:15,664 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu carikan jadwalnya. Boleh info kota ke"
+2026-05-30 05:44:17,998 | tts | INFO | TTS selesai | response_upload_1779962058.wav | latency=2.33s
+2026-05-30 05:44:51,708 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu buatkan jadwalnya. Tolong beri tahu k"
+2026-05-30 05:44:54,028 | tts | INFO | TTS selesai | response_upload_1779962081.wav | latency=2.32s
+2026-05-30 05:45:32,669 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu carikan jadwal penerbangan ke Jeddah "
+2026-05-30 05:45:35,287 | tts | INFO | TTS selesai | response_upload_1779962140.wav | latency=2.62s
+2026-05-30 05:46:14,346 | tts | INFO | Synthesizing | lang=id | text="Tentu, aku bisa bantu carikan jadwalnya. Tolong beri tahu ko"
+2026-05-30 05:46:16,458 | tts | INFO | TTS selesai | response_upload_1779962141.wav | latency=2.11s
+2026-05-30 05:46:55,167 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu carikan jadwalnya. Tolong beri tahu t"
+2026-05-30 05:46:57,543 | tts | INFO | TTS selesai | response_upload_1779962197.wav | latency=2.38s
+2026-05-30 05:47:37,087 | tts | INFO | Synthesizing | lang=id | text="Tentu, aku bisa bantu carikan jadwalnya. Boleh info kota keb"
+2026-05-30 05:47:39,184 | tts | INFO | TTS selesai | response_upload_1779962263.wav | latency=2.1s
+2026-05-30 05:48:23,987 | tts | INFO | Synthesizing | lang=id | text="Tentu, aku bisa bantu carikan jadwalnya. Boleh info kota keb"
+2026-05-30 05:48:26,210 | tts | INFO | TTS selesai | response_upload_1779962350.wav | latency=2.22s
+2026-05-30 05:49:00,643 | tts | INFO | Synthesizing | lang=id | text="Bisa, saya bantu carikan jadwal penerbangannya. Tolong infor"
+2026-05-30 05:49:03,369 | tts | INFO | TTS selesai | response_upload_1779966307.wav | latency=2.73s
+2026-05-30 05:49:46,728 | tts | INFO | Synthesizing | lang=id | text="Tentu, aku bisa bantu carikan jadwal penerbangan ke Jeddah u"
+2026-05-30 05:49:49,091 | tts | INFO | TTS selesai | response_upload_1779975604.wav | latency=2.36s
+2026-05-30 05:50:34,706 | tts | INFO | Synthesizing | lang=id | text="Bisa, silakan informasikan tanggal keberangkatan spesifik da"
+2026-05-30 05:50:37,164 | tts | INFO | TTS selesai | response_upload_1779975969.wav | latency=2.46s
+2026-05-30 05:51:19,913 | tts | INFO | Synthesizing | lang=id | text="Tentu, silakan infokan kota keberangkatan dan preferensi wak"
+2026-05-30 05:51:22,265 | tts | INFO | TTS selesai | response_upload_1779983692.wav | latency=2.35s
+2026-05-30 05:51:54,319 | tts | INFO | Synthesizing | lang=id | text="Tentu, aku bisa bantu carikan jadwal flight ke Jeddah untuk "
+2026-05-30 05:51:56,649 | tts | INFO | TTS selesai | response_upload_1779983703.wav | latency=2.33s
+2026-05-30 05:52:35,597 | tts | INFO | Synthesizing | lang=id | text="Tentu, aku bisa bantu carikan jadwal penerbangan ke Jeddah u"
+2026-05-30 05:52:38,323 | tts | INFO | TTS selesai | response_upload_1779983913.wav | latency=2.73s
+2026-05-30 05:53:21,770 | tts | INFO | Synthesizing | lang=id | text="Tentu, aku bisa bantu carikan jadwalnya. Tolong informasikan"
+2026-05-30 05:53:24,156 | tts | INFO | TTS selesai | response_upload_1779987478.wav | latency=2.39s
+2026-05-30 05:54:11,742 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu carikan jadwalnya. Tolong infokan kot"
+2026-05-30 05:54:14,321 | tts | INFO | TTS selesai | response_upload_1780038627.wav | latency=2.58s
+2026-05-30 05:54:47,363 | tts | INFO | Synthesizing | lang=id | text="Bisa banget, silakan informasikan tanggal keberangkatan dan "
+2026-05-30 05:54:49,897 | tts | INFO | TTS selesai | response_upload_1780038824.wav | latency=2.53s
+2026-05-30 05:55:23,321 | tts | INFO | Synthesizing | lang=id | text="Bisa banget! Tolong infokan tanggal keberangkatan dan kota a"
+2026-05-30 05:55:25,473 | tts | INFO | TTS selesai | response_upload_1780039002.wav | latency=2.15s
+2026-05-30 05:56:05,920 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu carikan jadwalnya. Boleh info kota as"
+2026-05-30 05:56:08,075 | tts | INFO | TTS selesai | response_upload_1780039117.wav | latency=2.15s
+2026-05-30 05:56:42,579 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu carikan jadwalnya. Silakan informasik"
+2026-05-30 05:56:45,239 | tts | INFO | TTS selesai | response_upload_1780047552.wav | latency=2.66s
+2026-05-30 05:57:24,257 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu buatkan jadwalnya. Silakan infokan ta"
+2026-05-30 05:57:26,595 | tts | INFO | TTS selesai | response_upload_1780047758.wav | latency=2.34s
+2026-05-30 05:58:10,086 | tts | INFO | Synthesizing | lang=id | text="Bisa, saya bantu carikan jadwal flight ke Jeddah untuk mingg"
+2026-05-30 05:58:12,446 | tts | INFO | TTS selesai | response_upload_1780047839.wav | latency=2.36s
+2026-05-30 05:58:59,082 | tts | INFO | Synthesizing | lang=en | text="Most standard Umrah packages already include a visit to Madi"
+2026-05-30 05:59:26,495 | tts | INFO | TTS selesai | response_upload_1780049374.wav | latency=27.41s
+2026-05-30 12:20:27,391 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa bantu perbarui nama Anda dan carikan jadwal"
+2026-05-30 12:20:49,821 | tts | INFO | Loading Indonesian TTS (Wikidepia VITS)...
+2026-05-30 12:20:51,116 | tts | INFO | Indonesian TTS loaded.
+2026-05-30 12:20:55,503 | tts | INFO | TTS selesai | response_2128_audio1.wav | latency=28.11s
+2026-05-30 12:30:35,604 | tts | INFO | Synthesizing | lang=en | text="".
+Constraint 7: Accurate info for Saudi travel.
+*Draft 1:* "
+2026-05-30 12:30:53,517 | tts | INFO | Loading Coqui XTTS: tts_models/multilingual/multi-dataset/xtts_v2
+2026-05-30 12:31:14,331 | tts | INFO | Coqui XTTS loaded.
+2026-05-30 12:32:02,118 | tts | INFO | TTS selesai | response_2128_audio2.wav | latency=86.51s
+2026-05-30 12:32:47,040 | tts | INFO | Synthesizing | lang=en | text="You can book the Haramain High-Speed Railway via their offic"
+2026-05-30 12:33:27,472 | tts | INFO | TTS selesai | response_2128_audio3.wav | latency=40.43s
+2026-05-30 12:34:16,936 | tts | INFO | Synthesizing | lang=en | text="Apply through the Nusuk platform or the official KSA Visa we"
+2026-05-30 12:35:03,188 | tts | INFO | TTS selesai | response_2128_audio4.wav | latency=46.25s
+2026-05-30 12:35:47,565 | tts | INFO | Synthesizing | lang=id | text="Silakan informasikan kota keberangkatan Anda agar saya dapat"
+2026-05-30 12:35:47,565 | tts | INFO | Loading Indonesian TTS (Wikidepia VITS)...
+2026-05-30 12:35:51,405 | tts | INFO | Indonesian TTS loaded.
+2026-05-30 12:35:58,827 | tts | INFO | TTS selesai | response_2128_audio5.wav | latency=11.26s
+2026-05-30 12:37:38,151 | tts | INFO | Synthesizing | lang=en | text="" label.
+*Revised Draft:* Could you please clarify what you "
+2026-05-30 12:38:31,487 | tts | INFO | TTS selesai | response_2128_audio6.wav | latency=53.34s
+2026-05-30 12:39:15,391 | tts | INFO | Synthesizing | lang=en | text="Prepare a passport valid for at least six months and ensure "
+2026-05-30 12:39:49,365 | tts | INFO | TTS selesai | response_2128_audio7.wav | latency=33.97s
+2026-05-30 12:40:40,121 | tts | INFO | Synthesizing | lang=id | text="Anda perlu mendaftar melalui biro perjalanan umrah resmi yan"
+2026-05-30 12:40:46,673 | tts | INFO | TTS selesai | response_2128_audio8.wav | latency=6.55s
+2026-05-30 12:41:35,347 | tts | INFO | Synthesizing | lang=id | text="Carilah hotel di area Ajyad atau Misfalah yang biasanya lebi"
+2026-05-30 12:41:43,591 | tts | INFO | TTS selesai | response_2128_audio9.wav | latency=8.24s
+2026-05-30 12:42:25,864 | tts | INFO | Synthesizing | lang=id | text="Buka situs maskapai atau agen perjalanan online lalu masukka"
+2026-05-30 12:42:34,382 | tts | INFO | TTS selesai | response_2128_audio10.wav | latency=8.52s
+2026-05-30 12:43:25,492 | tts | INFO | Synthesizing | lang=id | text="User wants to book a flight to Jeddah next week.
+User asks f"
+2026-05-30 12:43:35,369 | tts | INFO | TTS selesai | response_2305_audio01.wav | latency=9.88s
+2026-05-30 12:44:19,456 | tts | INFO | Synthesizing | lang=en | text="You should look for a standard Umrah package that includes s"
+2026-05-30 12:44:55,976 | tts | INFO | TTS selesai | response_2305_audio02.wav | latency=36.52s
+2026-05-30 12:45:41,582 | tts | INFO | Synthesizing | lang=en | text="I recommend booking the Haramain High-Speed Railway online f"
+2026-05-30 12:46:24,770 | tts | INFO | TTS selesai | response_2305_audio03.wav | latency=43.19s
+2026-05-30 12:47:07,700 | tts | INFO | Synthesizing | lang=en | text="Apply for a tourist visa through the official Visit Saudi po"
+2026-05-30 12:47:45,937 | tts | INFO | TTS selesai | response_2305_audio04.wav | latency=38.24s
+2026-05-30 12:48:39,655 | tts | INFO | Synthesizing | lang=ar | text="يرجى تزويدي بمدينة المغادرة لأتمكن من البحث عن أفضل الرحلات "
+2026-05-30 12:49:03,994 | tts | INFO | TTS selesai | response_2305_audio05.wav | latency=24.34s
+2026-05-30 12:49:52,723 | tts | INFO | Synthesizing | lang=ar | text="يمكنك استخدام قطار الحرمين السريع فهو الخيار الأسرع والأكثر "
+2026-05-30 12:50:30,675 | tts | INFO | TTS selesai | response_2305_audio06.wav | latency=37.95s
+2026-05-30 12:51:07,519 | tts | INFO | Synthesizing | lang=id | text="Puasa Ramadan wajib karena merupakan salah satu rukun Islam "
+2026-05-30 12:51:13,516 | tts | INFO | TTS selesai | response_2305_audio11.wav | latency=6.0s
+2026-05-30 12:51:51,758 | tts | INFO | Synthesizing | lang=id | text="Anda dapat mengurus visa umrah melalui agen perjalanan resmi"
+2026-05-30 12:51:59,513 | tts | INFO | TTS selesai | response_2305_audio12.wav | latency=7.75s
+2026-05-30 12:52:42,754 | tts | INFO | Synthesizing | lang=en | text="Ensure your passport is valid for at least six months and co"
+2026-05-30 12:53:10,344 | tts | INFO | TTS selesai | response_2305_audio14.wav | latency=27.59s
+2026-05-30 12:53:53,615 | tts | INFO | Synthesizing | lang=id | text="Buatlah daftar prioritas untuk dokumen, kesehatan, dan perle"
+2026-05-30 12:54:00,793 | tts | INFO | TTS selesai | response_2305_audio18.wav | latency=7.18s
+2026-05-30 12:54:42,358 | tts | INFO | Synthesizing | lang=id | text="Saya tidak dapat melakukan pemesanan tiket secara langsung. "
+2026-05-30 12:54:49,824 | tts | INFO | TTS selesai | response_2313_audio01.wav | latency=7.47s
+2026-05-30 12:55:40,009 | tts | INFO | Synthesizing | lang=en | text="").
+Topic: Umrah travel including Madinah.
+The user wants a "
+2026-05-30 12:56:35,793 | tts | INFO | TTS selesai | response_2313_audio02.wav | latency=55.78s
+2026-05-30 13:02:44,712 | tts | INFO | Synthesizing | lang=id | text="Anda bisa menggunakan Kereta Cepat Haramain untuk perjalanan"
+2026-05-30 13:03:06,500 | tts | INFO | Loading Indonesian TTS (Wikidepia VITS)...
+2026-05-30 13:03:07,808 | tts | INFO | Indonesian TTS loaded.
+2026-05-30 13:03:14,112 | tts | INFO | TTS selesai | response_2313_audio03.wav | latency=29.4s
+2026-05-30 13:04:03,727 | tts | INFO | Synthesizing | lang=id | text="User Input: "jelaskan langkah by langkah cara mengajukan vis"
+2026-05-30 13:04:14,717 | tts | INFO | TTS selesai | response_2313_audio04.wav | latency=10.99s
+2026-05-30 13:05:02,803 | tts | INFO | Synthesizing | lang=id | text="Silakan bagikan detail jadwal lama Anda agar saya dapat memb"
+2026-05-30 13:05:11,124 | tts | INFO | TTS selesai | response_2313_audio05.wav | latency=8.32s
+2026-05-30 13:06:01,888 | tts | INFO | Synthesizing | lang=id | text="User input: "saya ingin REJ transportasi MINJAD DAHILA Madin"
+2026-05-30 13:06:10,689 | tts | INFO | TTS selesai | response_2313_audio06.wav | latency=8.8s
+2026-05-30 13:06:57,185 | tts | INFO | Synthesizing | lang=id | text="Sebaiknya Anda memesan penerbangan langsung ke Madinah terle"
+2026-05-30 13:07:05,382 | tts | INFO | TTS selesai | response_2313_audio07.wav | latency=8.2s
+2026-05-30 13:07:47,379 | tts | INFO | Synthesizing | lang=id | text="Anda dapat mengajukan visa melalui agen perjalanan umrah res"
+2026-05-30 13:07:55,282 | tts | INFO | TTS selesai | response_2313_audio12.wav | latency=7.9s
+2026-05-30 13:08:39,687 | tts | INFO | Synthesizing | lang=id | text="Buka situs web maskapai atau aplikasi agen perjalanan daring"
+2026-05-30 13:08:48,248 | tts | INFO | TTS selesai | response_2313_audio13.wav | latency=8.56s
+2026-05-30 13:09:34,376 | tts | INFO | Synthesizing | lang=id | text="Siapkan paspor dengan masa berlaku minimal enam bulan dan se"
+2026-05-30 13:09:42,525 | tts | INFO | TTS selesai | response_2313_audio14.wav | latency=8.15s
+2026-05-30 13:10:26,593 | tts | INFO | Synthesizing | lang=id | text="Silakan cek jadwal penerbangan melalui situs resmi maskapai "
+2026-05-30 13:10:34,207 | tts | INFO | TTS selesai | response_2332_audio01.wav | latency=7.61s
+2026-05-30 13:11:17,279 | tts | INFO | Synthesizing | lang=id | text="Anda dapat memilih paket Umrah Reguler yang biasanya sudah m"
+2026-05-30 13:11:23,901 | tts | INFO | TTS selesai | response_2332_audio02.wav | latency=6.62s
+2026-05-30 13:12:11,818 | tts | INFO | Synthesizing | lang=id | text="Anda bisa menggunakan Kereta Cepat Haramain untuk perjalanan"
+2026-05-30 13:12:19,401 | tts | INFO | TTS selesai | response_2332_audio03.wav | latency=7.58s
+2026-05-30 13:13:03,308 | tts | INFO | Synthesizing | lang=id | text="Gunakan aplikasi Nusuk atau jasa agen travel resmi untuk mem"
+2026-05-30 13:13:11,125 | tts | INFO | TTS selesai | response_2332_audio04.wav | latency=7.82s
+2026-05-30 13:14:55,161 | tts | INFO | Synthesizing | lang=id | text="".
+        7.  Accurate info.
+"Jadah al-usbu an kadim" -> Je"
+2026-05-30 13:15:14,354 | tts | INFO | Loading Indonesian TTS (Wikidepia VITS)...
+2026-05-30 13:15:15,480 | tts | INFO | Indonesian TTS loaded.
+2026-05-30 13:15:23,112 | tts | INFO | TTS selesai | response_2332_audio05.wav | latency=27.95s
+2026-05-30 13:16:09,094 | tts | INFO | Synthesizing | lang=id | text="Anda bisa menggunakan Kereta Cepat Haramain untuk perjalanan"
+2026-05-30 13:16:17,200 | tts | INFO | TTS selesai | response_2332_audio06.wav | latency=8.11s
+2026-05-30 13:17:05,851 | tts | INFO | Synthesizing | lang=id | text="Pilihlah penerbangan yang tiba di Jeddah pada pagi atau sian"
+2026-05-30 13:17:14,181 | tts | INFO | TTS selesai | response_2332_audio07.wav | latency=8.33s
+2026-05-30 13:17:58,597 | tts | INFO | Synthesizing | lang=id | text="Kunjungi situs atau aplikasi maskapai atau agen perjalanan d"
+2026-05-30 13:18:04,670 | tts | INFO | TTS selesai | response_2332_audio13.wav | latency=6.07s
+2026-05-30 13:18:41,407 | tts | INFO | Synthesizing | lang=id | text="Cari hotel di area Ajyad atau Misfalah yang jaraknya masih b"
+2026-05-30 13:18:48,595 | tts | INFO | TTS selesai | response_2332_audio16.wav | latency=7.19s
+2026-05-30 13:19:30,863 | tts | INFO | Synthesizing | lang=id | text="Buatlah daftar tugas sederhana yang memprioritaskan dokumen,"
+2026-05-30 13:19:38,708 | tts | INFO | TTS selesai | response_2332_audio18.wav | latency=7.84s
+2026-05-30 13:20:26,659 | tts | INFO | Synthesizing | lang=id | text="Anda dapat mengecek jadwal langsung melalui situs resmi Saud"
+2026-05-30 13:20:34,075 | tts | INFO | TTS selesai | response_2333_audio01.wav | latency=7.42s
+2026-05-30 13:21:17,961 | tts | INFO | Synthesizing | lang=id | text="Anda dapat memilih paket Umrah reguler yang sudah menyertaka"
+2026-05-30 13:21:25,180 | tts | INFO | TTS selesai | response_2333_audio02.wav | latency=7.22s
+2026-05-30 13:22:14,666 | tts | INFO | Synthesizing | lang=id | text="User input: "bisa kamu bantu aku mengatur transportasi dari "
+2026-05-30 13:22:24,698 | tts | INFO | TTS selesai | response_2333_audio03.wav | latency=10.03s
+2026-05-30 13:23:14,082 | tts | INFO | Synthesizing | lang=id | text="User question: "jelaskan langkah demi langkah cara memainkan"
+2026-05-30 13:23:23,621 | tts | INFO | TTS selesai | response_2333_audio04.wav | latency=9.54s
+2026-05-30 13:24:10,851 | tts | INFO | Synthesizing | lang=id | text="Saya siap membantu Anda menyusun jadwal perjalanan dan membe"
+2026-05-30 13:24:16,621 | tts | INFO | TTS selesai | response_2333_audio05.wav | latency=5.77s
+2026-05-30 13:25:01,910 | tts | INFO | Synthesizing | lang=id | text="Anda dapat menggunakan Kereta Cepat Haramain untuk perjalana"
+2026-05-30 13:25:08,829 | tts | INFO | TTS selesai | response_2333_audio06.wav | latency=6.92s
+2026-05-30 13:25:58,489 | tts | INFO | Synthesizing | lang=id | text="Waktu terbaik untuk berangkat adalah antara bulan November h"
+2026-05-30 13:26:06,527 | tts | INFO | TTS selesai | response_2333_audio07.wav | latency=8.04s
+2026-05-30 13:26:49,069 | tts | INFO | Synthesizing | lang=id | text="Anda dapat menggunakan Kereta Cepat Haramain yang sangat pra"
+2026-05-30 13:26:55,587 | tts | INFO | TTS selesai | response_2333_audio09.wav | latency=6.52s
+2026-05-30 13:27:39,090 | tts | INFO | Synthesizing | lang=id | text="Carilah hotel di area Aziziyah atau Mahbas Jin yang biasanya"
+2026-05-30 13:27:47,906 | tts | INFO | TTS selesai | response_2333_audio16.wav | latency=8.82s
+2026-05-30 13:28:35,285 | tts | INFO | Synthesizing | lang=id | text="Belajar bahasa Arab bisa terasa menantang bagi pemula karena"
+2026-05-30 13:28:43,760 | tts | INFO | TTS selesai | response_2333_audio17.wav | latency=8.48s
+2026-05-30 13:29:35,718 | tts | INFO | Synthesizing | lang=id | text="Anda dapat mengecek jadwal penerbangan langsung melalui situ"
+2026-05-30 13:29:41,404 | tts | INFO | TTS selesai | response_2335_audio01.wav | latency=5.69s
+2026-05-30 13:30:24,163 | tts | INFO | Synthesizing | lang=id | text="Paket Umrah Reguler biasanya sudah mencakup kunjungan ke Mad"
+2026-05-30 13:30:30,106 | tts | INFO | TTS selesai | response_2335_audio02.wav | latency=5.94s
+2026-05-30 13:31:14,628 | tts | INFO | Synthesizing | lang=id | text="Anda bisa menggunakan kereta cepat Haramain yang dapat dipes"
+2026-05-30 13:31:21,280 | tts | INFO | TTS selesai | response_2335_audio03.wav | latency=6.65s
+2026-05-30 13:32:03,761 | tts | INFO | Synthesizing | lang=id | text="Anda bisa mengajukan visa melalui aplikasi Nusuk untuk umrah"
+2026-05-30 13:32:11,488 | tts | INFO | TTS selesai | response_2335_audio04.wav | latency=7.73s
+2026-05-30 13:33:10,053 | tts | INFO | Synthesizing | lang=id | text="Anda dapat mengunjungi kawasan bersejarah Al-Balad pada pagi"
+2026-05-30 13:33:17,830 | tts | INFO | TTS selesai | response_2335_audio05.wav | latency=7.78s
+2026-05-30 13:34:09,036 | tts | INFO | Synthesizing | lang=id | text="Pilihan tercepat dan paling nyaman adalah menggunakan kereta"
+2026-05-30 13:34:16,948 | tts | INFO | TTS selesai | response_2335_audio06.wav | latency=7.91s
+2026-05-30 13:35:12,089 | tts | INFO | Synthesizing | lang=id | text="Anda dapat mengurus visa melalui biro perjalanan umrah resmi"
+2026-05-30 13:35:20,657 | tts | INFO | TTS selesai | response_2335_audio12.wav | latency=8.57s
+2026-05-30 13:49:19,639 | tts | INFO | Synthesizing | lang=id | text="".
+        7.  Accurate info.
+Step 1: Visit a travel site or"
+2026-05-30 13:49:40,129 | tts | INFO | Loading Indonesian TTS (Wikidepia VITS)...
+2026-05-30 13:49:41,382 | tts | INFO | Indonesian TTS loaded.
+2026-05-30 13:49:48,034 | tts | INFO | TTS selesai | response_2335_audio13.wav | latency=28.4s
+2026-05-30 13:50:36,890 | tts | INFO | Synthesizing | lang=id | text="Siapkan paspor dengan masa berlaku minimal enam bulan dan ka"
+2026-05-30 13:50:44,447 | tts | INFO | TTS selesai | response_2335_audio14.wav | latency=7.56s
+2026-05-30 13:51:43,753 | tts | INFO | Synthesizing | lang=id | text="User asks for an Umrah preparation checklist including manda"
+2026-05-30 13:51:53,400 | tts | INFO | TTS selesai | response_2335_audio15.wav | latency=9.65s
+2026-05-30 13:52:34,078 | tts | INFO | Synthesizing | lang=id | text="Belajar bahasa Arab bisa terasa menantang karena struktur ta"
+2026-05-30 13:52:41,634 | tts | INFO | TTS selesai | response_2335_audio17.wav | latency=7.56s
+2026-05-30 13:53:28,907 | tts | INFO | Synthesizing | lang=id | text="Anda dapat mengecek jadwal maskapai seperti Saudia atau Garu"
+2026-05-30 13:53:36,463 | tts | INFO | TTS selesai | response_2336_audio01.wav | latency=7.56s
+2026-05-30 13:54:25,025 | tts | INFO | Synthesizing | lang=id | text="".
+        7.  Accurate information for Umrah/Haji/Saudi tra"
+2026-05-30 13:54:33,156 | tts | INFO | TTS selesai | response_2336_audio02.wav | latency=8.13s
+2026-05-30 13:55:20,777 | tts | INFO | Synthesizing | lang=id | text="User Language: Indonesian.
+Question: "bisa kamu bantu aku me"
+2026-05-30 13:55:28,648 | tts | INFO | TTS selesai | response_2336_audio03.wav | latency=7.87s
+2026-05-30 13:56:07,235 | tts | INFO | Synthesizing | lang=id | text="Anda dapat mengajukan visa umrah melalui agen perjalanan res"
+2026-05-30 13:56:16,015 | tts | INFO | TTS selesai | response_2336_audio04.wav | latency=8.78s
+2026-05-30 13:57:07,188 | tts | INFO | Synthesizing | lang=id | text="Saya dapat membantu memberikan informasi jadwal penerbangan "
+2026-05-30 13:57:15,419 | tts | INFO | TTS selesai | response_2336_audio05.wav | latency=8.23s
+2026-05-30 13:58:13,568 | tts | INFO | Synthesizing | lang=id | text="User Question: "saya ingin Range transportasi dari Jeddah ke"
+2026-05-30 13:58:23,251 | tts | INFO | TTS selesai | response_2336_audio06.wav | latency=9.68s
+2026-05-30 13:59:12,073 | tts | INFO | Synthesizing | lang=id | text="Sebaiknya Anda tiba di"
+2026-05-30 13:59:12,996 | tts | INFO | TTS selesai | response_2336_audio07.wav | latency=0.92s
+2026-05-30 13:59:53,431 | tts | INFO | Synthesizing | lang=id | text="Haji wajib dilaksanakan pada waktu tertentu di bulan Dzulhij"
+2026-05-30 14:00:00,854 | tts | INFO | TTS selesai | response_2336_audio10.wav | latency=7.42s
+2026-05-30 14:01:00,049 | tts | INFO | Synthesizing | lang=id | text="".
+        7.  Accurate info.
+Preparations: Documents (passp"
+2026-05-30 14:01:08,952 | tts | INFO | TTS selesai | response_2336_audio15.wav | latency=8.9s
+2026-05-30 14:02:01,228 | tts | INFO | Synthesizing | lang=id | text="Belajar bahasa Arab bisa terasa menantang karena perbedaan t"
+2026-05-30 14:02:08,668 | tts | INFO | TTS selesai | response_2336_audio17.wav | latency=7.44s
+2026-05-30 14:02:52,019 | tts | INFO | Synthesizing | lang=id | text="Anda dapat mengecek jadwal penerbangan ke Jeddah melalui sit"
+2026-05-30 14:03:00,352 | tts | INFO | TTS selesai | response_2339_audio01.wav | latency=8.33s
+2026-05-30 14:03:40,864 | tts | INFO | Synthesizing | lang=id | text="Anda bisa memilih paket Umrah Reguler karena biasanya sudah "
+2026-05-30 14:03:48,089 | tts | INFO | TTS selesai | response_2339_audio02.wav | latency=7.23s
+2026-05-30 14:04:34,427 | tts | INFO | Synthesizing | lang=id | text="User Language: Indonesian.
+User Question: "bisa kamu bantu a"
+2026-05-30 14:04:43,625 | tts | INFO | TTS selesai | response_2339_audio03.wav | latency=9.2s
+2026-05-30 14:05:39,137 | tts | INFO | Synthesizing | lang=id | text="Ajukan visa melalui agen perjalanan umrah resmi atau secara "
+2026-05-30 14:05:46,749 | tts | INFO | TTS selesai | response_2339_audio04.wav | latency=7.61s
+2026-05-30 14:06:35,743 | tts | INFO | Synthesizing | lang=id | text="Saya dapat membantu mencarikan jadwal penerbangan langsung k"
+2026-05-30 14:06:43,088 | tts | INFO | TTS selesai | response_2339_audio05.wav | latency=7.34s
+2026-05-30 14:07:50,518 | tts | INFO | Synthesizing | lang=id | text="Anda bisa menggunakan Kereta Cepat Haramain untuk perjalanan"
+2026-05-30 14:07:58,532 | tts | INFO | TTS selesai | response_2339_audio06.wav | latency=8.01s
+2026-05-30 14:08:56,718 | tts | INFO | Synthesizing | lang=id | text="User Question: "pesan penerbangan ke Jeddah, lalu lanjut ke "
+2026-05-30 14:09:04,895 | tts | INFO | TTS selesai | response_2339_audio07.wav | latency=8.18s
+2026-05-30 14:09:47,539 | tts | INFO | Synthesizing | lang=id | text="Puasa Ramadan adalah salah satu rukun Islam yang diperintahk"
+2026-05-30 14:09:54,768 | tts | INFO | TTS selesai | response_2339_audio11.wav | latency=7.23s
+2026-05-30 14:10:49,802 | tts | INFO | Synthesizing | lang=id | text="Siapkan paspor dengan masa berlaku minimal enam bulan sebelu"
+2026-05-30 14:10:57,531 | tts | INFO | TTS selesai | response_2339_audio14.wav | latency=7.73s
+2026-05-30 14:11:52,398 | tts | INFO | Synthesizing | lang=id | text="Mulailah dengan menetapkan niat yang kuat dan menyiapkan ang"
+2026-05-30 14:11:59,713 | tts | INFO | TTS selesai | response_2339_audio19.wav | latency=7.31s
+2026-05-30 14:12:38,550 | tts | INFO | Synthesizing | lang=id | text="Anda dapat mengecek jadwal penerbangan langsung melalui situ"
+2026-05-30 14:12:46,560 | tts | INFO | TTS selesai | response_2351_audio01.wav | latency=8.01s
+2026-05-30 14:13:44,861 | tts | INFO | Synthesizing | lang=id | text="User Language: Indonesian.
+User Question: "Aku butuh tranfer"
+2026-05-30 14:13:54,300 | tts | INFO | TTS selesai | response_2351_audio02.wav | latency=9.44s
+2026-05-30 14:14:42,639 | tts | INFO | Synthesizing | lang=id | text="Anda dapat menggunakan Kereta Cepat Haramain untuk perjalana"
+2026-05-30 14:14:47,871 | tts | INFO | TTS selesai | response_2351_audio03.wav | latency=5.23s
+2026-05-30 14:15:47,501 | tts | INFO | Synthesizing | lang=id | text="User Input: "jelaskan langkah demi langkah cara mengajukan v"
+2026-05-30 14:15:56,972 | tts | INFO | TTS selesai | response_2351_audio04.wav | latency=9.47s
+2026-05-30 14:16:44,235 | tts | INFO | Synthesizing | lang=id | text="Saya dapat membantu Anda merencanakan jadwal perjalanan umra"
+2026-05-30 14:16:51,046 | tts | INFO | TTS selesai | response_2351_audio05.wav | latency=6.81s
+2026-05-30 14:17:44,139 | tts | INFO | Synthesizing | lang=id | text="User Input: "saya ingin orang transportasi minjeta ke Madina"
+2026-05-30 14:17:50,420 | tts | INFO | TTS selesai | response_2351_audio06.wav | latency=6.28s
+2026-05-30 14:18:34,621 | tts | INFO | Synthesizing | lang=id | text="Pilihlah penerbangan yang tiba di Jeddah pada pagi atau mala"
+2026-05-30 14:18:38,994 | tts | INFO | TTS selesai | response_2351_audio07.wav | latency=4.37s
+2026-05-30 14:19:18,962 | tts | INFO | Synthesizing | lang=id | text="Puasa Ramadan wajib karena merupakan salah satu rukun Islam "
+2026-05-30 14:19:23,361 | tts | INFO | TTS selesai | response_2351_audio11.wav | latency=4.4s
+2026-05-30 14:20:03,871 | tts | INFO | Synthesizing | lang=id | text="Siapkan paspor dengan masa berlaku minimal enam bulan dan se"
+2026-05-30 14:20:08,000 | tts | INFO | TTS selesai | response_2351_audio14.wav | latency=4.13s
+2026-05-30 14:20:50,305 | tts | INFO | Synthesizing | lang=id | text="Pilihlah hotel di area Misfalah atau Aziziyah yang biasanya "
+2026-05-30 14:20:55,359 | tts | INFO | TTS selesai | response_2351_audio16.wav | latency=5.05s
+2026-05-30 14:21:42,938 | tts | INFO | Synthesizing | lang=id | text="Anda bisa mengecek jadwal penerbangan ke Jeddah melalui situ"
+2026-05-30 14:21:49,213 | tts | INFO | TTS selesai | response_2356_audio01.wav | latency=6.27s
+2026-05-30 14:22:31,165 | tts | INFO | Synthesizing | lang=id | text="Pilihlah paket umrah reguler karena biasanya sudah mencakup "
+2026-05-30 14:22:36,116 | tts | INFO | TTS selesai | response_2356_audio02.wav | latency=4.95s
+2026-05-30 14:23:19,195 | tts | INFO | Synthesizing | lang=id | text="Kamu bisa menggunakan kereta cepat Haramain High Speed Railw"
+2026-05-30 14:23:23,730 | tts | INFO | TTS selesai | response_2356_audio03.wav | latency=4.53s
+2026-05-30 14:24:17,769 | tts | INFO | Synthesizing | lang=id | text="".
+Accurate information.
+Option 1: Via Nusuk app (for Umrah)"
+2026-05-30 14:24:24,625 | tts | INFO | TTS selesai | response_2356_audio04.wav | latency=6.86s
+2026-05-30 14:25:16,188 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya dapat membantu memberikan informasi jadwal pener"
+2026-05-30 14:25:21,272 | tts | INFO | TTS selesai | response_2356_audio05.wav | latency=5.08s
+2026-05-30 14:26:16,612 | tts | INFO | Synthesizing | lang=id | text="Anda dapat menggunakan kereta cepat Haramain High Speed Rail"
+2026-05-30 14:26:20,931 | tts | INFO | TTS selesai | response_2356_audio06.wav | latency=4.32s
+2026-05-30 14:27:31,616 | tts | INFO | Synthesizing | lang=id | text="Haji wajib dilaksanakan pada waktu tertentu dan mencakup rit"
+2026-05-30 14:27:36,540 | tts | INFO | TTS selesai | response_2356_audio10.wav | latency=4.92s
+2026-05-30 14:28:32,155 | tts | INFO | Synthesizing | lang=id | text="Anda dapat mengurus visa umrah melalui agen perjalanan resmi"
+2026-05-30 14:28:36,330 | tts | INFO | TTS selesai | response_2356_audio12.wav | latency=4.18s
+2026-05-30 14:29:23,744 | tts | INFO | Synthesizing | lang=id | text="Kunjungi situs maskapai atau agen perjalanan daring lalu mas"
+2026-05-30 14:29:27,765 | tts | INFO | TTS selesai | response_2356_audio13.wav | latency=4.02s
+2026-05-30 14:30:06,682 | tts | INFO | Synthesizing | lang=id | text="Belajar bahasa Arab bisa menantang bagi pemula karena sistem"
+2026-05-30 14:30:10,534 | tts | INFO | TTS selesai | response_2356_audio17.wav | latency=3.85s
+2026-05-30 14:30:51,635 | tts | INFO | Synthesizing | lang=id | text="Saya tidak dapat melakukan pemesanan langsung, namun Anda bi"
+2026-05-30 14:30:56,668 | tts | INFO | TTS selesai | response_2358_audio01.wav | latency=5.03s
+2026-05-30 14:31:36,355 | tts | INFO | Synthesizing | lang=id | text="Anda dapat memilih paket Umrah reguler yang umumnya sudah me"
+2026-05-30 14:31:40,418 | tts | INFO | TTS selesai | response_2358_audio02.wav | latency=4.06s
+2026-05-30 14:32:29,604 | tts | INFO | Synthesizing | lang=id | text="User Language: Indonesian.
+Request: Help arranging transport"
+2026-05-30 14:32:36,739 | tts | INFO | TTS selesai | response_2358_audio03.wav | latency=7.14s
+2026-05-30 14:33:25,207 | tts | INFO | Synthesizing | lang=id | text="Anda dapat mengajukan visa melalui aplikasi Nusuk atau mengg"
+2026-05-30 14:33:29,761 | tts | INFO | TTS selesai | response_2358_audio04.wav | latency=4.55s
+2026-05-30 14:34:18,968 | tts | INFO | Synthesizing | lang=id | text="Tentu, saya bisa membantu Anda mencari jadwal penerbangan te"
+2026-05-30 14:34:23,947 | tts | INFO | TTS selesai | response_2358_audio05.wav | latency=4.98s
+2026-05-30 14:35:13,240 | tts | INFO | Synthesizing | lang=id | text="Anda dapat menggunakan aplikasi Uber atau Careem untuk trans"
+2026-05-30 14:35:15,926 | tts | INFO | TTS selesai | response_2358_audio06.wav | latency=2.69s
+2026-05-30 14:36:11,200 | tts | INFO | Synthesizing | lang=id | text="Pilihlah penerbangan yang mendarat di Jeddah pada pagi hari "
+2026-05-30 14:36:14,749 | tts | INFO | TTS selesai | response_2358_audio07.wav | latency=3.55s
+2026-05-30 14:36:56,970 | tts | INFO | Synthesizing | lang=id | text="Persiapkan dokumen penting seperti paspor dan visa serta pas"
+2026-05-30 14:37:01,736 | tts | INFO | TTS selesai | response_2358_audio15.wav | latency=4.77s
+2026-05-30 14:37:49,607 | tts | INFO | Synthesizing | lang=id | text="Carilah hotel di area Ajyad atau Misfalah yang biasanya lebi"
+2026-05-30 14:37:54,166 | tts | INFO | TTS selesai | response_2358_audio16.wav | latency=4.56s
+2026-05-30 14:38:45,726 | tts | INFO | Synthesizing | lang=id | text="Belajar bahasa Arab bisa terasa menantang bagi pemula karena"
+2026-05-30 14:38:49,873 | tts | INFO | TTS selesai | response_2358_audio17.wav | latency=4.15s
+2026-05-31 11:27:11,937 | tts | INFO | Synthesizing | lang=id | text="Saya dapat membantu Anda mencari jadwal penerbangan terbaik "
+2026-05-31 11:27:33,871 | tts | INFO | Loading Indonesian TTS (Wikidepia VITS)...
+2026-05-31 11:27:35,084 | tts | INFO | Indonesian TTS loaded.
+2026-05-31 11:27:39,077 | tts | INFO | TTS selesai | response_gradio_1780201631.wav | latency=27.14s
+2026-05-31 11:57:19,355 | tts | INFO | Synthesizing | lang=id | text="Silakan periksa aplikasi perjalanan atau situs resmi maskapa"
+2026-05-31 11:57:35,640 | tts | INFO | Loading Indonesian TTS (Wikidepia VITS)...
+2026-05-31 11:57:36,985 | tts | INFO | Indonesian TTS loaded.
+2026-05-31 11:57:43,074 | tts | INFO | TTS selesai | response_gradio_1780203439.wav | latency=23.72s
+2026-05-31 12:00:42,798 | tts | INFO | Synthesizing | lang=id | text="Tenang saja, coba buka Google Maps untuk cek location kamu s"
+2026-05-31 12:00:46,974 | tts | INFO | TTS selesai | response_gradio_1780203642.wav | latency=4.18s
+2026-05-31 12:03:08,424 | tts | INFO | Synthesizing | lang=ar | text="Input: "اللغة المهيمنة: العربية. أجب باللغة العربية. Pertany"
+2026-05-31 12:03:08,434 | tts | INFO | Loading Coqui XTTS: tts_models/multilingual/multi-dataset/xtts_v2
+2026-05-31 12:03:28,663 | tts | INFO | Coqui XTTS loaded.
+2026-05-31 12:08:26,415 | tts | INFO | Synthesizing | lang=id | text="Kamu bisa mulai dengan menyiapkan paspor aktif, lalu langsun"
+2026-05-31 12:13:50,597 | tts | INFO | Synthesizing | lang=id | text="Bisa banget, kamu bisa langsung check di Traveloka atau Skys"
+2026-05-31 12:14:03,876 | tts | INFO | Loading Indonesian TTS (Wikidepia VITS)...
+2026-05-31 12:14:05,335 | tts | INFO | Indonesian TTS loaded.
+2026-05-31 12:14:10,441 | tts | INFO | TTS selesai | response_gradio_1780204430.wav | latency=19.84s
+2026-05-31 12:16:19,267 | tts | INFO | Synthesizing | lang=id | text="Input: "Ya Aki, saya ingin bukflik ilajedda al-usmu al-qadim"
+2026-05-31 12:16:26,990 | tts | INFO | TTS selesai | response_gradio_1780204579.wav | latency=7.72s
+2026-05-31 12:17:42,102 | tts | INFO | Synthesizing | lang=id | text="Saya bisa membantu Anda mencari jadwal penerbangan terbaik k"
+2026-05-31 12:17:47,116 | tts | INFO | TTS selesai | response_gradio_1780204662.wav | latency=5.01s
+2026-05-31 12:24:18,268 | tts | INFO | Synthesizing | lang=id | text="Segera cari petugas keamanan atau polisi di sekitar Masjid N"
+2026-05-31 12:24:27,166 | tts | INFO | Loading Indonesian TTS (Wikidepia VITS)...
+2026-05-31 12:24:28,085 | tts | INFO | Indonesian TTS loaded.
+2026-05-31 12:24:33,267 | tts | INFO | TTS selesai | response_upload_1780205014.wav | latency=15.0s
+2026-05-31 12:27:28,862 | tts | INFO | Synthesizing | lang=id | text="Tetap tenang dan carilah petugas keamanan atau Askar di seki"
+2026-05-31 12:27:37,708 | tts | INFO | Loading Indonesian TTS (Wikidepia VITS)...
+2026-05-31 12:27:38,743 | tts | INFO | Indonesian TTS loaded.
+2026-05-31 12:27:45,397 | tts | INFO | TTS selesai | response_upload_1780205203.wav | latency=16.54s
+2026-05-31 12:34:57,585 | tts | INFO | Synthesizing | lang=id | text="Segera hubungi nomor darurat 911 untuk meminta bantuan polis"
+2026-05-31 12:35:05,866 | tts | INFO | Loading Indonesian TTS (Wikidepia VITS)...
+2026-05-31 12:35:06,749 | tts | INFO | Indonesian TTS loaded.
+2026-05-31 12:35:12,011 | tts | INFO | TTS selesai | response_upload_1780205652.wav | latency=14.43s

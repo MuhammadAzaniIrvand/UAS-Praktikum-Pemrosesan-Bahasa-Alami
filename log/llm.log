@@ -1,0 +1,935 @@
+2026-05-28 16:05:27,476 | llm | INFO | Gemini client initialized | model=Gemma-4-26B
+2026-05-28 16:05:27,630 | llm | WARNING | Attempt 1 gagal: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2026-05-28 16:05:29,176 | llm | WARNING | Attempt 2 gagal: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2026-05-28 16:05:32,225 | llm | WARNING | Attempt 3 gagal: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2026-05-28 16:05:32,226 | llm | ERROR | Semua attempt gagal: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2026-05-28 16:05:32,510 | llm | WARNING | Attempt 1 gagal: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2026-05-28 16:05:34,062 | llm | WARNING | Attempt 2 gagal: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2026-05-28 16:05:37,163 | llm | WARNING | Attempt 3 gagal: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2026-05-28 16:05:37,163 | llm | ERROR | Semua attempt gagal: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2026-05-28 16:05:37,213 | llm | WARNING | Attempt 1 gagal: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2026-05-28 16:05:39,024 | llm | WARNING | Attempt 2 gagal: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2026-05-28 16:10:28,858 | llm | INFO | Gemini client initialized | model=Gemma-4-26B
+2026-05-28 16:10:28,995 | llm | WARNING | Attempt 1 gagal: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2026-05-28 16:10:30,532 | llm | WARNING | Attempt 2 gagal: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2026-05-28 16:10:33,585 | llm | WARNING | Attempt 3 gagal: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2026-05-28 16:10:33,585 | llm | ERROR | Semua attempt gagal: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2026-05-28 16:10:33,623 | llm | WARNING | Attempt 1 gagal: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2026-05-28 16:10:35,162 | llm | WARNING | Attempt 2 gagal: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}
+2026-05-28 16:10:54,006 | llm | INFO | Gemini client initialized | model=Gemma-4-26B
+2026-05-28 16:10:59,158 | llm | WARNING | Attempt 1 gagal: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': '* GenerateContentRequest.model: unexpected model name format\n', 'status': 'INVALID_ARGUMENT'}}
+2026-05-28 16:11:00,737 | llm | WARNING | Attempt 2 gagal: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': '* GenerateContentRequest.model: unexpected model name format\n', 'status': 'INVALID_ARGUMENT'}}
+2026-05-28 16:11:03,817 | llm | WARNING | Attempt 3 gagal: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': '* GenerateContentRequest.model: unexpected model name format\n', 'status': 'INVALID_ARGUMENT'}}
+2026-05-28 16:11:03,817 | llm | ERROR | Semua attempt gagal: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': '* GenerateContentRequest.model: unexpected model name format\n', 'status': 'INVALID_ARGUMENT'}}
+2026-05-28 16:11:03,879 | llm | WARNING | Attempt 1 gagal: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': '* GenerateContentRequest.model: unexpected model name format\n', 'status': 'INVALID_ARGUMENT'}}
+2026-05-28 16:11:05,446 | llm | WARNING | Attempt 2 gagal: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': '* GenerateContentRequest.model: unexpected model name format\n', 'status': 'INVALID_ARGUMENT'}}
+2026-05-28 16:11:08,526 | llm | WARNING | Attempt 3 gagal: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': '* GenerateContentRequest.model: unexpected model name format\n', 'status': 'INVALID_ARGUMENT'}}
+2026-05-28 16:11:08,527 | llm | ERROR | Semua attempt gagal: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': '* GenerateContentRequest.model: unexpected model name format\n', 'status': 'INVALID_ARGUMENT'}}
+2026-05-28 16:11:08,590 | llm | WARNING | Attempt 1 gagal: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': '* GenerateContentRequest.model: unexpected model name format\n', 'status': 'INVALID_ARGUMENT'}}
+2026-05-28 16:11:10,164 | llm | WARNING | Attempt 2 gagal: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': '* GenerateContentRequest.model: unexpected model name format\n', 'status': 'INVALID_ARGUMENT'}}
+2026-05-28 16:13:21,463 | llm | INFO | Gemini client initialized | model=models/gemma-4-31b-it
+2026-05-28 16:13:34,529 | llm | WARNING | Attempt 1 gagal: 'NoneType' object has no attribute 'strip'
+2026-05-28 16:13:44,789 | llm | WARNING | Attempt 2 gagal: 'NoneType' object has no attribute 'strip'
+2026-05-28 16:13:55,744 | llm | WARNING | Attempt 3 gagal: 'NoneType' object has no attribute 'strip'
+2026-05-28 16:13:55,745 | llm | ERROR | Semua attempt gagal: 'NoneType' object has no attribute 'strip'
+2026-05-28 16:19:49,601 | llm | INFO | Client initialized | model=gemma-3-27b-it
+2026-05-28 16:19:54,958 | llm | WARNING | Attempt 1 gagal: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemma-3-27b-it is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-05-28 16:19:56,557 | llm | WARNING | Attempt 2 gagal: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemma-3-27b-it is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-05-28 16:21:00,994 | llm | INFO | Client initialized | model=gemma-4-26b-a4b-it
+2026-05-28 16:21:07,248 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-28 16:21:07,249 | llm | INFO | OK | latency=6.25s | dominant=ID | response="*   User wants to book a flight to Jeddah next week.
+    *  "
+2026-05-28 16:21:13,300 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-28 16:21:13,300 | llm | INFO | OK | latency=6.05s | dominant=EN | response="*   Context: User wants a "simple umrah travel" that include"
+2026-05-28 16:21:21,092 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-28 16:21:21,093 | llm | INFO | OK | latency=7.79s | dominant=EN | response="*   User's input: "[CONTEXT: code-switching EN + ID + AR, do"
+2026-05-28 16:21:27,540 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-28 16:21:27,540 | llm | INFO | OK | latency=6.45s | dominant=EN | response="*   Context: Code-switching EN + ID + AR.
+    *   Dominant L"
+2026-05-28 16:21:36,961 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-28 16:21:36,962 | llm | INFO | OK | latency=9.42s | dominant=AR | response="*   User says: "يَا أَخِي أُرِيدُ book flight إِلَى Jeddah ه"
+2026-05-28 16:22:31,300 | llm | INFO | Client initialized | model=gemma-4-26b-a4b-it
+2026-05-28 16:22:46,600 | llm | INFO | OK | latency=15.3s | dominant=ID | response="Tentu, saya bisa bantu carikan jadwalnya. Tolong beri tahu saya tanggal keberang"
+2026-05-28 16:22:58,042 | llm | INFO | OK | latency=11.44s | dominant=EN | response="You can look for "Umrah Reguler" or "Umrah Ekonomi" packages, as most standard o"
+2026-05-28 16:23:07,484 | llm | INFO | OK | latency=9.44s | dominant=EN | response="You can book the Haramain High-Speed Railway online for the fastest and most com"
+2026-05-28 16:23:18,338 | llm | INFO | OK | latency=10.85s | dominant=EN | response="You can apply for a Saudi visa through the official Nusuk platform or via a cert"
+2026-05-28 16:24:34,781 | llm | INFO | Client initialized | model=gemini-2.0-flash
+2026-05-28 16:24:40,014 | llm | WARNING | Attempt 1 gagal: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 20.003881917s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '20s'}]}}
+2026-05-28 16:24:41,856 | llm | WARNING | Attempt 2 gagal: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 18.184224308s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '18s'}]}}
+2026-05-28 16:24:44,971 | llm | WARNING | Attempt 3 gagal: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 15.045217549s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '15s'}]}}
+2026-05-28 16:24:44,971 | llm | ERROR | Semua attempt gagal: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 15.045217549s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '15s'}]}}
+2026-05-28 16:24:45,060 | llm | WARNING | Attempt 1 gagal: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 14.957144623s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '14s'}]}}
+2026-05-28 16:24:46,685 | llm | WARNING | Attempt 2 gagal: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 13.364655341s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '13s'}]}}
+2026-05-28 16:24:49,787 | llm | WARNING | Attempt 3 gagal: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 10.229885162s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '10s'}]}}
+2026-05-28 16:24:49,788 | llm | ERROR | Semua attempt gagal: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 10.229885162s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.0-flash', 'location': 'global'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.0-flash'}}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '10s'}]}}
+2026-05-28 16:27:48,658 | llm | INFO | Client initialized | model=gemma-4-26b-a4b-it
+2026-05-28 16:27:58,646 | llm | INFO | OK | latency=9.99s | dominant=ID | response="Tentu, bisa banget! Tolong infokan tanggal pasti keberangkatan dan preferensi ma"
+2026-05-28 16:28:10,695 | llm | INFO | OK | latency=12.05s | dominant=EN | response="You should look for "Umrah Plus Madinah" packages, as they are designed to be si"
+2026-05-28 16:30:27,482 | llm | INFO | Client initialized | model=gemma-4-26b-a4b-it
+2026-05-28 16:30:27,486 | llm | WARNING | Attempt 1 gagal: [Errno -3] Temporary failure in name resolution
+2026-05-28 16:30:58,519 | llm | INFO | Client initialized | model=gemma-4-26b-a4b-it
+2026-05-28 16:30:59,246 | llm | WARNING | Attempt 1 gagal: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}
+2026-05-28 16:31:25,565 | llm | INFO | OK | latency=27.05s | dominant=ID | response="Tentu, saya bisa bantu carikan jadwalnya. Mohon infokan tanggal pasti keberangka"
+2026-05-28 16:33:04,699 | llm | INFO | Client initialized | model=gemma-4-26b-a4b-it
+2026-05-28 16:33:23,227 | llm | INFO | OK | latency=18.53s | dominant=ID | response="Tentu, saya bisa bantu carikan jadwal flight ke Jeddah untuk minggu depan. Mohon"
+2026-05-28 16:33:48,162 | llm | INFO | Client initialized | model=gemma-4-26b-a4b-it
+2026-05-28 16:34:01,451 | llm | INFO | OK | latency=13.29s | dominant=ID | response="Tentu, saya bisa bantu carikan jadwal flight ke Jeddah untuk minggu depan. Tolong infokan tanggal keberangkatan dan kota asalmu agar saya bisa langsung cek opsinya."
+2026-05-28 16:34:19,763 | llm | INFO | OK | latency=18.31s | dominant=EN | response="You should look for "Umrah Reguler" packages, as most standard itineraries naturally include a visit to Madinah. Just double-check that the package specifically mentions staying near Masjid Nabawi for your convenience."
+2026-05-28 16:58:11,086 | llm | INFO | Client initialized | model=gemma-4-26b-a4b-it
+2026-05-28 16:58:21,075 | llm | INFO | OK | latency=9.99s | dominant=ID | response="Tentu, boleh! Tolong infokan kota keberangkatan dan preferensi waktu terbangmu supaya aku bisa carikan jadwal terbaik untuk minggu depan."
+2026-05-28 16:59:55,771 | llm | INFO | OK | latency=17.68s | dominant=ID | response="Tentu, aku bisa bantu carikan jadwalnya. Tolong infokan tanggal keberangkatan dan preferensi maskapai kamu supaya aku bisa langsung cek opsinya."
+2026-05-28 18:06:04,943 | llm | INFO | OK | latency=31.91s | dominant=ID | response="Tentu, saya bisa bantu carikan jadwal penerbangan ke Jeddah. Tolong beri tahu kota keberangkatan dan preferensi waktu terbangmu ya."
+2026-05-28 20:40:44,552 | llm | INFO | OK | latency=11.95s | dominant=ID | response="Tentu, aku bisa bantu carikan jadwal penerbangan ke Jeddah untuk minggu depan. Tolong infokan tanggal pasti keberangkatan dan preferensi maskapai kamu ya."
+2026-05-28 20:46:36,365 | llm | INFO | Client initialized | model=gemma-4-26b-a4b-it
+2026-05-28 20:46:57,913 | llm | INFO | OK | latency=21.55s | dominant=ID | response="Tentu, aku bisa bantu carikan jadwalnya. Tolong infokan tanggal keberangkatan dan kota asalmu supaya aku bisa cek opsi flight yang tersedia."
+2026-05-28 22:55:29,927 | llm | INFO | Client initialized | model=gemma-4-26b-a4b-it
+2026-05-28 22:56:04,076 | llm | INFO | OK | latency=34.15s | dominant=ID | response="Tentu, aku bisa bantu carikan opsi flight-nya. Tolong beri tahu aku tanggal keberangkatan dan kota asalmu supaya aku bisa langsung cek schedule yang tersedia."
+2026-05-28 22:59:01,488 | llm | INFO | Client initialized | model=gemma-4-26b-a4b-it
+2026-05-28 22:59:11,238 | llm | INFO | OK | latency=9.75s | dominant=ID | response="Bisa banget! Tolong infokan kota asal dan tanggal keberangkatanmu supaya aku bisa carikan pilihan flight ke Jeddah yang paling pas buat minggu depan."
+2026-05-28 23:58:26,251 | llm | INFO | Client initialized | model=gemma-4-26b-a4b-it
+2026-05-28 23:58:47,189 | llm | INFO | OK | latency=20.94s | dominant=ID | response="Tentu, silakan infokan tanggal keberangkatan dan kota asalmu agar aku bisa bantu carikan jadwal flight ke Jeddah. Beri tahu juga jika kamu punya preferensi maskapai tertentu ya."
+2026-05-29 14:10:55,219 | llm | INFO | Client initialized | model=gemma-4-26b-a4b-it
+2026-05-29 14:11:07,190 | llm | INFO | OK | latency=11.97s | dominant=ID | response="Tentu, saya bisa bantu carikan jadwal flight ke Jeddah untuk minggu depan. Silakan infokan tanggal keberangkatan dan kota asalmu agar saya bisa berikan opsinya."
+2026-05-29 14:14:11,539 | llm | INFO | Client initialized | model=gemma-4-26b-a4b-it
+2026-05-29 14:14:22,777 | llm | INFO | OK | latency=11.24s | dominant=ID | response="Tentu, aku bisa bantu carikan jadwalnya. Tolong infokan tanggal keberangkatan dan kota asalmu supaya aku bisa cek opsi flight terbaik ke Jeddah."
+2026-05-29 14:17:09,251 | llm | INFO | Client initialized | model=gemma-4-26b-a4b-it
+2026-05-29 14:17:31,084 | llm | INFO | OK | latency=21.83s | dominant=ID | response="Tentu, saya bisa bantu carikan jadwalnya. Tolong infokan kota keberangkatan dan tanggal pastinya agar saya bisa cek opsi flight ke Jeddah untuk minggu depan."
+2026-05-29 14:19:05,036 | llm | INFO | Client initialized | model=gemma-4-26b-a4b-it
+2026-05-29 14:19:28,753 | llm | INFO | OK | latency=23.72s | dominant=ID | response="Tentu, aku bisa bantu carikan jadwalnya. Tolong infokan kamu berangkat dari kota mana dan apakah ada preferensi maskapai tertentu? Nanti aku langsung berikan opsi flight yang tersedia untuk minggu depan."
+2026-05-29 16:43:03,190 | llm | INFO | Client initialized | model=gemma-4-26b-a4b-it
+2026-05-29 16:43:20,904 | llm | INFO | OK | latency=17.71s | dominant=ID | response="Tentu, saya bisa bantu carikan jadwalnya. Tolong infokan tanggal keberangkatan serta kota asal kamu agar saya bisa memberikan opsi flight yang paling sesuai."
+2026-05-29 16:44:44,845 | llm | INFO | OK | latency=22.1s | dominant=ID | response="Tentu, aku bisa bantu carikan jadwalnya. Tolong infokan kota keberangkatan dan preferensi waktu terbangmu supaya aku bisa langsung cek flight yang tersedia."
+2026-05-29 17:09:58,293 | llm | INFO | Client initialized | model=gemma-4-26b-a4b-it
+2026-05-29 17:10:16,700 | llm | INFO | OK | latency=18.41s | dominant=EN | response="Most standard Umrah packages already include a visit to Madinah as part of the itinerary. You should look for "Umrah Reguler" options to ensure a simple and well-organized trip."
+2026-05-29 21:02:36,963 | llm | INFO | Client initialized | key_index=0 | model=gemma-4-26b-a4b-it
+2026-05-29 21:03:08,008 | llm | INFO | OK | key_index=0 | latency=31.09s | response="Tentu, saya bisa bantu carikan jadwalnya. Tolong infokan tan"
+2026-05-29 21:04:31,464 | llm | INFO | OK | key_index=0 | latency=21.4s | response="Haji adalah ibadah wajib pada waktu tertentu (bulan Dzulhijj"
+2026-05-29 21:16:02,963 | llm | INFO | Client initialized | key_index=0 | model=gemma-4-26b-a4b-it
+2026-05-29 21:16:12,726 | llm | INFO | OK | key_index=0 | latency=9.8s | response="Tentu, saya bisa bantu atur jadwalnya. Mohon informasikan ta"
+2026-05-29 21:17:16,709 | llm | INFO | OK | key_index=0 | latency=20.31s | response="You should look for "Umrah Reguler" packages that specifical"
+2026-05-29 21:18:58,192 | llm | INFO | OK | key_index=0 | latency=16.34s | response="I can certainly help you with that. You can book a private c"
+2026-05-29 21:20:03,532 | llm | INFO | OK | key_index=0 | latency=18.85s | response="First, register via the Nusuk platform or a licensed travel "
+2026-05-29 21:21:44,426 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-29 21:21:44,431 | llm | INFO | OK | key_index=0 | latency=32.86s | response="Role: Friendly Umrah and Hajj travel assistant.
+Language Pro"
+2026-05-29 21:24:04,366 | llm | INFO | OK | key_index=0 | latency=24.75s | response="You can take the Haramain High Speed Railway for around SAR "
+2026-05-29 21:25:36,734 | llm | INFO | OK | key_index=0 | latency=24.92s | response="Pilihlah jadwal penerbangan yang tiba di Jeddah pada pagi ha"
+2026-05-29 21:26:27,729 | llm | INFO | OK | key_index=0 | latency=18.12s | response="Haji wajib dilaksanakan pada waktu tertentu di bulan Dzulhij"
+2026-05-29 21:27:14,936 | llm | INFO | OK | key_index=0 | latency=14.0s | response="Kamu bisa mengurus visa melalui agen travel umrah resmi atau"
+2026-05-29 21:28:02,657 | llm | INFO | OK | key_index=0 | latency=15.28s | response="Ensure your passport is valid for at least six months and pr"
+2026-05-29 21:29:14,031 | llm | INFO | OK | key_index=0 | latency=10.55s | response="Tentu, saya bisa bantu atur jadwalnya. Tolong infokan tangga"
+2026-05-29 21:29:59,495 | llm | INFO | OK | key_index=0 | latency=12.46s | response="Kamu bisa cari paket Umrah Reguler karena biasanya sudah oto"
+2026-05-29 21:30:44,646 | llm | INFO | OK | key_index=0 | latency=11.5s | response="You can book the Haramain High Speed Railway online for the "
+2026-05-29 21:32:11,798 | llm | INFO | OK | key_index=0 | latency=22.61s | response="First, visit the official Saudi Visa website or Nusuk platfo"
+2026-05-29 21:33:38,253 | llm | INFO | OK | key_index=0 | latency=19.51s | response="I can certainly help you find the best direct flight schedul"
+2026-05-29 21:35:04,531 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-29 21:35:04,537 | llm | INFO | OK | key_index=0 | latency=27.71s | response="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-29 21:43:06,095 | llm | INFO | Client initialized | key_index=0 | model=gemma-4-26b-a4b-it
+2026-05-29 21:43:28,653 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-29 21:43:28,654 | llm | INFO | OK | key_index=0 | latency=22.6s | response="Role: Friendly Umrah and Hajj travel assistant.
+Competency: "
+2026-05-29 21:45:45,785 | llm | INFO | OK | key_index=0 | latency=15.48s | response="Puasa Ramadan wajib karena merupakan salah satu rukun Islam "
+2026-05-29 21:50:31,182 | llm | INFO | Client initialized | key_index=0 | model=gemma-4-26b-a4b-it
+2026-05-29 21:50:41,112 | llm | INFO | OK | key_index=0 | latency=9.97s | response="Tentu, saya bisa bantu carikan jadwalnya. Tolong beri tahu k"
+2026-05-29 21:51:34,975 | llm | INFO | OK | key_index=0 | latency=17.57s | response="I recommend looking for "Umrah Plus" packages that offer cus"
+2026-05-29 21:53:01,092 | llm | INFO | OK | key_index=0 | latency=22.52s | response="I recommend booking the Haramain High-Speed Railway online v"
+2026-05-29 21:54:09,804 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-29 21:54:09,810 | llm | INFO | OK | key_index=0 | latency=22.38s | response="Role: Friendly Umrah and Hajj travel assistant.
+Language Cap"
+2026-05-29 21:56:11,310 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-29 21:56:11,315 | llm | INFO | OK | key_index=0 | latency=27.57s | response="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-29 21:58:02,150 | llm | INFO | OK | key_index=0 | latency=21.84s | response="You can take the Haramain High-Speed Railway for a fast and "
+2026-05-29 21:59:17,751 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-29 21:59:17,752 | llm | INFO | OK | key_index=0 | latency=27.46s | response="Role: Friendly Umrah and Hajj travel assistant.
+Skill: Code-"
+2026-05-29 22:00:06,879 | llm | INFO | OK | key_index=0 | latency=17.51s | response="Haji wajib dilaksanakan pada waktu tertentu di bulan Dzulhij"
+2026-05-29 22:00:57,079 | llm | INFO | OK | key_index=0 | latency=20.49s | response="Kamu bisa mengurus visa melalui agen travel resmi (PIHK) ata"
+2026-05-29 22:01:38,627 | llm | INFO | OK | key_index=0 | latency=13.56s | response="Ensure your passport is valid for at least six months and ob"
+2026-05-29 22:02:46,418 | llm | INFO | OK | key_index=0 | latency=15.81s | response="Tentu, saya bisa bantu atur jadwal penerbanganmu. Boleh info"
+2026-05-29 22:03:35,561 | llm | INFO | OK | key_index=0 | latency=23.31s | response="I recommend choosing an "Economy Umrah" package that explici"
+2026-05-29 22:04:47,769 | llm | INFO | OK | key_index=0 | latency=17.8s | response="You should book the Haramain High Speed Railway online right"
+2026-05-29 22:05:55,283 | llm | INFO | OK | key_index=0 | latency=14.88s | response="First, select your visa type through the official KSA Visa p"
+2026-05-29 22:07:07,846 | llm | INFO | OK | key_index=0 | latency=19.06s | response="Tentu, saya bisa bantu carikan jadwal penerbangan langsung k"
+2026-05-29 22:07:50,825 | llm | INFO | OK | key_index=0 | latency=15.94s | response="I can help you arrange transportation to Medina via private "
+2026-05-29 22:08:58,545 | llm | INFO | OK | key_index=0 | latency=18.41s | response="Puasa Ramadan wajib dilaksanakan karena merupakan salah satu"
+2026-05-29 22:09:55,866 | llm | INFO | OK | key_index=0 | latency=29.61s | response="Kamu bisa mengurusnya melalui agen travel umrah resmi atau s"
+2026-05-29 22:10:33,159 | llm | INFO | OK | key_index=0 | latency=9.81s | response="Ensure your passport is valid for at least six months and pr"
+2026-05-29 22:11:47,093 | llm | INFO | OK | key_index=0 | latency=18.38s | response="Siapkan dokumen seperti paspor dan visa, pakaian ihram atau "
+2026-05-29 22:12:41,417 | llm | INFO | OK | key_index=0 | latency=11.54s | response="Tentu, saya bisa bantu carikan jadwalnya. Silakan infokan ta"
+2026-05-29 22:13:39,532 | llm | INFO | OK | key_index=0 | latency=16.88s | response="Kami punya paket Umrah Simpel yang sudah include Madinah vis"
+2026-05-29 22:14:37,162 | llm | INFO | OK | key_index=0 | latency=23.05s | response="I recommend booking the Haramain High Speed Railway online f"
+2026-05-29 22:16:00,324 | llm | INFO | OK | key_index=0 | latency=23.39s | response="First, visit the official Nusuk or Saudi Visa website to sel"
+2026-05-29 22:17:18,571 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-29 22:17:18,572 | llm | INFO | OK | key_index=0 | latency=22.64s | response="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-29 22:19:14,176 | llm | INFO | OK | key_index=0 | latency=22.64s | response="You can arrange transport to Madinah through your Umrah trav"
+2026-05-29 22:20:20,843 | llm | INFO | OK | key_index=0 | latency=19.17s | response="Puasa Ramadan wajib dijalankan karena merupakan salah satu r"
+2026-05-29 22:20:57,195 | llm | INFO | OK | key_index=0 | latency=10.09s | response="Ensure your passport has at least six months of validity and"
+2026-05-29 22:22:02,853 | llm | INFO | OK | key_index=0 | latency=14.73s | response="Pastikan paspor, visa, dan dokumen kesehatan sudah siap, ser"
+2026-05-29 22:22:39,493 | llm | INFO | OK | key_index=0 | latency=8.82s | response="Belajar bahasa Arab itu menantang, tapi sangat bisa dilakuka"
+2026-05-29 22:23:21,785 | llm | INFO | OK | key_index=0 | latency=15.35s | response="Tentu, aku bisa bantu susun itinerary perjalananmu ke Jeddah"
+2026-05-29 22:24:06,329 | llm | INFO | OK | key_index=0 | latency=18.68s | response="You should look for "Umrah Express" packages that specifical"
+2026-05-29 22:25:12,788 | llm | INFO | OK | key_index=0 | latency=18.2s | response="I recommend booking the Haramain High-Speed Railway online f"
+2026-05-29 22:26:13,625 | llm | INFO | OK | key_index=0 | latency=14.69s | response="First, prepare your passport and digital photo, then apply t"
+2026-05-29 22:27:35,072 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-29 22:27:35,073 | llm | INFO | OK | key_index=0 | latency=27.59s | response="Role: Friendly Umrah and Hajj travel assistant.
+Skill: Under"
+2026-05-29 22:29:10,666 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-29 22:29:10,667 | llm | INFO | OK | key_index=0 | latency=22.65s | response="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-29 22:30:53,887 | llm | INFO | OK | key_index=0 | latency=21.44s | response="Paling praktis langsung naik Haramain High-Speed Railway dar"
+2026-05-29 22:31:34,069 | llm | INFO | OK | key_index=0 | latency=13.72s | response="Buka website maskapai atau aplikasi OTA seperti Traveloka, l"
+2026-05-29 22:32:21,951 | llm | INFO | OK | key_index=0 | latency=20.57s | response="Siapkan dokumen penting seperti paspor dan visa, serta bawa "
+2026-05-29 22:32:59,635 | llm | INFO | OK | key_index=0 | latency=10.67s | response="Mulailah dengan menentukan budget dan waktu keberangkatan ya"
+2026-05-29 22:33:39,475 | llm | INFO | OK | key_index=0 | latency=13.36s | response="Tentu, boleh infokan kota asal dan tanggal keberangkatan pas"
+2026-05-29 22:34:16,846 | llm | INFO | OK | key_index=0 | latency=12.16s | response="You should look for "Umrah Reguler" packages that explicitly"
+2026-05-29 22:35:17,837 | llm | INFO | OK | key_index=0 | latency=14.2s | response="I recommend booking the Haramain High Speed Railway online f"
+2026-05-29 22:36:18,396 | llm | INFO | OK | key_index=0 | latency=10.06s | response="You can apply through the official Nusuk platform or the MoF"
+2026-05-29 22:37:37,655 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-29 22:37:37,656 | llm | INFO | OK | key_index=0 | latency=22.49s | response="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-29 22:39:20,568 | llm | INFO | OK | key_index=0 | latency=13.03s | response="The most efficient way is the Haramain High Speed Railway, w"
+2026-05-29 22:40:27,947 | llm | INFO | OK | key_index=0 | latency=17.16s | response="Sebaiknya mendarat di Madinah terlebih dahulu agar perjalana"
+2026-05-29 22:41:04,912 | llm | INFO | OK | key_index=0 | latency=10.93s | response="Puasa Ramadan wajib karena merupakan salah satu rukun Islam "
+2026-05-29 22:41:54,168 | llm | INFO | OK | key_index=0 | latency=22.62s | response="Siapkan dokumen penting seperti paspor dan visa, serta pakai"
+2026-05-29 22:42:36,461 | llm | INFO | OK | key_index=0 | latency=15.86s | response="Start by making a simple checklist for your documents and es"
+2026-05-29 22:43:41,249 | llm | INFO | OK | key_index=0 | latency=17.8s | response="Bisa banget! Tolong infokan kota keberangkatan dan tanggal p"
+2026-05-29 22:44:20,497 | llm | INFO | OK | key_index=0 | latency=13.9s | response="I recommend choosing a "Regular Umrah" package since they ty"
+2026-05-29 22:45:29,516 | llm | INFO | OK | key_index=0 | latency=20.93s | response="Kamu bisa booking tiket Haramain High Speed Railway secara o"
+2026-05-29 22:46:15,292 | llm | INFO | OK | key_index=0 | latency=19.86s | response="First, choose between a tourist visa via the official Nusuk "
+2026-05-29 22:47:33,424 | llm | INFO | OK | key_index=0 | latency=18.12s | response="I can definitely help you find the best flight schedule and "
+2026-05-29 22:48:41,008 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-29 22:48:41,008 | llm | INFO | OK | key_index=0 | latency=22.46s | response="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-29 22:50:12,761 | llm | INFO | OK | key_index=0 | latency=13.07s | response="Puasa Ramadan wajib karena merupakan salah satu rukun Islam "
+2026-05-29 22:50:52,839 | llm | INFO | OK | key_index=0 | latency=14.03s | response="Kamu bisa mengurusnya melalui agen travel umrah resmi (PPIU)"
+2026-05-29 22:51:34,887 | llm | INFO | OK | key_index=0 | latency=15.27s | response="Buka aplikasi travel atau situs resmi maskapai, lalu masukka"
+2026-05-29 22:52:21,724 | llm | INFO | OK | key_index=0 | latency=19.45s | response="Ensure your passport is valid for at least six months and yo"
+2026-05-29 22:53:38,485 | llm | INFO | OK | key_index=0 | latency=22.56s | response="Siapkan dokumen penting seperti paspor, visa, dan sertifikat"
+2026-05-29 22:54:17,295 | llm | INFO | OK | key_index=0 | latency=11.37s | response="Tentu, saya bisa bantu carikan jadwal penerbangannya. Tolong"
+2026-05-29 22:54:56,208 | llm | INFO | OK | key_index=0 | latency=13.04s | response="You should look for "Economy Umrah Packages" as they are str"
+2026-05-29 22:56:02,278 | llm | INFO | OK | key_index=0 | latency=13.47s | response="Tentu, kamu bisa memesan tiket kereta cepat Haramain High Sp"
+2026-05-29 22:56:50,024 | llm | INFO | OK | key_index=0 | latency=20.77s | response="You can apply through the official Nusuk platform or the KSA"
+2026-05-29 22:58:22,705 | llm | INFO | OK | key_index=0 | latency=27.68s | response="Na'am, tabi'an! Saya bisa bantu carikan jadwal flight terbai"
+2026-05-29 22:59:48,665 | llm | INFO | OK | key_index=0 | latency=21.42s | response="You can book the Haramain High-Speed Railway for a fast and "
+2026-05-29 23:00:54,920 | llm | INFO | OK | key_index=0 | latency=19.64s | response="Sebaiknya landing di Jeddah pagi hari agar bisa langsung lan"
+2026-05-29 23:01:38,132 | llm | INFO | OK | key_index=0 | latency=16.8s | response="Haji wajib dilakukan pada waktu tertentu di bulan Dzulhijjah"
+2026-05-29 23:02:24,723 | llm | INFO | OK | key_index=0 | latency=18.8s | response="Siapkan dokumen wajib seperti paspor, visa, dan bukti vaksin"
+2026-05-29 23:03:08,348 | llm | INFO | OK | key_index=0 | latency=15.53s | response="Tidak terlalu susah kok, asalkan kamu mulai dari kosakata da"
+2026-05-29 23:03:48,900 | llm | INFO | OK | key_index=0 | latency=14.12s | response="Tentu, aku bisa bantu carikan jadwalnya. Tolong infokan tang"
+2026-05-29 23:04:32,317 | llm | INFO | OK | key_index=0 | latency=17.88s | response="I recommend looking for "Umrah Regular Plus Madinah" package"
+2026-05-29 23:05:39,083 | llm | INFO | OK | key_index=0 | latency=15.26s | response="You can book the Haramain High-Speed Railway online through "
+2026-05-29 23:06:47,212 | llm | INFO | OK | key_index=0 | latency=22.32s | response="First, visit the official KSA Visa portal or Nusuk app to fi"
+2026-05-29 23:08:07,462 | llm | INFO | OK | key_index=0 | latency=20.54s | response="أبشر يا أخي، يمكنني مساعدتك في ذلك. من فضلك زودني بمدينة الإ"
+2026-05-29 23:09:27,130 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-29 23:09:27,136 | llm | INFO | OK | key_index=0 | latency=27.99s | response="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-29 23:11:11,878 | llm | INFO | OK | key_index=0 | latency=13.9s | response="Kamu bisa mengurusnya melalui agen travel resmi yang terdaft"
+2026-05-29 23:11:49,158 | llm | INFO | OK | key_index=0 | latency=10.34s | response="Buka aplikasi atau website maskapai dan masukkan kota asal s"
+2026-05-29 23:12:30,485 | llm | INFO | OK | key_index=0 | latency=13.61s | response="Siapkan dokumen penting seperti paspor dan visa, serta pakai"
+2026-05-29 23:13:12,004 | llm | INFO | OK | key_index=0 | latency=14.41s | response="Tidak susah kok, asalkan kamu mulai dari kosakata dasar yang"
+2026-05-29 23:13:51,935 | llm | INFO | OK | key_index=0 | latency=13.86s | response="Boleh, silakan infokan kota asal dan tanggal pastinya minggu"
+2026-05-29 23:14:32,799 | llm | INFO | OK | key_index=0 | latency=15.27s | response="I recommend choosing an "Umrah Regular" package, as these ty"
+2026-05-29 23:15:35,059 | llm | INFO | OK | key_index=0 | latency=12.87s | response="You can book the Haramain High Speed Railway online for a fa"
+2026-05-29 23:16:35,988 | llm | INFO | OK | key_index=0 | latency=11.92s | response="You can apply through the Nusuk platform or a licensed trave"
+2026-05-29 23:17:53,773 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-29 23:17:53,773 | llm | INFO | OK | key_index=0 | latency=27.53s | response="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-29 23:19:39,180 | llm | INFO | OK | key_index=0 | latency=22.05s | response="يمكنك حجز سيارة فوراً عبر تطبيق Careem أو Uber، أو التوجه مب"
+2026-05-29 23:20:53,014 | llm | INFO | OK | key_index=0 | latency=20.14s | response="Kamu bisa naik Haramain High Speed Railway untuk perjalanan "
+2026-05-29 23:21:43,023 | llm | INFO | OK | key_index=0 | latency=22.13s | response="Kamu bisa mengurus visa melalui agen travel resmi (PPIU) ata"
+2026-05-29 23:22:31,268 | llm | INFO | OK | key_index=0 | latency=19.94s | response="Siapkan dokumen utama seperti paspor, visa, dan sertifikat v"
+2026-05-29 23:23:11,848 | llm | INFO | OK | key_index=0 | latency=12.2s | response="Tidak susah kok, asalkan kamu mulai dari kosakata dasar dan "
+2026-05-29 23:23:49,345 | llm | INFO | OK | key_index=0 | latency=10.78s | response="Bisa banget, silakan beri tahu kota asal dan tujuanmu untuk "
+2026-05-29 23:24:29,490 | llm | INFO | OK | key_index=0 | latency=14.24s | response="You should look for a "Regular Umrah" package, as these typi"
+2026-05-29 23:25:31,339 | llm | INFO | OK | key_index=0 | latency=12.76s | response="Tentu, saya sarankan menggunakan kereta cepat Haramain High "
+2026-05-29 23:26:18,682 | llm | INFO | OK | key_index=0 | latency=19.81s | response="You can apply for a tourist visa through the official KSA vi"
+2026-05-29 23:27:41,573 | llm | INFO | OK | key_index=0 | latency=26.21s | response="Certainly, I can help you find the best direct flight schedu"
+2026-05-29 23:28:46,735 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-29 23:28:46,735 | llm | INFO | OK | key_index=0 | latency=22.6s | response="Role: Friendly Umrah and Hajj travel assistant.
+Language Pro"
+2026-05-29 23:30:37,522 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-29 23:30:37,523 | llm | INFO | OK | key_index=0 | latency=22.29s | response="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-29 23:31:22,784 | llm | INFO | OK | key_index=0 | latency=15.5s | response="Puasa Ramadan itu wajib karena merupakan salah satu dari lim"
+2026-05-29 23:32:06,202 | llm | INFO | OK | key_index=0 | latency=17.48s | response="Make sure your passport has at least six months of validity "
+2026-05-29 23:33:37,544 | llm | INFO | OK | key_index=0 | latency=14.59s | response="Siap, mari kita berangkat! Segera siapkan dokumen dan perlen"
+2026-05-29 23:34:12,256 | llm | INFO | OK | key_index=0 | latency=9.41s | response="Bisa banget! Tolong infokan kota keberangkatan dan tanggal p"
+2026-05-29 23:34:52,603 | llm | INFO | OK | key_index=0 | latency=15.4s | response="I recommend looking for "Umrah Plus Madinah" packages that i"
+2026-05-29 23:36:00,559 | llm | INFO | OK | key_index=0 | latency=11.7s | response="Tentu, kamu bisa pilih naik kereta cepat Haramain High Speed"
+2026-05-29 23:36:42,481 | llm | INFO | OK | key_index=0 | latency=16.37s | response="First, visit the official KSA Visa portal or the Nusuk app t"
+2026-05-29 23:37:51,601 | llm | INFO | OK | key_index=0 | latency=15.23s | response="I can certainly help you find the best direct flight schedul"
+2026-05-29 23:38:55,398 | llm | INFO | OK | key_index=0 | latency=21.61s | response="You can take the Haramain High Speed Railway for a fast and "
+2026-05-29 23:39:58,169 | llm | INFO | OK | key_index=0 | latency=17.93s | response="I will check the transport options from Makkah to Madinah fo"
+2026-05-29 23:41:03,603 | llm | INFO | OK | key_index=0 | latency=19.92s | response="Kamu bisa mengurus visa melalui biro perjalanan umrah (PPIU)"
+2026-05-29 23:41:47,534 | llm | INFO | OK | key_index=0 | latency=17.69s | response="Make sure your passport is valid for at least six months and"
+2026-05-29 23:42:52,297 | llm | INFO | OK | key_index=0 | latency=17.68s | response="Tidak susah kok, asalkan kamu mulai dari kosa kata dasar yan"
+2026-05-29 23:43:29,934 | llm | INFO | OK | key_index=0 | latency=10.88s | response="Tentu, aku bisa bantu carikan jadwalnya. Tolong infokan tang"
+2026-05-29 23:44:16,017 | llm | INFO | OK | key_index=0 | latency=20.4s | response="Kamu bisa pilih paket umrah reguler yang sudah termasuk prog"
+2026-05-29 23:44:57,580 | llm | INFO | OK | key_index=0 | latency=15.19s | response="Tentu, Anda bisa memilih menggunakan kereta cepat Haramain a"
+2026-05-29 23:45:40,601 | llm | INFO | OK | key_index=0 | latency=16.62s | response="Visit the official Saudi visa portal or use the Nusuk app to"
+2026-05-29 23:47:02,823 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-29 23:47:02,824 | llm | INFO | OK | key_index=0 | latency=28.1s | response="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-29 23:48:49,839 | llm | INFO | OK | key_index=0 | latency=24.94s | response="يمكنك حجز قطار الحرمين السريع أو سيارة خاصة لرحلتك من جدة إل"
+2026-05-29 23:49:57,522 | llm | INFO | OK | key_index=0 | latency=22.89s | response="Sebaiknya mendarat langsung di Madinah terlebih dahulu agar "
+2026-05-29 23:50:41,866 | llm | INFO | OK | key_index=0 | latency=17.2s | response="Puasa Ramadan wajib karena merupakan salah satu rukun Islam "
+2026-05-29 23:51:29,328 | llm | INFO | OK | key_index=0 | latency=20.21s | response="Siapkan dokumen penting seperti paspor dan visa, pakaian ihr"
+2026-05-29 23:52:09,830 | llm | INFO | OK | key_index=0 | latency=12.68s | response="Pertama, pastikan paspor Anda masih berlaku minimal enam bul"
+2026-05-29 23:52:49,296 | llm | INFO | OK | key_index=0 | latency=13.18s | response="Bahasa Inggrisnya adalah "I want to go to Makkah next week" "
+2026-05-29 23:53:29,430 | llm | INFO | OK | key_index=0 | latency=15.55s | response="Tentu, aku bisa bantu buatkan jadwal penerbangan ke Jeddah u"
+2026-05-29 23:54:22,594 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-29 23:54:22,595 | llm | INFO | OK | key_index=0 | latency=27.43s | response="Role: Friendly Umrah and Hajj travel assistant.
+Language Ski"
+2026-05-29 23:56:09,444 | llm | INFO | OK | key_index=0 | latency=15.8s | response="Kamu bisa pesan tiket Haramain High Speed Railway secara onl"
+2026-05-29 23:57:02,695 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-29 23:57:02,695 | llm | INFO | OK | key_index=0 | latency=27.57s | response="Role: Friendly Umrah and Hajj travel assistant.
+Language Ski"
+2026-05-29 23:59:03,431 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-29 23:59:03,431 | llm | INFO | OK | key_index=0 | latency=22.33s | response="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 00:00:57,301 | llm | INFO | OK | key_index=0 | latency=19.86s | response="يمكنك حجز قطار الحرمين السريع أو سيارة خاصة عبر تطبيقات Care"
+2026-05-30 00:02:07,755 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 00:02:07,755 | llm | INFO | OK | key_index=0 | latency=22.45s | response="Role: Umrah and Hajj travel assistant (friendly).
+Skills: Un"
+2026-05-30 00:04:07,872 | llm | INFO | OK | key_index=0 | latency=19.28s | response="Haji wajib dilaksanakan pada waktu tertentu di bulan Dzulhij"
+2026-05-30 00:04:47,085 | llm | INFO | OK | key_index=0 | latency=12.07s | response="Buka website maskapai atau aplikasi travel favorit, lalu mas"
+2026-05-30 00:05:26,516 | llm | INFO | OK | key_index=0 | latency=12.33s | response="Mulailah dengan menentukan budget dan waktu keberangkatan ya"
+2026-05-30 00:06:07,351 | llm | INFO | OK | key_index=0 | latency=14.55s | response="Bisa banget! Tolong beri tahu tanggal pasti dan preferensi m"
+2026-05-30 00:06:47,312 | llm | INFO | OK | key_index=0 | latency=15.07s | response="You should look for an Umrah Reguler package, as most standa"
+2026-05-30 00:08:04,157 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 00:08:04,158 | llm | INFO | OK | key_index=0 | latency=27.68s | response="Role: Friendly Umrah and Hajj travel assistant.
+Skill: Under"
+2026-05-30 00:09:58,292 | llm | INFO | OK | key_index=0 | latency=19.81s | response="Visit the official Nusuk platform or a certified travel agen"
+2026-05-30 00:11:16,500 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 00:11:16,505 | llm | INFO | OK | key_index=0 | latency=22.34s | response="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-30 00:13:20,427 | llm | INFO | OK | key_index=0 | latency=25.45s | response="يمكنك حجز قطار الحرمين السريع لرحلة مريحة وسريعة، أو استئجار"
+2026-05-30 00:14:35,909 | llm | INFO | OK | key_index=0 | latency=25.67s | response="Haji wajib dilaksanakan pada waktu tertentu di bulan Dzulhij"
+2026-05-30 00:15:25,686 | llm | INFO | OK | key_index=0 | latency=22.13s | response="Buka aplikasi atau website travel favorit, lalu masukkan rut"
+2026-05-30 00:16:12,263 | llm | INFO | OK | key_index=0 | latency=18.93s | response="Fokus cari hotel di area Misfalah atau Aziziyah karena harga"
+2026-05-30 00:16:52,199 | llm | INFO | OK | key_index=0 | latency=13.08s | response="Mulailah dengan menentukan budget dan memutuskan apakah ingi"
+2026-05-30 00:17:30,703 | llm | INFO | OK | key_index=0 | latency=11.77s | response="Tentu, saya bisa bantu atur jadwalnya. Boleh tolong infokan "
+2026-05-30 00:18:24,258 | llm | INFO | OK | key_index=0 | latency=27.52s | response="I recommend choosing an "Umrah Plus Madinah" package"
+2026-05-30 00:19:07,008 | llm | INFO | OK | key_index=0 | latency=12.9s | response="The fastest way is to book the Haramain High Speed Railway t"
+2026-05-30 00:20:02,938 | llm | INFO | OK | key_index=0 | latency=12.5s | response="First, visit the official Nusuk or Saudi Visa platform to re"
+2026-05-30 00:21:19,467 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 00:21:19,473 | llm | INFO | OK | key_index=0 | latency=22.62s | response="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-30 00:22:56,236 | llm | INFO | OK | key_index=0 | latency=13.17s | response="You can book the Haramain High Speed Railway for a fast and "
+2026-05-30 00:23:59,623 | llm | INFO | OK | key_index=0 | latency=20.43s | response="Buka website maskapai atau aplikasi travel, masukkan kota as"
+2026-05-30 00:24:41,368 | llm | INFO | OK | key_index=0 | latency=15.42s | response="Ensure your passport is valid for at least six months and pr"
+2026-05-30 00:25:51,366 | llm | INFO | OK | key_index=0 | latency=20.72s | response="Siapkan dokumen penting seperti paspor, visa, dan sertifikat"
+2026-05-30 00:26:36,297 | llm | INFO | OK | key_index=0 | latency=16.47s | response="Cari hotel di area Mahbas Jin atau Aziziyah yang menyediakan"
+2026-05-30 00:27:17,617 | llm | INFO | OK | key_index=0 | latency=15.06s | response="Start by making a simple checklist of your essentials like I"
+2026-05-30 00:28:14,910 | llm | INFO | OK | key_index=0 | latency=10.8s | response="Tentu, saya bisa bantu carikan opsi jadwal penerbangan ke Je"
+2026-05-30 00:29:01,810 | llm | INFO | OK | key_index=0 | latency=21.01s | response="Kamu bisa memilih paket Umrah Reguler karena biasanya sudah "
+2026-05-30 00:29:44,204 | llm | INFO | OK | key_index=0 | latency=16.31s | response="You can book the Haramain High Speed Railway online for a fa"
+2026-05-30 00:30:52,917 | llm | INFO | OK | key_index=0 | latency=20.92s | response="You can apply through the official Nusuk platform or a regis"
+2026-05-30 00:32:05,347 | llm | INFO | OK | key_index=0 | latency=21.71s | response="يمكنك استخدام تطبيقات مثل Skyscanner أو Wego للبحث عن أفضل ا"
+2026-05-30 00:33:13,922 | llm | INFO | OK | key_index=0 | latency=21.24s | response="Please contact your travel agent or the transport provider i"
+2026-05-30 00:34:22,726 | llm | INFO | OK | key_index=0 | latency=23.32s | response="Pilihlah jadwal penerbangan yang tiba di Jeddah pada pagi ha"
+2026-05-30 00:35:10,351 | llm | INFO | OK | key_index=0 | latency=21.2s | response="Haji adalah rukun Islam yang wajib dilaksanakan pada waktu t"
+2026-05-30 00:36:00,323 | llm | INFO | OK | key_index=0 | latency=22.71s | response="Make sure your passport is valid for at least six months and"
+2026-05-30 00:37:05,966 | llm | INFO | OK | key_index=0 | latency=10.13s | response="Don't worry, just start by making a simple checklist for you"
+2026-05-30 00:38:04,997 | llm | INFO | OK | key_index=0 | latency=14.21s | response="Tentu, bisa banget. Tolong infokan tanggal pasti dan prefere"
+2026-05-30 00:38:47,951 | llm | INFO | OK | key_index=0 | latency=17.7s | response="You should look for a "Standard Umrah" package that explicit"
+2026-05-30 00:39:55,847 | llm | INFO | OK | key_index=0 | latency=19.0s | response="You can book the Haramain High-Speed Railway online via thei"
+2026-05-30 00:40:57,902 | llm | INFO | OK | key_index=0 | latency=10.6s | response="First, choose your visa type and visit the official Nusuk pl"
+2026-05-30 00:42:14,599 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 00:42:14,600 | llm | INFO | OK | key_index=0 | latency=22.36s | response="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-30 00:44:13,386 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 00:44:13,387 | llm | INFO | OK | key_index=0 | latency=22.35s | response="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 00:46:03,160 | llm | INFO | OK | key_index=0 | latency=13.81s | response="Sebaiknya mendarat di Jeddah pagi hari agar bisa langsung na"
+2026-05-30 00:46:45,350 | llm | INFO | OK | key_index=0 | latency=16.35s | response="Puasa Ramadan itu wajib karena merupakan salah satu dari lim"
+2026-05-30 00:47:34,295 | llm | INFO | OK | key_index=0 | latency=22.2s | response="Buka aplikasi travel atau situs maskapai, lalu masukkan kota"
+2026-05-30 00:48:14,940 | llm | INFO | OK | key_index=0 | latency=13.06s | response="Belajar bahasa Arab itu menantang, tapi sangat bisa dilakuka"
+2026-05-30 00:48:51,099 | llm | INFO | OK | key_index=0 | latency=9.57s | response="Tentu, saya bisa bantu carikan jadwalnya. Tolong infokan kot"
+2026-05-30 00:49:31,547 | llm | INFO | OK | key_index=0 | latency=15.05s | response="You should look for "Umrah Regular" or "Economy" packages, a"
+2026-05-30 00:50:33,374 | llm | INFO | OK | key_index=0 | latency=9.53s | response="I recommend booking the Haramain High-Speed Railway for a fa"
+2026-05-30 00:51:32,548 | llm | INFO | OK | key_index=0 | latency=13.32s | response="You can apply through the official Nusuk platform or a regis"
+2026-05-30 00:52:45,584 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 00:52:45,585 | llm | INFO | OK | key_index=0 | latency=22.32s | response="Role: Friendly Umrah/Hajj travel assistant.
+Skills: Code-swi"
+2026-05-30 00:54:37,252 | llm | INFO | OK | key_index=0 | latency=19.04s | response="يمكنك حجز قطار الحرمين السريع عبر الموقع الإلكتروني لضمان مق"
+2026-05-30 00:55:47,054 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 00:55:47,054 | llm | INFO | OK | key_index=0 | latency=22.4s | response="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 00:56:28,934 | llm | INFO | OK | key_index=0 | latency=12.94s | response="Kamu bisa mengurusnya melalui travel agent resmi (PPIU) atau"
+2026-05-30 00:57:09,486 | llm | INFO | OK | key_index=0 | latency=14.5s | response="Ensure your passport is valid for at least six months and pr"
+2026-05-30 00:58:21,680 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 00:58:21,680 | llm | INFO | OK | key_index=0 | latency=22.55s | response="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 00:59:02,835 | llm | INFO | OK | key_index=0 | latency=12.16s | response="Belajar Bahasa Arab itu menantang tapi sangat mungkin dilaku"
+2026-05-30 00:59:46,293 | llm | INFO | OK | key_index=0 | latency=16.88s | response="Tentu, saya bisa bantu carikan jadwal flight yang tersedia. "
+2026-05-30 01:00:26,814 | llm | INFO | OK | key_index=0 | latency=14.9s | response="I recommend looking for a standard Umrah package that specif"
+2026-05-30 01:01:28,141 | llm | INFO | OK | key_index=0 | latency=12.89s | response="I recommend booking the Haramain High Speed Railway online v"
+2026-05-30 01:02:28,774 | llm | INFO | OK | key_index=0 | latency=12.33s | response="You can apply through the official KSA Visa portal or via a "
+2026-05-30 01:03:35,642 | llm | INFO | OK | key_index=0 | latency=15.6s | response="I can definitely help you find the best flight schedules to "
+2026-05-30 01:04:44,763 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 01:04:44,764 | llm | INFO | OK | key_index=0 | latency=27.56s | response="Role: Friendly Umrah and Hajj travel assistant.
+Language ski"
+2026-05-30 01:06:33,411 | llm | INFO | OK | key_index=0 | latency=20.75s | response="Haji wajib dilaksanakan pada waktu tertentu di bulan Dzulhij"
+2026-05-30 01:07:19,012 | llm | INFO | OK | key_index=0 | latency=19.1s | response="Kamu bisa mengurusnya dengan mudah melalui agen travel resmi"
+2026-05-30 01:08:13,144 | llm | INFO | OK | key_index=0 | latency=27.03s | response="Pastikan paspor, visa, sertifikat vaksin, kain ihram atau mu"
+2026-05-30 01:09:00,562 | llm | INFO | OK | key_index=0 | latency=19.95s | response="Tidak susah kok, asalkan kamu fokus pada kosakata harian dan"
+2026-05-30 01:09:36,710 | llm | INFO | OK | key_index=0 | latency=9.65s | response="Tentu, boleh banget! Tolong infokan tanggal keberangkatan da"
+2026-05-30 01:10:17,816 | llm | INFO | OK | key_index=0 | latency=15.9s | response="I recommend choosing a "Regular Umrah" package that explicit"
+2026-05-30 01:11:22,184 | llm | INFO | OK | key_index=0 | latency=12.07s | response="You can book the Haramain High-Speed Railway online via thei"
+2026-05-30 01:12:35,605 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 01:12:35,605 | llm | INFO | OK | key_index=0 | latency=22.45s | response="Role: Friendly Umrah and Hajj travel assistant.
+Language cap"
+2026-05-30 01:14:26,332 | llm | INFO | OK | key_index=0 | latency=20.91s | response="Na'am ya akhi, saya bisa bantu buatkan best schedule untuk U"
+2026-05-30 01:15:55,392 | llm | INFO | OK | key_index=0 | latency=22.42s | response="يمكنك استئجار سيارة خاصة مع سائق عبر تطبيقات مثل Careem أو ا"
+2026-05-30 01:16:53,664 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 01:16:53,664 | llm | INFO | OK | key_index=0 | latency=22.28s | response="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 01:17:37,280 | llm | INFO | OK | key_index=0 | latency=14.92s | response="Kamu bisa mengurusnya melalui agen travel resmi (PPIU) agar "
+2026-05-30 01:18:14,349 | llm | INFO | OK | key_index=0 | latency=11.38s | response="Ensure your passport is valid for at least six months and ob"
+2026-05-30 01:19:23,774 | llm | INFO | OK | key_index=0 | latency=15.13s | response="Tidak terlalu sulit kok, asalkan kamu mulai dari kosakata ha"
+2026-05-30 01:20:00,540 | llm | INFO | OK | key_index=0 | latency=10.7s | response="Tentu, I can help you with that. Silakan infokan kota asal d"
+2026-05-30 01:20:43,059 | llm | INFO | OK | key_index=0 | latency=17.31s | response="You should look for "Umrah Plus Madinah" packages that alrea"
+2026-05-30 01:21:46,320 | llm | INFO | OK | key_index=0 | latency=15.33s | response="You can book the Haramain High-Speed Railway online through "
+2026-05-30 01:22:52,267 | llm | INFO | OK | key_index=0 | latency=18.04s | response="Visit the official KSA Visa portal or use the Nusuk app to f"
+2026-05-30 01:24:08,352 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 01:24:08,352 | llm | INFO | OK | key_index=0 | latency=22.37s | response="Role: Friendly Umrah and Hajj travel assistant.
+Language Pro"
+2026-05-30 01:25:48,003 | llm | INFO | OK | key_index=0 | latency=19.37s | response="يمكنك حجز قطار الحرمين السريع عبر الإنترنت لرحلة مريحة وسريع"
+2026-05-30 01:26:55,839 | llm | INFO | OK | key_index=0 | latency=15.04s | response="Pilihlah jadwal penerbangan pagi agar kamu tiba di Jeddah se"
+2026-05-30 01:27:34,992 | llm | INFO | OK | key_index=0 | latency=12.84s | response="Buka website maskapai atau travel agent online, lalu masukka"
+2026-05-30 01:28:15,319 | llm | INFO | OK | key_index=0 | latency=13.38s | response="Ensure your passport has at least six months of validity and"
+2026-05-30 01:29:37,902 | llm | INFO | OK | key_index=0 | latency=20.54s | response="Start by making a simple checklist for your essentials like "
+2026-05-30 01:30:35,940 | llm | INFO | OK | key_index=0 | latency=12.99s | response="Tentu, saya bisa bantu buatkan jadwalnya. Silakan informasik"
+2026-05-30 01:31:27,961 | llm | INFO | OK | key_index=0 | latency=26.2s | response="Most standard Umrah packages already include a visit to Madi"
+2026-05-30 01:32:27,252 | llm | INFO | OK | key_index=0 | latency=12.29s | response="You can book the Haramain High-Speed Railway online for a fa"
+2026-05-30 01:33:25,108 | llm | INFO | OK | key_index=0 | latency=11.3s | response="You can apply through the official KSA Visa website or the N"
+2026-05-30 01:34:39,759 | llm | INFO | OK | key_index=0 | latency=14.62s | response="Tentu, saya bisa bantu carikan opsi penerbangan terbaik ke J"
+2026-05-30 01:35:28,502 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 01:35:28,502 | llm | INFO | OK | key_index=0 | latency=22.22s | response="Role: Friendly Umrah and Hajj travel assistant.
+Language Cap"
+2026-05-30 01:37:00,712 | llm | INFO | OK | key_index=0 | latency=13.65s | response="Anda bisa mengurusnya melalui agen travel umrah atau mengaju"
+2026-05-30 01:37:49,406 | llm | INFO | OK | key_index=0 | latency=22.61s | response="Buka website maskapai atau aplikasi travel, lalu masukkan ko"
+2026-05-30 01:38:41,751 | llm | INFO | OK | key_index=0 | latency=24.82s | response="Pastikan paspor, visa, dan kain ihram atau pakaian muslim su"
+2026-05-30 01:39:24,426 | llm | INFO | OK | key_index=0 | latency=15.58s | response="Tidak susah kok, asalkan kamu fokus pada kosakata harian yan"
+2026-05-30 01:40:00,686 | llm | INFO | OK | key_index=0 | latency=10.13s | response="Bisa banget, aku bantu carikan ya. Tolong beri tahu kota keb"
+2026-05-30 01:40:36,935 | llm | INFO | OK | key_index=0 | latency=10.24s | response="Tentu, boleh kasih tahu tanggal pasti dan kota asal keberang"
+2026-05-30 01:41:30,184 | llm | INFO | OK | key_index=0 | latency=27.62s | response="I recommend looking for "Umrah Regular" packages that specif"
+2026-05-30 01:42:39,612 | llm | INFO | OK | key_index=0 | latency=19.61s | response="Most standard Umrah packages already include a visit to Madi"
+2026-05-30 01:43:55,286 | llm | INFO | OK | key_index=0 | latency=25.95s | response="Tentu, saya bisa bantu atur transportasinya. Anda bisa memil"
+2026-05-30 01:44:45,463 | llm | INFO | OK | key_index=0 | latency=23.52s | response="Tentu, saya bisa membantu mengatur transportasi Anda. Anda d"
+2026-05-30 01:45:26,703 | llm | INFO | OK | key_index=0 | latency=15.71s | response="You can apply for your Saudi visa through the official Nusuk"
+2026-05-30 01:46:35,976 | llm | INFO | OK | key_index=0 | latency=12.23s | response="You can apply through the official Nusuk platform or a licen"
+2026-05-30 01:47:50,127 | llm | INFO | OK | key_index=0 | latency=22.86s | response="I can definitely help you find the best flight schedules to "
+2026-05-30 01:48:53,582 | llm | INFO | OK | key_index=0 | latency=12.06s | response="I can certainly help you find the best direct flight schedul"
+2026-05-30 01:50:10,690 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 01:50:10,691 | llm | INFO | OK | key_index=0 | latency=32.75s | response="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-30 01:51:51,761 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 01:51:51,767 | llm | INFO | OK | key_index=0 | latency=22.33s | response="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 01:53:50,854 | llm | INFO | OK | key_index=0 | latency=31.58s | response="Sebaiknya mendarat di Jeddah lalu langsung menuju Madinah me"
+2026-05-30 01:54:36,057 | llm | INFO | OK | key_index=0 | latency=18.28s | response="Sebaiknya Anda tiba di Jeddah pada pagi hari dan langsung la"
+2026-05-30 01:55:13,491 | llm | INFO | OK | key_index=0 | latency=11.32s | response="Kamu bisa mengurusnya melalui agen travel umrah resmi atau s"
+2026-05-30 01:55:58,856 | llm | INFO | OK | key_index=0 | latency=19.05s | response="Kamu bisa mengurusnya melalui agen travel resmi yang terdaft"
+2026-05-30 01:56:45,235 | llm | INFO | OK | key_index=0 | latency=20.69s | response="Ensure your passport has at least six months of validity and"
+2026-05-30 01:57:55,388 | llm | INFO | OK | key_index=0 | latency=18.54s | response="Make sure your passport is valid for at least six months and"
+2026-05-30 01:59:04,509 | llm | INFO | OK | key_index=0 | latency=21.81s | response="Belajar bahasa Arab bisa terasa menantang di awal, tapi sebe"
+2026-05-30 01:59:52,374 | llm | INFO | OK | key_index=0 | latency=20.55s | response="Tidak susah kok, yang penting mulai dari kosakata praktis un"
+2026-05-30 02:00:32,370 | llm | INFO | OK | key_index=0 | latency=13.93s | response="Tentu, saya bisa bantu atur jadwalnya. Tolong infokan kota k"
+2026-05-30 02:01:11,692 | llm | INFO | OK | key_index=0 | latency=13.84s | response="Most standard Umrah packages already include Madinah Ziarah "
+2026-05-30 02:02:15,892 | llm | INFO | OK | key_index=0 | latency=15.72s | response="I recommend booking the Haramain High-Speed Railway online f"
+2026-05-30 02:03:25,735 | llm | INFO | OK | key_index=0 | latency=24.37s | response="You can apply through the official Nusuk platform or a licen"
+2026-05-30 02:04:43,964 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 02:04:43,965 | llm | INFO | OK | key_index=0 | latency=22.34s | response="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-30 02:06:30,161 | llm | INFO | OK | key_index=0 | latency=22.95s | response="يمكنك حجز قطار الحرمين السريع عبر موقعه الرسمي أو طلب سيارة "
+2026-05-30 02:07:43,543 | llm | INFO | OK | key_index=0 | latency=20.4s | response="Haji wajib dilakukan pada waktu tertentu di bulan Dzulhijjah"
+2026-05-30 02:08:23,825 | llm | INFO | OK | key_index=0 | latency=13.09s | response="Puasa Ramadan wajib karena merupakan salah satu rukun Islam "
+2026-05-30 02:09:06,732 | llm | INFO | OK | key_index=0 | latency=16.94s | response="Ensure your passport is valid for at least six months and pr"
+2026-05-30 02:10:05,511 | llm | INFO | OK | key_index=0 | latency=13.37s | response="Mulailah dengan menentukan budget dan waktu keberangkatan ya"
+2026-05-30 02:10:55,585 | llm | INFO | OK | key_index=0 | latency=23.76s | response="Tentu, aku bisa bantu buatkan schedule-nya. Tolong infokan t"
+2026-05-30 02:11:45,660 | llm | INFO | OK | key_index=0 | latency=24.49s | response="You should look for "Umrah Reguler" packages, as they typica"
+2026-05-30 02:12:50,615 | llm | INFO | OK | key_index=0 | latency=18.95s | response="Tentu, kamu bisa pesan tiket kereta cepat Haramain High Spee"
+2026-05-30 02:13:38,096 | llm | INFO | OK | key_index=0 | latency=21.38s | response="You can apply through the official Nusuk platform or the KSA"
+2026-05-30 02:15:04,466 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 02:15:04,467 | llm | INFO | OK | key_index=0 | latency=27.6s | response="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-30 02:16:53,071 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 02:16:53,071 | llm | INFO | OK | key_index=0 | latency=22.26s | response="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 02:18:54,210 | llm | INFO | OK | key_index=0 | latency=24.51s | response="Kamu bisa mengurusnya secara online melalui platform Nusuk a"
+2026-05-30 02:19:42,855 | llm | INFO | OK | key_index=0 | latency=21.96s | response="Make sure your passport is valid for at least six months and"
+2026-05-30 02:21:13,267 | llm | INFO | OK | key_index=0 | latency=26.84s | response="Cari hotel di area Aziziyah atau Mahbas Jin yang harganya le"
+2026-05-30 02:21:57,464 | llm | INFO | OK | key_index=0 | latency=17.23s | response="Fokuslah pada latihan fisik seperti rutin jalan kaki agar st"
+2026-05-30 02:22:44,511 | llm | INFO | OK | key_index=0 | latency=20.64s | response="Tentu, aku bisa bantu carikan jadwalnya. Tolong infokan kota"
+2026-05-30 02:23:38,680 | llm | INFO | OK | key_index=0 | latency=28.84s | response="You should look for "Umrah Ekonomi" or standard packages tha"
+2026-05-30 02:24:56,332 | llm | INFO | OK | key_index=0 | latency=23.38s | response="Tentu, saya bisa bantu pesankan kereta cepat Haramain atau m"
+2026-05-30 02:25:50,881 | llm | INFO | OK | key_index=0 | latency=28.87s | response="First, choose your visa type via the official Nusuk platform"
+2026-05-30 02:27:07,272 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 02:27:07,273 | llm | INFO | OK | key_index=0 | latency=22.36s | response="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-30 02:28:58,582 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 02:28:58,583 | llm | INFO | OK | key_index=0 | latency=22.42s | response="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 02:30:34,226 | llm | INFO | OK | key_index=0 | latency=16.84s | response="Haji adalah ibadah wajib yang dilakukan pada waktu tertentu "
+2026-05-30 02:31:13,240 | llm | INFO | OK | key_index=0 | latency=11.53s | response="Buka aplikasi pemesanan tiket seperti Traveloka atau Skyscan"
+2026-05-30 02:31:52,817 | llm | INFO | OK | key_index=0 | latency=12.42s | response="Tidak sesulit itu kok, apalagi jika kamu fokus pada kosakata"
+2026-05-30 02:32:49,805 | llm | INFO | OK | key_index=0 | latency=31.16s | response="Kalimatnya adalah "I want to go to Makkah next week." Semoga"
+2026-05-30 02:33:38,446 | llm | INFO | OK | key_index=0 | latency=23.6s | response="Tentu, saya bisa bantu carikan jadwal flight-nya. Boleh tolo"
+2026-05-30 02:34:26,432 | llm | INFO | OK | key_index=0 | latency=22.34s | response="Kamu bisa pilih paket Umrah reguler yang sudah menyertakan p"
+2026-05-30 02:35:09,739 | llm | INFO | OK | key_index=0 | latency=15.94s | response="I recommend booking the Haramain High Speed Railway for a fa"
+2026-05-30 02:36:07,747 | llm | INFO | OK | key_index=0 | latency=10.87s | response="Apply through the official Nusuk platform or a certified tra"
+2026-05-30 02:37:32,515 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 02:37:32,515 | llm | INFO | OK | key_index=0 | latency=27.37s | response="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 02:39:13,708 | llm | INFO | OK | key_index=0 | latency=15.53s | response="I can certainly help you arrange transport from Jeddah to Ma"
+2026-05-30 02:40:27,182 | llm | INFO | OK | key_index=0 | latency=27.34s | response="Sebaiknya pilih jadwal di hari kerja agar tidak terlalu rama"
+2026-05-30 02:41:11,777 | llm | INFO | OK | key_index=0 | latency=18.6s | response="Haji wajib dilaksanakan pada waktu tertentu di bulan Dzulhij"
+2026-05-30 02:42:01,545 | llm | INFO | OK | key_index=0 | latency=21.81s | response="Puasa Ramadhan wajib karena merupakan salah satu rukun Islam"
+2026-05-30 02:42:42,197 | llm | INFO | OK | key_index=0 | latency=14.16s | response="Kamu bisa mengurusnya melalui agen travel resmi yang terdaft"
+2026-05-30 02:43:28,278 | llm | INFO | OK | key_index=0 | latency=19.59s | response="Buka aplikasi atau website travel pilihan Anda, lalu masukka"
+2026-05-30 02:44:15,715 | llm | INFO | OK | key_index=0 | latency=20.98s | response="Ensure your passport is valid for at least six months and pr"
+2026-05-30 02:45:25,937 | llm | INFO | OK | key_index=0 | latency=16.01s | response="Siapkan dokumen penting seperti paspor dan visa, serta pakai"
+2026-05-30 02:46:07,717 | llm | INFO | OK | key_index=0 | latency=14.6s | response="Tidak terlalu susah jika kamu fokus pada kosakata dasar untu"
+2026-05-30 02:46:46,391 | llm | INFO | OK | key_index=0 | latency=12.55s | response="Mulailah dengan menyiapkan paspor dan menentukan budget yang"
+2026-05-30 02:47:23,392 | llm | INFO | OK | key_index=0 | latency=10.71s | response="Tentu, saya bisa bantu buatkan jadwalnya. Tolong beri tahu s"
+2026-05-30 02:47:59,642 | llm | INFO | OK | key_index=0 | latency=10.89s | response="You should look for an "Umrah Plus" package that explicitly "
+2026-05-30 02:49:08,453 | llm | INFO | OK | key_index=0 | latency=15.41s | response="You can book the Haramain High Speed Railway online for the "
+2026-05-30 02:50:18,597 | llm | INFO | OK | key_index=0 | latency=22.85s | response="You can apply for a tourist e-visa via the official Saudi po"
+2026-05-30 02:51:37,655 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 02:51:37,655 | llm | INFO | OK | key_index=0 | latency=22.26s | response="Role: Umrah and Hajj travel assistant (friendly).
+Capabiliti"
+2026-05-30 02:53:30,297 | llm | INFO | OK | key_index=0 | latency=21.59s | response="يمكنك استخدام قطار الحرمين السريع فهو الخيار الأسرع، أو حجز "
+2026-05-30 02:54:55,801 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 02:54:55,802 | llm | INFO | OK | key_index=0 | latency=27.59s | response="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 02:55:37,464 | llm | INFO | OK | key_index=0 | latency=13.2s | response="Puasa Ramadan wajib karena merupakan salah satu rukun Islam "
+2026-05-30 02:56:13,623 | llm | INFO | OK | key_index=0 | latency=10.37s | response="Ensure your passport is valid for at least six months and pr"
+2026-05-30 02:57:14,448 | llm | INFO | OK | key_index=0 | latency=8.81s | response="Tidak terlalu sulit kok, asalkan kamu mulai dari kosakata da"
+2026-05-30 02:57:55,288 | llm | INFO | OK | key_index=0 | latency=14.61s | response="Bisa, saya bantu carikan jadwal flight ke Jeddah untuk mingg"
+2026-05-30 02:58:36,988 | llm | INFO | OK | key_index=0 | latency=16.05s | response="You should look for "Umrah Ekonomi" or standard packages, as"
+2026-05-30 02:59:57,023 | llm | INFO | OK | key_index=0 | latency=27.51s | response="Tentu, saya bisa bantu berikan rekomendasinya. Anda bisa mem"
+2026-05-30 03:00:37,311 | llm | INFO | OK | key_index=0 | latency=15.89s | response="Visit the official KSA Visa platform or use the Nusuk app to"
+2026-05-30 03:01:47,913 | llm | INFO | OK | key_index=0 | latency=15.89s | response="I can certainly help you find the best direct flight schedul"
+2026-05-30 03:02:54,323 | llm | INFO | OK | key_index=0 | latency=20.31s | response="You can book a private car or a shuttle service through your"
+2026-05-30 03:04:00,884 | llm | INFO | OK | key_index=0 | latency=19.39s | response="Sebaiknya mendarat di Jeddah lalu langsung lanjut ke Madinah"
+2026-05-30 03:04:48,296 | llm | INFO | OK | key_index=0 | latency=21.07s | response="Kamu bisa mengurusnya melalui agen travel resmi atau langsun"
+2026-05-30 03:05:25,076 | llm | INFO | OK | key_index=0 | latency=10.25s | response="Buka aplikasi travel atau website maskapai favorit Anda, lal"
+2026-05-30 03:06:13,464 | llm | INFO | OK | key_index=0 | latency=21.94s | response="Ensure your passport is valid for at least six months and ha"
+2026-05-30 03:07:32,902 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 03:07:32,903 | llm | INFO | OK | key_index=0 | latency=27.45s | response="Role: Friendly Umrah and Hajj travel assistant.
+Language cap"
+2026-05-30 03:08:15,351 | llm | INFO | OK | key_index=0 | latency=13.66s | response="I recommend our Essential Umrah package, which is straightfo"
+2026-05-30 03:09:15,564 | llm | INFO | OK | key_index=0 | latency=17.97s | response="You can book the Haramain High-Speed Railway online for the "
+2026-05-30 03:10:25,914 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 03:10:25,914 | llm | INFO | OK | key_index=0 | latency=22.48s | response="Role: Friendly Umrah and Hajj travel assistant.
+Language abi"
+2026-05-30 03:12:10,875 | llm | INFO | OK | key_index=0 | latency=18.65s | response="I can definitely help you find the best flight schedule and "
+2026-05-30 03:13:15,592 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 03:13:15,593 | llm | INFO | OK | key_index=0 | latency=22.54s | response="Persona: Friendly Umrah and Hajj travel assistant.
+Capabilit"
+2026-05-30 03:14:55,024 | llm | INFO | OK | key_index=0 | latency=20.78s | response="Sebaiknya mendarat di Jeddah pada pagi hari agar bisa langsu"
+2026-05-30 03:15:42,573 | llm | INFO | OK | key_index=0 | latency=21.29s | response="Haji wajib dilaksanakan pada waktu tertentu di bulan Dzulhij"
+2026-05-30 03:16:22,680 | llm | INFO | OK | key_index=0 | latency=12.77s | response="Buka situs maskapai atau aplikasi travel, lalu pilih tujuan "
+2026-05-30 03:17:01,718 | llm | INFO | OK | key_index=0 | latency=12.51s | response="Tidak terlalu susah kok, asalkan kamu fokus pada kosakata pr"
+2026-05-30 03:17:42,962 | llm | INFO | OK | key_index=0 | latency=14.9s | response="Boleh, tolong infokan kota keberangkatan dan preferensi wakt"
+2026-05-30 03:18:23,656 | llm | INFO | OK | key_index=0 | latency=15.08s | response="You should look for a "Regular" or "Economy" Umrah package t"
+2026-05-30 03:19:31,339 | llm | INFO | OK | key_index=0 | latency=15.71s | response="I recommend booking the Haramain High-Speed Railway online f"
+2026-05-30 03:20:37,548 | llm | INFO | OK | key_index=0 | latency=20.85s | response="You can apply through the official KSA Visa website or the N"
+2026-05-30 03:22:02,252 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 03:22:02,253 | llm | INFO | OK | key_index=0 | latency=27.42s | response="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-30 03:23:46,590 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 03:23:46,590 | llm | INFO | OK | key_index=0 | latency=22.28s | response="Role: Friendly Umrah/Hajj travel assistant.
+Language Skills:"
+2026-05-30 03:25:33,087 | llm | INFO | OK | key_index=0 | latency=19.27s | response="Sebaiknya mendarat di Jeddah lalu langsung naik kereta cepat"
+2026-05-30 03:26:18,449 | llm | INFO | OK | key_index=0 | latency=19.1s | response="Prosesnya bisa dilakukan melalui travel agent resmi atau sec"
+2026-05-30 03:27:04,296 | llm | INFO | OK | key_index=0 | latency=19.18s | response="Siapkan dokumen penting seperti paspor, visa, dan buku kunin"
+2026-05-30 03:27:49,179 | llm | INFO | OK | key_index=0 | latency=16.84s | response="Tidak sulit kok, asalkan kamu fokus pada kosakata praktis ya"
+2026-05-30 03:28:33,221 | llm | INFO | OK | key_index=0 | latency=17.63s | response="Tentu, aku bisa bantu carikan jadwalnya. Tolong infokan tang"
+2026-05-30 03:29:10,374 | llm | INFO | OK | key_index=0 | latency=11.57s | response="You should look for "Umrah Reguler" packages that explicitly"
+2026-05-30 03:30:13,975 | llm | INFO | OK | key_index=0 | latency=13.41s | response="You can book the Haramain High Speed Railway online for a fa"
+2026-05-30 03:31:19,277 | llm | INFO | OK | key_index=0 | latency=19.27s | response="You can apply via the official Nusuk platform or through a c"
+2026-05-30 03:32:35,186 | llm | INFO | OK | key_index=0 | latency=24.94s | response="Na'am, tentu saya bisa bantu buatkan skedul yang lebih mubas"
+2026-05-30 03:34:00,692 | llm | INFO | OK | key_index=0 | latency=25.54s | response="You can take the Haramain High-Speed Railway for the fastest"
+2026-05-30 03:35:25,070 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 03:35:25,070 | llm | INFO | OK | key_index=0 | latency=27.71s | response="Role: Friendly Umrah and Hajj travel assistant.
+Language Ski"
+2026-05-30 03:36:09,513 | llm | INFO | OK | key_index=0 | latency=15.32s | response="Sekarang proses visa umrah biasanya diurus oleh travel agent"
+2026-05-30 03:36:50,269 | llm | INFO | OK | key_index=0 | latency=14.69s | response="Ensure your passport is valid for at least six months and pr"
+2026-05-30 03:37:51,301 | llm | INFO | OK | key_index=0 | latency=13.62s | response="Tidak terlalu sulit jika kamu fokus pada kosakata praktis un"
+2026-05-30 03:38:26,438 | llm | INFO | OK | key_index=0 | latency=8.94s | response="Tentu, aku bisa bantu carikan jadwalnya. Tolong infokan kota"
+2026-05-30 03:39:15,372 | llm | INFO | OK | key_index=0 | latency=23.37s | response="I recommend looking for "Umrah Standard" packages that expli"
+2026-05-30 03:40:12,878 | llm | INFO | OK | key_index=0 | latency=13.27s | response="Sure, I can guide you through the options! I recommend booki"
+2026-05-30 03:41:07,706 | llm | INFO | OK | key_index=0 | latency=11.06s | response="You can apply through the official Nusuk platform or a certi"
+2026-05-30 03:42:18,769 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 03:42:18,769 | llm | INFO | OK | key_index=0 | latency=22.17s | response="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 03:44:13,359 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 03:44:13,359 | llm | INFO | OK | key_index=0 | latency=22.23s | response="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 03:45:57,368 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 03:45:57,374 | llm | INFO | OK | key_index=0 | latency=27.62s | response="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 03:46:45,426 | llm | INFO | OK | key_index=0 | latency=19.71s | response="Haji wajib dilaksanakan pada waktu tertentu di bulan Dzulhij"
+2026-05-30 03:47:24,952 | llm | INFO | OK | key_index=0 | latency=12.77s | response="Puasa Ramadan wajib karena merupakan salah satu dari lima ru"
+2026-05-30 03:48:04,579 | llm | INFO | OK | key_index=0 | latency=13.51s | response="Ensure your passport is valid for at least six months and pr"
+2026-05-30 03:49:06,432 | llm | INFO | OK | key_index=0 | latency=11.12s | response="Tentu, saya bisa bantu carikan jadwalnya. Tolong infokan kot"
+2026-05-30 03:49:47,584 | llm | INFO | OK | key_index=0 | latency=15.57s | response="I recommend choosing a standard Umrah package that explicitl"
+2026-05-30 03:50:52,827 | llm | INFO | OK | key_index=0 | latency=20.28s | response="Kamu bisa pesan tiket kereta cepat Haramain High Speed Railw"
+2026-05-30 03:51:34,709 | llm | INFO | OK | key_index=0 | latency=15.11s | response="Visit the official KSA Visa portal or Nusuk platform to fill"
+2026-05-30 03:52:48,336 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 03:52:48,337 | llm | INFO | OK | key_index=0 | latency=22.46s | response="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-30 03:54:38,725 | llm | INFO | OK | key_index=0 | latency=18.39s | response="يمكنك حجز قطار الحرمين السريع عبر موقعهم الرسمي أو طلب سيارة"
+2026-05-30 03:55:48,972 | llm | INFO | OK | key_index=0 | latency=21.17s | response="Sebaiknya mendarat di Jeddah lalu langsung menuju Madinah un"
+2026-05-30 03:56:27,578 | llm | INFO | OK | key_index=0 | latency=12.7s | response="Puasa Ramadan wajib dilakukan karena merupakan salah satu ru"
+2026-05-30 03:57:09,050 | llm | INFO | OK | key_index=0 | latency=14.5s | response="Siapkan dokumen utama seperti paspor dan visa, serta perleng"
+2026-05-30 03:57:46,873 | llm | INFO | OK | key_index=0 | latency=10.64s | response="Tidak terlalu susah kok, yang penting kamu fokus pada kosaka"
+2026-05-30 03:58:29,497 | llm | INFO | OK | key_index=0 | latency=16.33s | response="Bahasa Inggrisnya adalah "I want to go to Makkah next week.""
+2026-05-30 03:59:09,110 | llm | INFO | OK | key_index=0 | latency=14.61s | response="Tentu, saya bisa bantu carikan jadwal flight ke Jeddah untuk"
+2026-05-30 03:59:46,338 | llm | INFO | OK | key_index=0 | latency=11.33s | response="I recommend looking for "Umrah Reguler" packages that explic"
+2026-05-30 04:00:47,575 | llm | INFO | OK | key_index=0 | latency=9.71s | response="I recommend booking the Haramain High Speed Railway online f"
+2026-05-30 04:01:52,498 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 04:01:52,498 | llm | INFO | OK | key_index=0 | latency=22.14s | response="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-30 04:03:40,633 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 04:03:40,633 | llm | INFO | OK | key_index=0 | latency=22.52s | response="Role: Friendly Umrah and Hajj travel assistant.
+Language Cap"
+2026-05-30 04:05:14,943 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 04:05:14,943 | llm | INFO | OK | key_index=0 | latency=22.44s | response="Role: Friendly Umrah and Hajj travel assistant.
+Language Ski"
+2026-05-30 04:07:10,555 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 04:07:10,556 | llm | INFO | OK | key_index=0 | latency=22.5s | response="Role: Friendly Umrah and Hajj travel assistant.
+Language Ski"
+2026-05-30 04:08:00,528 | llm | INFO | OK | key_index=0 | latency=21.42s | response="Haji wajib dilaksanakan pada waktu tertentu di bulan Dzulhij"
+2026-05-30 04:08:42,308 | llm | INFO | OK | key_index=0 | latency=14.71s | response="Betul sekali, puasa di bulan Ramadhan adalah salah satu ruku"
+2026-05-30 04:09:18,660 | llm | INFO | OK | key_index=0 | latency=10.9s | response="Ensure your passport is valid for at least six months and pr"
+2026-05-30 04:10:22,149 | llm | INFO | OK | key_index=0 | latency=11.63s | response="Tentu, saya bisa bantu carikan jadwal terbaik untukmu. Tolon"
+2026-05-30 04:11:11,507 | llm | INFO | OK | key_index=0 | latency=23.49s | response="You should look for "Umrah Reguler" packages that explicitly"
+2026-05-30 04:12:15,405 | llm | INFO | OK | key_index=0 | latency=12.57s | response="Tentu, saya bisa bantu memberikan informasinya. Anda bisa me"
+2026-05-30 04:12:56,981 | llm | INFO | OK | key_index=0 | latency=15.75s | response="First, visit the official Nusuk platform or use a licensed t"
+2026-05-30 04:14:11,323 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 04:14:11,323 | llm | INFO | OK | key_index=0 | latency=22.49s | response="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-30 04:16:08,778 | llm | INFO | OK | key_index=0 | latency=22.26s | response="يمكنك استخدام قطار الح"
+2026-05-30 04:16:47,281 | llm | INFO | OK | key_index=0 | latency=9.36s | response="Kamu bisa mengurusnya melalui biro travel umrah resmi atau s"
+2026-05-30 04:17:33,330 | llm | INFO | OK | key_index=0 | latency=19.56s | response="Buka aplikasi atau website maskapai, lalu masukkan kota asal"
+2026-05-30 04:18:26,099 | llm | INFO | OK | key_index=0 | latency=25.98s | response="Make sure your passport has at least six months of validity "
+2026-05-30 04:19:33,581 | llm | INFO | OK | key_index=0 | latency=12.7s | response="Belajar bahasa Arab mungkin terasa menantang di awal, tapi a"
+2026-05-30 04:20:15,463 | llm | INFO | OK | key_index=0 | latency=15.24s | response="Tentu, aku bisa bantu carikan jadwalnya. Tolong info kota as"
+2026-05-30 04:20:58,360 | llm | INFO | OK | key_index=0 | latency=17.33s | response="You should look for "Umrah Plus Madinah" packages to ensure "
+2026-05-30 04:22:03,254 | llm | INFO | OK | key_index=0 | latency=15.19s | response="You can book the Haramain High Speed Railway online for the "
+2026-05-30 04:23:16,816 | llm | INFO | OK | key_index=0 | latency=20.8s | response="First, visit the official Nusuk platform or contact an autho"
+2026-05-30 04:24:34,129 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 04:24:34,129 | llm | INFO | OK | key_index=0 | latency=22.64s | response="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 04:26:21,139 | llm | INFO | OK | key_index=0 | latency=19.67s | response="You can easily book the Haramain High-Speed Railway through "
+2026-05-30 04:27:36,677 | llm | INFO | OK | key_index=0 | latency=25.72s | response="Sebaiknya pilih jadwal tiba di Jeddah pada pagi hari atau ma"
+2026-05-30 04:28:12,552 | llm | INFO | OK | key_index=0 | latency=9.53s | response="Puasa Ramadan itu wajib karena merupakan salah satu dari Ruk"
+2026-05-30 04:28:56,891 | llm | INFO | OK | key_index=0 | latency=18.03s | response="Open a travel app or website, enter your destination and tra"
+2026-05-30 04:29:57,104 | llm | INFO | OK | key_index=0 | latency=12.06s | response="Pastikan kamu membawa dokumen penting seperti paspor, visa, "
+2026-05-30 04:30:43,286 | llm | INFO | OK | key_index=0 | latency=18.41s | response="Tentu, saya bisa bantu carikan jadwalnya. Tolong infokan tan"
+2026-05-30 04:31:25,885 | llm | INFO | OK | key_index=0 | latency=17.16s | response="You should look for "Umrah Plus Madinah" packages to ensure "
+2026-05-30 04:32:31,524 | llm | INFO | OK | key_index=0 | latency=16.3s | response="I recommend booking the Haramain High Speed Railway online f"
+2026-05-30 04:33:39,929 | llm | INFO | OK | key_index=0 | latency=21.91s | response="First, visit the official Nusuk or Saudi eVisa portal to upl"
+2026-05-30 04:35:08,999 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 04:35:09,000 | llm | INFO | OK | key_index=0 | latency=27.68s | response="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 04:37:06,165 | llm | INFO | OK | key_index=0 | latency=17.68s | response="You can book a private car through your hotel or use the Har"
+2026-05-30 04:38:13,238 | llm | INFO | OK | key_index=0 | latency=21.94s | response="Sebaiknya kamu terbang langsung ke Madinah dulu agar bisa le"
+2026-05-30 04:38:57,373 | llm | INFO | OK | key_index=0 | latency=17.72s | response="Haji wajib dilaksanakan pada waktu tertentu di bulan Dzulhij"
+2026-05-30 04:39:41,508 | llm | INFO | OK | key_index=0 | latency=16.7s | response="Buka website maskapai atau aplikasi travel seperti Traveloka"
+2026-05-30 04:40:22,264 | llm | INFO | OK | key_index=0 | latency=13.36s | response="Start by making a simple checklist for your essentials and d"
+2026-05-30 04:41:27,391 | llm | INFO | OK | key_index=0 | latency=13.21s | response="Tentu, saya bisa bantu carikan jadwal penerbangannya. Mohon "
+2026-05-30 04:42:07,737 | llm | INFO | OK | key_index=0 | latency=14.44s | response="I suggest choosing a standard Umrah package, as most of them"
+2026-05-30 04:43:07,130 | llm | INFO | OK | key_index=0 | latency=8.39s | response="Tentu, saya bisa membantu Anda memesan taksi pribadi atau ti"
+2026-05-30 04:43:43,892 | llm | INFO | OK | key_index=0 | latency=11.1s | response="First, choose your visa type and visit the official Nusuk or"
+2026-05-30 04:45:05,254 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 04:45:05,254 | llm | INFO | OK | key_index=0 | latency=22.47s | response="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-30 04:47:08,817 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 04:47:08,818 | llm | INFO | OK | key_index=0 | latency=27.28s | response="Role: Friendly Umrah and Hajj travel assistant.
+Capability: "
+2026-05-30 04:48:49,868 | llm | INFO | OK | key_index=0 | latency=17.93s | response="Sebaiknya Anda mendarat di Jeddah dan langsung menuju Madina"
+2026-05-30 04:49:38,815 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 04:49:38,816 | llm | INFO | OK | key_index=0 | latency=22.0s | response="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-30 04:51:10,875 | llm | INFO | OK | key_index=0 | latency=18.0s | response="Kamu bisa mengajukan visa turis atau visa kunjungan pribadi "
+2026-05-30 04:51:51,630 | llm | INFO | OK | key_index=0 | latency=13.74s | response="Buka aplikasi travel atau website maskapai pilihanmu, lalu m"
+2026-05-30 04:52:34,638 | llm | INFO | OK | key_index=0 | latency=15.38s | response="Tentu, saya bisa bantu carikan jadwal penerbangan ke Jeddah "
+2026-05-30 04:53:17,443 | llm | INFO | OK | key_index=0 | latency=17.1s | response="You should look for a standard Umrah package that explicitly"
+2026-05-30 04:54:20,525 | llm | INFO | OK | key_index=0 | latency=15.88s | response="I recommend booking the Haramain High-Speed Railway online f"
+2026-05-30 04:55:20,222 | llm | INFO | OK | key_index=0 | latency=14.64s | response="You can apply through the official Nusuk platform or via an "
+2026-05-30 04:56:40,761 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 04:56:40,762 | llm | INFO | OK | key_index=0 | latency=27.01s | response="Role: Friendly Umrah and Hajj travel assistant.
+Language Pro"
+2026-05-30 04:58:39,188 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 04:58:39,188 | llm | INFO | OK | key_index=0 | latency=22.15s | response="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-30 05:00:30,867 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 05:00:30,867 | llm | INFO | OK | key_index=0 | latency=27.34s | response="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 05:01:11,869 | llm | INFO | OK | key_index=0 | latency=12.08s | response="Kamu bisa mengurus visa melalui agen travel resmi (PPIU) ata"
+2026-05-30 05:01:47,606 | llm | INFO | OK | key_index=0 | latency=9.84s | response="Buka website maskapai atau aplikasi travel seperti Traveloka"
+2026-05-30 05:02:30,101 | llm | INFO | OK | key_index=0 | latency=14.76s | response="Belajar bahasa Arab tidak sesulit itu jika kamu fokus pada k"
+2026-05-30 05:03:05,121 | llm | INFO | OK | key_index=0 | latency=8.64s | response="Tentu, boleh banget! Tolong infokan tanggal keberangkatan da"
+2026-05-30 05:03:49,976 | llm | INFO | OK | key_index=0 | latency=19.84s | response="You should look for a "Regular Umrah" package, as most stand"
+2026-05-30 05:05:00,838 | llm | INFO | OK | key_index=0 | latency=18.19s | response="I recommend booking the Haramain High-Speed Railway via thei"
+2026-05-30 05:06:10,574 | llm | INFO | OK | key_index=0 | latency=18.7s | response="Register through the official Nusuk app or a certified trave"
+2026-05-30 05:07:25,577 | llm | INFO | OK | key_index=0 | latency=25.2s | response="Na'am, tentu bisa! Saya akan bantu carikan direct flight ter"
+2026-05-30 05:08:32,605 | llm | INFO | OK | key_index=0 | latency=17.07s | response="يمكنك حجز قطار الحرمين السريع عبر موقعهم الإلكتروني لرحلة مر"
+2026-05-30 05:09:41,623 | llm | INFO | OK | key_index=0 | latency=14.96s | response="Haji wajib dilaksanakan pada waktu tertentu di bulan Dzulhij"
+2026-05-30 05:10:19,000 | llm | INFO | OK | key_index=0 | latency=9.82s | response="Puasa Ramadan wajib karena merupakan salah satu dari lima Ru"
+2026-05-30 05:11:09,791 | llm | INFO | OK | key_index=0 | latency=24.82s | response="Ensure your passport is valid for at least six months and pr"
+2026-05-30 05:12:19,827 | llm | INFO | OK | key_index=0 | latency=16.67s | response="Siapkan dokumen penting seperti paspor dan visa, pakaian ihr"
+2026-05-30 05:12:58,438 | llm | INFO | OK | key_index=0 | latency=11.24s | response="Tentu, aku bisa bantu carikan jadwalnya. Tolong informasikan"
+2026-05-30 05:13:35,173 | llm | INFO | OK | key_index=0 | latency=10.94s | response="You should look for "Umrah Regular" or "Umrah Economy" packa"
+2026-05-30 05:14:37,154 | llm | INFO | OK | key_index=0 | latency=11.14s | response="You can book the Haramain High Speed Railway online for a fa"
+2026-05-30 05:15:48,234 | llm | INFO | OK | key_index=0 | latency=28.2s | response="Start by visiting the official Nusuk platform or using a cer"
+2026-05-30 05:17:11,370 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 05:17:11,371 | llm | INFO | OK | key_index=0 | latency=32.42s | response="Role: Friendly Umrah and Hajj travel assistant.
+Skills: Unde"
+2026-05-30 05:18:01,531 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 05:18:01,532 | llm | INFO | OK | key_index=0 | latency=22.05s | response="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 05:19:40,569 | llm | INFO | OK | key_index=0 | latency=13.97s | response="Puasa Ramadan wajib karena merupakan salah satu rukun Islam "
+2026-05-30 05:20:20,707 | llm | INFO | OK | key_index=0 | latency=13.54s | response="Buka website maskapai atau aplikasi travel, lalu masukkan ko"
+2026-05-30 05:21:06,893 | llm | INFO | OK | key_index=0 | latency=18.06s | response="Pastikan paspor, visa, tiket, dan perlengkapan ibadah sepert"
+2026-05-30 05:21:54,408 | llm | INFO | OK | key_index=0 | latency=20.3s | response="Tidak susah kok, asalkan kamu mulai dari kosa kata dasar yan"
+2026-05-30 05:22:30,505 | llm | INFO | OK | key_index=0 | latency=10.19s | response="Bisa banget, aku siap bantu! Tolong infokan tanggal keberang"
+2026-05-30 05:23:12,848 | llm | INFO | OK | key_index=0 | latency=16.97s | response="You should look for a "Standard Umrah Package" as they typic"
+2026-05-30 05:24:19,307 | llm | INFO | OK | key_index=0 | latency=18.27s | response="You can book the Haramain High Speed Railway online for a fa"
+2026-05-30 05:25:23,307 | llm | INFO | OK | key_index=0 | latency=16.1s | response="Visit the official Nusuk or KSA visa portal to create an acc"
+2026-05-30 05:26:45,740 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 05:26:45,741 | llm | INFO | OK | key_index=0 | latency=32.37s | response="Role: Friendly Umrah and Hajj travel assistant.
+Language Abi"
+2026-05-30 05:28:38,790 | llm | INFO | OK | key_index=0 | latency=27.42s | response="يمكنك طلب سيارة خاصة عبر تطبيقات Uber أو Careem للوصول فوراً"
+2026-05-30 05:29:46,545 | llm | INFO | OK | key_index=0 | latency=21.11s | response="Silakan periksa dokumen itinerary atau aplikasi perjalanan A"
+2026-05-30 05:30:25,493 | llm | INFO | OK | key_index=0 | latency=12.38s | response="Puasa Ramadan adalah salah satu rukun Islam yang diperintahk"
+2026-05-30 05:31:24,887 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 05:31:24,887 | llm | INFO | OK | key_index=0 | latency=32.76s | response="Role: Friendly Umrah and Hajj travel assistant.
+Capabilities"
+2026-05-30 05:32:12,668 | llm | INFO | OK | key_index=0 | latency=17.79s | response="Coba buat checklist perlengkapan esensial satu per satu agar"
+2026-05-30 05:32:58,326 | llm | INFO | OK | key_index=0 | latency=18.93s | response="Tentu, saya bisa bantu buatkan jadwalnya. Tolong infokan tan"
+2026-05-30 05:33:38,725 | llm | INFO | OK | key_index=0 | latency=14.62s | response="Kamu bisa pilih paket Umrah reguler yang sudah include Madin"
+2026-05-30 05:34:25,421 | llm | INFO | OK | key_index=0 | latency=20.47s | response="Tentu, Anda bisa memesan tiket Kereta Cepat Haramain secara "
+2026-05-30 05:35:16,314 | llm | INFO | OK | key_index=0 | latency=22.07s | response="Na"
+2026-05-30 05:36:02,800 | llm | INFO | OK | key_index=0 | latency=21.04s | response="You can use the Careem or Uber app for a private taxi, or bo"
+2026-05-30 05:37:22,144 | llm | INFO | OK | key_index=0 | latency=32.46s | response="Sebaik"
+2026-05-30 05:38:08,656 | llm | INFO | OK | key_index=0 | latency=23.21s | response="Prosesnya paling mudah melalui agen travel umrah resmi (PPIU"
+2026-05-30 05:38:55,202 | llm | INFO | OK | key_index=0 | latency=19.57s | response="Focus on your spiritual intention (niyyah) first and create "
+2026-05-30 05:40:02,526 | llm | INFO | OK | key_index=0 | latency=16.95s | response="First, visit the official Nusuk platform or use a certified "
+2026-05-30 05:41:21,315 | llm | INFO | OK | key_index=0 | latency=22.71s | response="Siapkan dokumen penting seperti paspor dan visa, serta perle"
+2026-05-30 05:42:09,811 | llm | INFO | OK | key_index=0 | latency=21.01s | response="Tentu, saya bisa bantu carikan jadwal penerbangan terbaik un"
+2026-05-30 05:42:52,000 | llm | INFO | OK | key_index=0 | latency=15.74s | response="Boleh, silakan infokan tanggal keberangkatan dan kota asalmu"
+2026-05-30 05:43:36,962 | llm | INFO | OK | key_index=0 | latency=18.99s | response="Tentu, aku bisa bantu carikan jadwalnya. Tolong infokan tang"
+2026-05-30 05:44:15,663 | llm | INFO | OK | key_index=0 | latency=12.81s | response="Tentu, saya bisa bantu carikan jadwalnya. Boleh info kota ke"
+2026-05-30 05:44:51,708 | llm | INFO | OK | key_index=0 | latency=10.07s | response="Tentu, saya bisa bantu buatkan jadwalnya. Tolong beri tahu k"
+2026-05-30 05:45:32,669 | llm | INFO | OK | key_index=0 | latency=15.01s | response="Tentu, saya bisa bantu carikan jadwal penerbangan ke Jeddah "
+2026-05-30 05:46:14,346 | llm | INFO | OK | key_index=0 | latency=15.52s | response="Tentu, aku bisa bantu carikan jadwalnya. Tolong beri tahu ko"
+2026-05-30 05:46:55,167 | llm | INFO | OK | key_index=0 | latency=15.12s | response="Tentu, saya bisa bantu carikan jadwalnya. Tolong beri tahu t"
+2026-05-30 05:47:37,086 | llm | INFO | OK | key_index=0 | latency=15.96s | response="Tentu, aku bisa bantu carikan jadwalnya. Boleh info kota keb"
+2026-05-30 05:48:23,986 | llm | INFO | OK | key_index=0 | latency=21.24s | response="Tentu, aku bisa bantu carikan jadwalnya. Boleh info kota keb"
+2026-05-30 05:49:00,643 | llm | INFO | OK | key_index=0 | latency=10.85s | response="Bisa, saya bantu carikan jadwal penerbangannya. Tolong infor"
+2026-05-30 05:49:46,727 | llm | INFO | OK | key_index=0 | latency=19.91s | response="Tentu, aku bisa bantu carikan jadwal penerbangan ke Jeddah u"
+2026-05-30 05:50:34,705 | llm | INFO | OK | key_index=0 | latency=21.94s | response="Bisa, silakan informasikan tanggal keberangkatan spesifik da"
+2026-05-30 05:51:19,912 | llm | INFO | OK | key_index=0 | latency=19.22s | response="Tentu, silakan infokan kota keberangkatan dan preferensi wak"
+2026-05-30 05:51:54,319 | llm | INFO | OK | key_index=0 | latency=8.46s | response="Tentu, aku bisa bantu carikan jadwal flight ke Jeddah untuk "
+2026-05-30 05:52:35,596 | llm | INFO | OK | key_index=0 | latency=15.36s | response="Tentu, aku bisa bantu carikan jadwal penerbangan ke Jeddah u"
+2026-05-30 05:53:21,770 | llm | INFO | OK | key_index=0 | latency=19.84s | response="Tentu, aku bisa bantu carikan jadwalnya. Tolong informasikan"
+2026-05-30 05:54:11,742 | llm | INFO | OK | key_index=0 | latency=24.01s | response="Tentu, saya bisa bantu carikan jadwalnya. Tolong infokan kot"
+2026-05-30 05:54:47,362 | llm | INFO | OK | key_index=0 | latency=9.43s | response="Bisa banget, silakan informasikan tanggal keberangkatan dan "
+2026-05-30 05:55:23,320 | llm | INFO | OK | key_index=0 | latency=9.8s | response="Bisa banget! Tolong infokan tanggal keberangkatan dan kota a"
+2026-05-30 05:56:05,920 | llm | INFO | OK | key_index=0 | latency=16.82s | response="Tentu, saya bisa bantu carikan jadwalnya. Boleh info kota as"
+2026-05-30 05:56:42,578 | llm | INFO | OK | key_index=0 | latency=10.88s | response="Tentu, saya bisa bantu carikan jadwalnya. Silakan informasik"
+2026-05-30 05:57:24,257 | llm | INFO | OK | key_index=0 | latency=15.33s | response="Tentu, saya bisa bantu buatkan jadwalnya. Silakan infokan ta"
+2026-05-30 05:58:10,085 | llm | INFO | OK | key_index=0 | latency=19.94s | response="Bisa, saya bantu carikan jadwal flight ke Jeddah untuk mingg"
+2026-05-30 05:58:59,081 | llm | INFO | OK | key_index=0 | latency=23.45s | response="Most standard Umrah packages already include a visit to Madi"
+2026-05-30 12:20:10,424 | llm | INFO | Client initialized | key_index=0 | model=gemma-4-26b-a4b-it
+2026-05-30 12:20:27,391 | llm | INFO | OK | key_index=0 | latency=17.01s | response="Tentu, saya bisa bantu perbarui nama Anda dan carikan jadwal"
+2026-05-30 12:30:13,058 | llm | INFO | Client initialized | key_index=0 | model=gemma-4-26b-a4b-it
+2026-05-30 12:30:35,602 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 12:30:35,604 | llm | INFO | OK | key=0 | latency=22.6s | response="".
+Constraint 7: Accurate info for Saudi travel.
+*Draft 1:* "
+2026-05-30 12:32:47,039 | llm | INFO | OK | key=0 | latency=16.12s | response="You can book the Haramain High-Speed Railway via their offic"
+2026-05-30 12:34:16,930 | llm | INFO | OK | key=0 | latency=20.26s | response="Apply through the Nusuk platform or the official KSA Visa we"
+2026-05-30 12:35:47,558 | llm | INFO | OK | key=0 | latency=13.86s | response="Silakan informasikan kota keberangkatan Anda agar saya dapat"
+2026-05-30 12:36:49,046 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 12:36:49,052 | llm | WARNING | Echo terdeteksi, retry...
+2026-05-30 12:36:49,052 | llm | WARNING | Attempt 1: Echo response
+2026-05-30 12:37:12,792 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 12:37:12,793 | llm | WARNING | Echo terdeteksi, retry...
+2026-05-30 12:37:12,793 | llm | WARNING | Attempt 2: Echo response
+2026-05-30 12:37:38,150 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 12:37:38,151 | llm | INFO | OK | key=0 | latency=71.55s | response="" label.
+*Revised Draft:* Could you please clarify what you "
+2026-05-30 12:39:15,390 | llm | INFO | OK | key=0 | latency=16.11s | response="Prepare a passport valid for at least six months and ensure "
+2026-05-30 12:40:40,115 | llm | INFO | OK | key=0 | latency=22.6s | response="Anda perlu mendaftar melalui biro perjalanan umrah resmi yan"
+2026-05-30 12:41:35,200 | llm | INFO | OK | key=0 | latency=19.2s | response="Carilah hotel di area Ajyad atau Misfalah yang biasanya lebi"
+2026-05-30 12:42:25,864 | llm | INFO | OK | key=0 | latency=14.14s | response="Buka situs maskapai atau agen perjalanan online lalu masukka"
+2026-05-30 12:43:25,491 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 12:43:25,492 | llm | INFO | OK | key=0 | latency=22.4s | response="User wants to book a flight to Jeddah next week.
+User asks f"
+2026-05-30 12:44:19,456 | llm | INFO | OK | key=0 | latency=15.64s | response="You should look for a standard Umrah package that includes s"
+2026-05-30 12:45:41,582 | llm | INFO | OK | key=0 | latency=16.94s | response="I recommend booking the Haramain High-Speed Railway online f"
+2026-05-30 12:47:07,699 | llm | INFO | OK | key=0 | latency=14.82s | response="Apply for a tourist visa through the official Visit Saudi po"
+2026-05-30 12:48:39,654 | llm | INFO | OK | key=0 | latency=22.46s | response="يرجى تزويدي بمدينة المغادرة لأتمكن من البحث عن أفضل الرحلات "
+2026-05-30 12:49:52,722 | llm | INFO | OK | key=0 | latency=20.91s | response="يمكنك استخدام قطار الحرمين السريع فهو الخيار الأسرع والأكثر "
+2026-05-30 12:51:07,519 | llm | INFO | OK | key=0 | latency=9.74s | response="Puasa Ramadan wajib karena merupakan salah satu rukun Islam "
+2026-05-30 12:51:51,758 | llm | INFO | OK | key=0 | latency=13.24s | response="Anda dapat mengurus visa umrah melalui agen perjalanan resmi"
+2026-05-30 12:52:42,754 | llm | INFO | OK | key=0 | latency=16.5s | response="Ensure your passport is valid for at least six months and co"
+2026-05-30 12:53:53,615 | llm | INFO | OK | key=0 | latency=16.05s | response="Buatlah daftar prioritas untuk dokumen, kesehatan, dan perle"
+2026-05-30 12:54:42,358 | llm | INFO | OK | key=0 | latency=14.43s | response="Saya tidak dapat melakukan pemesanan tiket secara langsung. "
+2026-05-30 12:55:40,008 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 12:55:40,009 | llm | INFO | OK | key=0 | latency=22.61s | response="").
+Topic: Umrah travel including Madinah.
+The user wants a "
+2026-05-30 13:02:32,273 | llm | INFO | Client initialized | key_index=0 | model=gemma-4-26b-a4b-it
+2026-05-30 13:02:44,711 | llm | INFO | OK | key=0 | latency=12.49s | response="Anda bisa menggunakan Kereta Cepat Haramain untuk perjalanan"
+2026-05-30 13:04:03,725 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 13:04:03,727 | llm | INFO | OK | key=0 | latency=22.31s | response="User Input: "jelaskan langkah by langkah cara mengajukan vis"
+2026-05-30 13:05:02,802 | llm | INFO | OK | key=0 | latency=15.2s | response="Silakan bagikan detail jadwal lama Anda agar saya dapat memb"
+2026-05-30 13:06:01,887 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 13:06:01,888 | llm | INFO | OK | key=0 | latency=22.36s | response="User input: "saya ingin REJ transportasi MINJAD DAHILA Madin"
+2026-05-30 13:06:57,184 | llm | INFO | OK | key=0 | latency=19.73s | response="Sebaiknya Anda memesan penerbangan langsung ke Madinah terle"
+2026-05-30 13:07:47,378 | llm | INFO | OK | key=0 | latency=16.24s | response="Anda dapat mengajukan visa melalui agen perjalanan umrah res"
+2026-05-30 13:08:39,687 | llm | INFO | OK | key=0 | latency=15.51s | response="Buka situs web maskapai atau aplikasi agen perjalanan daring"
+2026-05-30 13:09:34,370 | llm | INFO | OK | key=0 | latency=18.4s | response="Siapkan paspor dengan masa berlaku minimal enam bulan dan se"
+2026-05-30 13:10:26,593 | llm | INFO | OK | key=0 | latency=17.12s | response="Silakan cek jadwal penerbangan melalui situs resmi maskapai "
+2026-05-30 13:11:17,278 | llm | INFO | OK | key=0 | latency=14.19s | response="Anda dapat memilih paket Umrah Reguler yang biasanya sudah m"
+2026-05-30 13:12:11,817 | llm | INFO | OK | key=0 | latency=18.81s | response="Anda bisa menggunakan Kereta Cepat Haramain untuk perjalanan"
+2026-05-30 13:13:03,307 | llm | INFO | OK | key=0 | latency=15.83s | response="Gunakan aplikasi Nusuk atau jasa agen travel resmi untuk mem"
+2026-05-30 13:14:32,752 | llm | INFO | Client initialized | key_index=0 | model=gemma-4-26b-a4b-it
+2026-05-30 13:14:55,159 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 13:14:55,161 | llm | INFO | OK | key=0 | latency=22.46s | response="".
+        7.  Accurate info.
+"Jadah al-usbu an kadim" -> Je"
+2026-05-30 13:16:09,087 | llm | INFO | OK | key=0 | latency=17.75s | response="Anda bisa menggunakan Kereta Cepat Haramain untuk perjalanan"
+2026-05-30 13:17:05,851 | llm | INFO | OK | key=0 | latency=21.6s | response="Pilihlah penerbangan yang tiba di Jeddah pada pagi atau sian"
+2026-05-30 13:17:58,596 | llm | INFO | OK | key=0 | latency=16.31s | response="Kunjungi situs atau aplikasi maskapai atau agen perjalanan d"
+2026-05-30 13:18:41,407 | llm | INFO | OK | key=0 | latency=9.09s | response="Cari hotel di area Ajyad atau Misfalah yang jaraknya masih b"
+2026-05-30 13:19:30,863 | llm | INFO | OK | key=0 | latency=13.42s | response="Buatlah daftar tugas sederhana yang memprioritaskan dokumen,"
+2026-05-30 13:20:26,659 | llm | INFO | OK | key=0 | latency=21.83s | response="Anda dapat mengecek jadwal langsung melalui situs resmi Saud"
+2026-05-30 13:21:17,961 | llm | INFO | OK | key=0 | latency=17.95s | response="Anda dapat memilih paket Umrah reguler yang sudah menyertaka"
+2026-05-30 13:22:14,665 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 13:22:14,666 | llm | INFO | OK | key=0 | latency=22.15s | response="User input: "bisa kamu bantu aku mengatur transportasi dari "
+2026-05-30 13:23:14,081 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 13:23:14,082 | llm | INFO | OK | key=0 | latency=22.38s | response="User question: "jelaskan langkah demi langkah cara memainkan"
+2026-05-30 13:24:10,850 | llm | INFO | OK | key=0 | latency=16.38s | response="Saya siap membantu Anda menyusun jadwal perjalanan dan membe"
+2026-05-30 13:25:01,910 | llm | INFO | OK | key=0 | latency=16.81s | response="Anda dapat menggunakan Kereta Cepat Haramain untuk perjalana"
+2026-05-30 13:25:58,488 | llm | INFO | OK | key=0 | latency=20.61s | response="Waktu terbaik untuk berangkat adalah antara bulan November h"
+2026-05-30 13:26:49,063 | llm | INFO | OK | key=0 | latency=13.3s | response="Anda dapat menggunakan Kereta Cepat Haramain yang sangat pra"
+2026-05-30 13:27:39,090 | llm | INFO | OK | key=0 | latency=14.63s | response="Carilah hotel di area Aziziyah atau Mahbas Jin yang biasanya"
+2026-05-30 13:28:35,284 | llm | INFO | OK | key=0 | latency=17.31s | response="Belajar bahasa Arab bisa terasa menantang bagi pemula karena"
+2026-05-30 13:29:35,717 | llm | INFO | OK | key=0 | latency=22.4s | response="Anda dapat mengecek jadwal penerbangan langsung melalui situ"
+2026-05-30 13:30:24,162 | llm | INFO | OK | key=0 | latency=14.22s | response="Paket Umrah Reguler biasanya sudah mencakup kunjungan ke Mad"
+2026-05-30 13:31:14,627 | llm | INFO | OK | key=0 | latency=16.94s | response="Anda bisa menggunakan kereta cepat Haramain yang dapat dipes"
+2026-05-30 13:32:03,760 | llm | INFO | OK | key=0 | latency=15.87s | response="Anda bisa mengajukan visa melalui aplikasi Nusuk untuk umrah"
+2026-05-30 13:33:10,052 | llm | INFO | OK | key=0 | latency=29.36s | response="Anda dapat mengunjungi kawasan bersejarah Al-Balad pada pagi"
+2026-05-30 13:34:09,036 | llm | INFO | OK | key=0 | latency=24.82s | response="Pilihan tercepat dan paling nyaman adalah menggunakan kereta"
+2026-05-30 13:35:12,089 | llm | INFO | OK | key=0 | latency=29.2s | response="Anda dapat mengurus visa melalui biro perjalanan umrah resmi"
+2026-05-30 13:48:57,224 | llm | INFO | Client initialized | key_index=0 | model=gemma-4-26b-a4b-it
+2026-05-30 13:49:19,637 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 13:49:19,639 | llm | INFO | OK | key=0 | latency=22.47s | response="".
+        7.  Accurate info.
+Step 1: Visit a travel site or"
+2026-05-30 13:50:36,890 | llm | INFO | OK | key=0 | latency=23.67s | response="Siapkan paspor dengan masa berlaku minimal enam bulan dan ka"
+2026-05-30 13:51:43,752 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 13:51:43,752 | llm | INFO | OK | key=0 | latency=32.32s | response="User asks for an Umrah preparation checklist including manda"
+2026-05-30 13:52:34,077 | llm | INFO | OK | key=0 | latency=14.9s | response="Belajar bahasa Arab bisa terasa menantang karena struktur ta"
+2026-05-30 13:53:28,907 | llm | INFO | OK | key=0 | latency=21.14s | response="Anda dapat mengecek jadwal maskapai seperti Saudia atau Garu"
+2026-05-30 13:54:25,023 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 13:54:25,024 | llm | INFO | OK | key=0 | latency=22.07s | response="".
+        7.  Accurate information for Umrah/Haji/Saudi tra"
+2026-05-30 13:55:20,777 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 13:55:20,777 | llm | INFO | OK | key=0 | latency=22.09s | response="User Language: Indonesian.
+Question: "bisa kamu bantu aku me"
+2026-05-30 13:56:07,234 | llm | INFO | OK | key=0 | latency=12.82s | response="Anda dapat mengajukan visa umrah melalui agen perjalanan res"
+2026-05-30 13:57:07,188 | llm | INFO | OK | key=0 | latency=23.03s | response="Saya dapat membantu memberikan informasi jadwal penerbangan "
+2026-05-30 13:58:13,567 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 13:58:13,568 | llm | INFO | OK | key=0 | latency=32.48s | response="User Question: "saya ingin Range transportasi dari Jeddah ke"
+2026-05-30 13:59:12,072 | llm | INFO | OK | key=0 | latency=22.45s | response="Sebaiknya Anda tiba di"
+2026-05-30 13:59:53,431 | llm | INFO | OK | key=0 | latency=13.2s | response="Haji wajib dilaksanakan pada waktu tertentu di bulan Dzulhij"
+2026-05-30 14:01:00,048 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 14:01:00,049 | llm | INFO | OK | key=0 | latency=32.27s | response="".
+        7.  Accurate info.
+Preparations: Documents (passp"
+2026-05-30 14:02:01,227 | llm | INFO | OK | key=0 | latency=26.48s | response="Belajar bahasa Arab bisa terasa menantang karena perbedaan t"
+2026-05-30 14:02:52,019 | llm | INFO | OK | key=0 | latency=17.98s | response="Anda dapat mengecek jadwal penerbangan ke Jeddah melalui sit"
+2026-05-30 14:03:40,863 | llm | INFO | OK | key=0 | latency=16.43s | response="Anda bisa memilih paket Umrah Reguler karena biasanya sudah "
+2026-05-30 14:04:34,426 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 14:04:34,427 | llm | INFO | OK | key=0 | latency=22.15s | response="User Language: Indonesian.
+User Question: "bisa kamu bantu a"
+2026-05-30 14:05:39,137 | llm | INFO | OK | key=0 | latency=30.76s | response="Ajukan visa melalui agen perjalanan umrah resmi atau secara "
+2026-05-30 14:06:35,742 | llm | INFO | OK | key=0 | latency=21.47s | response="Saya dapat membantu mencarikan jadwal penerbangan langsung k"
+2026-05-30 14:07:50,517 | llm | INFO | OK | key=0 | latency=42.18s | response="Anda bisa menggunakan Kereta Cepat Haramain untuk perjalanan"
+2026-05-30 14:08:56,717 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 14:08:56,717 | llm | INFO | OK | key=0 | latency=32.98s | response="User Question: "pesan penerbangan ke Jeddah, lalu lanjut ke "
+2026-05-30 14:09:47,539 | llm | INFO | OK | key=0 | latency=17.77s | response="Puasa Ramadan adalah salah satu rukun Islam yang diperintahk"
+2026-05-30 14:10:49,796 | llm | INFO | OK | key=0 | latency=29.41s | response="Siapkan paspor dengan masa berlaku minimal enam bulan sebelu"
+2026-05-30 14:11:52,398 | llm | INFO | OK | key=0 | latency=28.76s | response="Mulailah dengan menetapkan niat yang kuat dan menyiapkan ang"
+2026-05-30 14:12:38,549 | llm | INFO | OK | key=0 | latency=12.44s | response="Anda dapat mengecek jadwal penerbangan langsung melalui situ"
+2026-05-30 14:13:44,860 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 14:13:44,860 | llm | INFO | OK | key=0 | latency=32.51s | response="User Language: Indonesian.
+User Question: "Aku butuh tranfer"
+2026-05-30 14:14:42,639 | llm | INFO | OK | key=0 | latency=22.26s | response="Anda dapat menggunakan Kereta Cepat Haramain untuk perjalana"
+2026-05-30 14:15:47,500 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 14:15:47,500 | llm | INFO | OK | key=0 | latency=32.53s | response="User Input: "jelaskan langkah demi langkah cara mengajukan v"
+2026-05-30 14:16:44,234 | llm | INFO | OK | key=0 | latency=18.82s | response="Saya dapat membantu Anda merencanakan jadwal perjalanan umra"
+2026-05-30 14:17:44,138 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 14:17:44,138 | llm | INFO | OK | key=0 | latency=27.37s | response="User Input: "saya ingin orang transportasi minjeta ke Madina"
+2026-05-30 14:18:34,621 | llm | INFO | OK | key=0 | latency=20.11s | response="Pilihlah penerbangan yang tiba di Jeddah pada pagi atau mala"
+2026-05-30 14:19:18,961 | llm | INFO | OK | key=0 | latency=16.37s | response="Puasa Ramadan wajib karena merupakan salah satu rukun Islam "
+2026-05-30 14:20:03,870 | llm | INFO | OK | key=0 | latency=16.77s | response="Siapkan paspor dengan masa berlaku minimal enam bulan dan se"
+2026-05-30 14:20:50,304 | llm | INFO | OK | key=0 | latency=17.28s | response="Pilihlah hotel di area Misfalah atau Aziziyah yang biasanya "
+2026-05-30 14:21:42,937 | llm | INFO | OK | key=0 | latency=23.01s | response="Anda bisa mengecek jadwal penerbangan ke Jeddah melalui situ"
+2026-05-30 14:22:31,165 | llm | INFO | OK | key=0 | latency=13.44s | response="Pilihlah paket umrah reguler karena biasanya sudah mencakup "
+2026-05-30 14:23:19,195 | llm | INFO | OK | key=0 | latency=15.93s | response="Kamu bisa menggunakan kereta cepat Haramain High Speed Railw"
+2026-05-30 14:24:17,768 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 14:24:17,769 | llm | INFO | OK | key=0 | latency=27.58s | response="".
+Accurate information.
+Option 1: Via Nusuk app (for Umrah)"
+2026-05-30 14:25:16,187 | llm | INFO | OK | key=0 | latency=21.8s | response="Tentu, saya dapat membantu memberikan informasi jadwal pener"
+2026-05-30 14:26:16,611 | llm | INFO | OK | key=0 | latency=28.34s | response="Anda dapat menggunakan kereta cepat Haramain High Speed Rail"
+2026-05-30 14:27:31,615 | llm | INFO | OK | key=0 | latency=43.78s | response="Haji wajib dilaksanakan pada waktu tertentu dan mencakup rit"
+2026-05-30 14:28:32,154 | llm | INFO | OK | key=0 | latency=28.84s | response="Anda dapat mengurus visa umrah melalui agen perjalanan resmi"
+2026-05-30 14:29:23,744 | llm | INFO | OK | key=0 | latency=20.41s | response="Kunjungi situs maskapai atau agen perjalanan daring lalu mas"
+2026-05-30 14:30:06,682 | llm | INFO | OK | key=0 | latency=11.93s | response="Belajar bahasa Arab bisa menantang bagi pemula karena sistem"
+2026-05-30 14:30:51,635 | llm | INFO | OK | key=0 | latency=13.41s | response="Saya tidak dapat melakukan pemesanan langsung, namun Anda bi"
+2026-05-30 14:31:36,354 | llm | INFO | OK | key=0 | latency=12.66s | response="Anda dapat memilih paket Umrah reguler yang umumnya sudah me"
+2026-05-30 14:32:29,603 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-30 14:32:29,603 | llm | INFO | OK | key=0 | latency=22.35s | response="User Language: Indonesian.
+Request: Help arranging transport"
+2026-05-30 14:33:25,206 | llm | INFO | OK | key=0 | latency=21.91s | response="Anda dapat mengajukan visa melalui aplikasi Nusuk atau mengg"
+2026-05-30 14:34:18,968 | llm | INFO | OK | key=0 | latency=19.58s | response="Tentu, saya bisa membantu Anda mencari jadwal penerbangan te"
+2026-05-30 14:35:13,239 | llm | INFO | OK | key=0 | latency=22.66s | response="Anda dapat menggunakan aplikasi Uber atau Careem untuk trans"
+2026-05-30 14:36:11,199 | llm | INFO | OK | key=0 | latency=27.65s | response="Pilihlah penerbangan yang mendarat di Jeddah pada pagi hari "
+2026-05-30 14:36:56,969 | llm | INFO | OK | key=0 | latency=14.76s | response="Persiapkan dokumen penting seperti paspor dan visa serta pas"
+2026-05-30 14:37:49,606 | llm | INFO | OK | key=0 | latency=20.56s | response="Carilah hotel di area Ajyad atau Misfalah yang biasanya lebi"
+2026-05-30 14:38:45,725 | llm | INFO | OK | key=0 | latency=24.51s | response="Belajar bahasa Arab bisa terasa menantang bagi pemula karena"
+2026-05-31 11:26:47,177 | llm | INFO | Client initialized | key_index=0 | model=gemma-4-26b-a4b-it
+2026-05-31 11:27:11,937 | llm | INFO | OK | key=0 | latency=24.78s | response="Saya dapat membantu Anda mencari jadwal penerbangan terbaik "
+2026-05-31 11:57:00,211 | llm | INFO | Client initialized | key_index=0 | model=gemma-4-26b-a4b-it
+2026-05-31 11:57:19,355 | llm | INFO | OK | key=0 | latency=19.16s | response="Silakan periksa aplikasi perjalanan atau situs resmi maskapa"
+2026-05-31 12:00:42,793 | llm | INFO | OK | key=0 | latency=15.03s | response="Tenang saja, coba buka Google Maps untuk cek location kamu s"
+2026-05-31 12:03:08,417 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-31 12:03:08,424 | llm | INFO | OK | key=0 | latency=27.28s | response="Input: "اللغة المهيمنة: العربية. أجب باللغة العربية. Pertany"
+2026-05-31 12:08:01,056 | llm | INFO | Client initialized | key_index=0 | model=gemma-4-26b-a4b-it
+2026-05-31 12:08:23,881 | llm | INFO | OK | key=0 | latency=22.86s | response="Kamu bisa mulai dengan menyiapkan paspor aktif, lalu langsun"
+2026-05-31 12:13:23,402 | llm | INFO | Client initialized | key_index=0 | model=gemma-4-26b-a4b-it
+2026-05-31 12:13:50,597 | llm | INFO | OK | key=0 | latency=27.22s | response="Bisa banget, kamu bisa langsung check di Traveloka atau Skys"
+2026-05-31 12:16:19,260 | llm | INFO | finish_reason=FinishReason.MAX_TOKENS
+2026-05-31 12:16:19,267 | llm | INFO | OK | key=0 | latency=22.63s | response="Input: "Ya Aki, saya ingin bukflik ilajedda al-usmu al-qadim"
+2026-05-31 12:17:42,102 | llm | INFO | OK | key=0 | latency=18.25s | response="Saya bisa membantu Anda mencari jadwal penerbangan terbaik k"
+2026-05-31 12:23:58,169 | llm | INFO | Client initialized | key_index=0 | model=gemma-4-26b-a4b-it
+2026-05-31 12:24:18,268 | llm | INFO | OK | key=0 | latency=20.13s | response="Segera cari petugas keamanan atau polisi di sekitar Masjid N"
+2026-05-31 12:27:08,657 | llm | INFO | Client initialized | key_index=0 | model=gemma-4-26b-a4b-it
+2026-05-31 12:27:28,861 | llm | INFO | OK | key=0 | latency=20.23s | response="Tetap tenang dan carilah petugas keamanan atau Askar di seki"
+2026-05-31 12:34:36,589 | llm | INFO | Client initialized | key_index=0 | model=gemma-4-26b-a4b-it
+2026-05-31 12:34:57,585 | llm | INFO | OK | key=0 | latency=21.02s | response="Segera hubungi nomor darurat 911 untuk meminta bantuan polis"

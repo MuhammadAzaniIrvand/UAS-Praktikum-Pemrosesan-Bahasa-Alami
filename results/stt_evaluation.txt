@@ -1,0 +1,5527 @@
+===== HASIL STT EVALUATION =====
+
+============================================================
+Audio : 2222_audio1.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book flight ke jedah minggu depan bisa bantu schedule
+
+WER : 0.0909
+CER : 0.0161
+
+============================================================
+Audio : 2222_audio2.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simple tapi include marina visit
+
+WER : 0.1111
+CER : 0.0357
+
+============================================================
+Audio : 2222_audio3.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+can you help aku arrange transport dari judah ke madinah tomorrow
+
+WER : 0.0909
+CER : 0.0303
+
+============================================================
+Audio : 2222_audio4.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visas od dengan benar
+
+WER : 0.2
+CER : 0.0727
+
+============================================================
+Audio : 2222_audio5.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya akhi uridu bookflag ilah jeddah alrasbun alqadim hal bisa bantu ajidah afthal schedule wari halatan mubashirah
+
+WER : 0.8235
+CER : 0.6615
+
+============================================================
+Audio : 2222_audio6.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uri dulu range transport menjedah ilah madinah waddan
+
+WER : 0.875
+CER : 0.4737
+
+============================================================
+Audio : 2222_audio7.wav
+
+Truth :
+book flight ke jeddah lalu lanjut ke madinah schedule terbaik kapan
+
+Prediction :
+book flight ke jeddah lalu lanjut ke madinah schedule terbaik kapan
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2222_audio10.wav
+
+Truth :
+apa perbedaan umrah dan hajj secara detail dalam islam
+
+Prediction :
+apa perbedaan umrah dan hajj secara detail dalam islam
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2222_audio12.wav
+
+Truth :
+bagaimana proses visa saudi untuk umrah dari indonesia sekarang
+
+Prediction :
+bagaimana proses visa saudi untuk umrah dari indonesia sekarang
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2222_audio14.wav
+
+Truth :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+Prediction :
+how to prepare dagumen umrah dari indonesia dengan benar
+
+WER : 0.1111
+CER : 0.0357
+
+============================================================
+Audio : 2301_audio1.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book fly ke jedah minggu depan bisa bantu schedule
+
+WER : 0.1818
+CER : 0.0806
+
+============================================================
+Audio : 2301_audio2.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simpel tapi include madinah visit
+
+WER : 0.1111
+CER : 0.0357
+
+============================================================
+Audio : 2301_audio3.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+can you help aku arrange transport dari jedah ke madinah tomorrow
+
+WER : 0.0909
+CER : 0.0152
+
+============================================================
+Audio : 2301_audio4.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2301_audio5.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya akhiri uridu book flight ilajidah ul usbu an kadim hal bisa bantu ajidah afdol skejul warih letan mubashiroh
+
+WER : 0.8824
+CER : 0.6846
+
+============================================================
+Audio : 2301_audio6.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uridu range transport menjeda ilai madinah rodan
+
+WER : 0.75
+CER : 0.4561
+
+============================================================
+Audio : 2301_audio11.wav
+
+Truth :
+kenapa fasting di رمضان itu wajib bagi muslim
+
+Prediction :
+kenapa fasting di ramadan itu wajib bagi muslim
+
+WER : 0.125
+CER : 0.1556
+
+============================================================
+Audio : 2301_audio12.wav
+
+Truth :
+bagaimana proses visa saudi untuk umrah dari indonesia sekarang
+
+Prediction :
+bagaimana proses visa saudi untuk omroh dari indonesia sekarang
+
+WER : 0.1111
+CER : 0.0317
+
+============================================================
+Audio : 2301_audio14.wav
+
+Truth :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+Prediction :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2301_audio15.wav
+
+Truth :
+tolong buat checklist persiapan umrah termasuk barang wajib dibawa
+
+Prediction :
+tolong buat checklist persiapan umrah termasuk barang wajib di bawah
+
+WER : 0.2222
+CER : 0.0303
+
+============================================================
+Audio : 2302_audio01.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book flight ke jedah minggu depan bisa bantu schedule
+
+WER : 0.0909
+CER : 0.0161
+
+============================================================
+Audio : 2302_audio02.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh transval umrah simpal tapi include madinah visit
+
+WER : 0.2222
+CER : 0.0893
+
+============================================================
+Audio : 2302_audio03.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2302_audio04.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+expand step by step cara apply visa saudi dengan benar
+
+WER : 0.1
+CER : 0.0545
+
+============================================================
+Audio : 2302_audio05.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya akhi uridubuk flight ilajidah alusbu alkhadim hal bisa bantu aji daaf dalam schedule wari hlatan mubassiruh
+
+WER : 0.8824
+CER : 0.6846
+
+============================================================
+Audio : 2302_audio06.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+udhido range transport menjida ilam madinahada
+
+WER : 0.875
+CER : 0.4912
+
+============================================================
+Audio : 2302_audio11.wav
+
+Truth :
+kenapa fasting di رمضان itu wajib bagi muslim
+
+Prediction :
+kenapa fasting di ramadan itu wajib bagi muslim
+
+WER : 0.125
+CER : 0.1556
+
+============================================================
+Audio : 2302_audio14.wav
+
+Truth :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+Prediction :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2302_audio15.wav
+
+Truth :
+tolong buat checklist persiapan umrah termasuk barang wajib dibawa
+
+Prediction :
+tolong buat checklist persiapan umrah termasuk barang wajib di bawah
+
+WER : 0.2222
+CER : 0.0303
+
+============================================================
+Audio : 2302_audio17.wav
+
+Truth :
+menurut kamu belajar bahasa arab itu susah gak untuk pemula
+
+Prediction :
+menurut kamu belajar bahasa arab itu susah nggak untuk pemula
+
+WER : 0.1
+CER : 0.0339
+
+============================================================
+Audio : 2303_audio01.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku membuka flight ke jeddah minggu depan bisa bantu schedule
+
+WER : 0.1818
+CER : 0.0968
+
+============================================================
+Audio : 2303_audio02.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simpel tapi include madinah visit
+
+WER : 0.1111
+CER : 0.0357
+
+============================================================
+Audio : 2303_audio03.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+can you help me arrange transport dari jeddah ke madinah tomorrow
+
+WER : 0.0909
+CER : 0.0455
+
+============================================================
+Audio : 2303_audio04.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2303_audio05.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya ahri uridu buk frak ila jadah alusbu alqadim hal bisa bantu ajidah afdol skedul warih latan mubashirah
+
+WER : 0.9412
+CER : 0.7231
+
+============================================================
+Audio : 2303_audio06.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uridu orange transport min jeddah ila madinah radhan
+
+WER : 0.625
+CER : 0.4211
+
+============================================================
+Audio : 2303_audio07.wav
+
+Truth :
+book flight ke jeddah lalu lanjut ke madinah schedule terbaik kapan
+
+Prediction :
+buk flight ke jeddah lalu lanjut ke madinah skedul terbaik kapan
+
+WER : 0.1818
+CER : 0.0746
+
+============================================================
+Audio : 2303_audio13.wav
+
+Truth :
+jelaskan step by step cara booking flight ke jeddah secara online
+
+Prediction :
+jelaskan step by step cara booking flight ke jeddah secara online
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2303_audio15.wav
+
+Truth :
+tolong buat checklist persiapan umrah termasuk barang wajib dibawa
+
+Prediction :
+tolong buat checklist persiapan umrah termasuk barang wajib di bawah
+
+WER : 0.2222
+CER : 0.0303
+
+============================================================
+Audio : 2303_audio19.wav
+
+Truth :
+احيانا saya bingung mulai dari mana untuk umrah
+
+Prediction :
+ahianan saya bingung mulai dari mana untuk umrah
+
+WER : 0.125
+CER : 0.1489
+
+============================================================
+Audio : 2304_audio01.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book flight ke jedah minggu depan bisa bantu schedule
+
+WER : 0.0909
+CER : 0.0161
+
+============================================================
+Audio : 2304_audio02.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simpel tapi include madinah visit
+
+WER : 0.1111
+CER : 0.0357
+
+============================================================
+Audio : 2304_audio03.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+can you help me arrange transport from jeddah to madinah tomorrow
+
+WER : 0.2727
+CER : 0.1364
+
+============================================================
+Audio : 2304_audio04.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2304_audio05.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya achi uri dubuk flight ila jeddah alusbu alqadim hal bisa bantu ajeeda afdal schedule wari hlatan mubashiroh
+
+WER : 0.7647
+CER : 0.6538
+
+============================================================
+Audio : 2304_audio06.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uru do range transport minjid dah ila madinah koden
+
+WER : 0.875
+CER : 0.4561
+
+============================================================
+Audio : 2304_audio07.wav
+
+Truth :
+book flight ke jeddah lalu lanjut ke madinah schedule terbaik kapan
+
+Prediction :
+book flight ke jedah lanjut ke madinah schedule terbaik kapan
+
+WER : 0.1818
+CER : 0.0896
+
+============================================================
+Audio : 2304_audio11.wav
+
+Truth :
+kenapa fasting di رمضان itu wajib bagi muslim
+
+Prediction :
+kenapa fasting di ramadan itu wajib bagi muslim
+
+WER : 0.125
+CER : 0.1556
+
+============================================================
+Audio : 2304_audio15.wav
+
+Truth :
+tolong buat checklist persiapan umrah termasuk barang wajib dibawa
+
+Prediction :
+tolong buat checklist persiapan umrah termasuk barang wajib di bawah
+
+WER : 0.2222
+CER : 0.0303
+
+============================================================
+Audio : 2304_audio18.wav
+
+Truth :
+i feel overwhelmed dengan persiapan umrah ada tips sederhana
+
+Prediction :
+i feel overwhelmed dengan persiapan umrah ada tips sederhana
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2306_Audio01.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book flight ke judaya minggu depan bisa bantu schedule
+
+WER : 0.0909
+CER : 0.0645
+
+============================================================
+Audio : 2306_Audio02.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simpel tapi include madinah visit
+
+WER : 0.1111
+CER : 0.0357
+
+============================================================
+Audio : 2306_Audio03.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+can you help aku orange transport dari jeddah ke madinah tomorrow
+
+WER : 0.0909
+CER : 0.0303
+
+============================================================
+Audio : 2306_Audio04.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2306_Audio05.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya ok uridu book flight ilajit dah al usbu al kadem hal bisa bantu ajida afdal schedule wari rilatan moba surah
+
+WER : 0.9412
+CER : 0.6615
+
+============================================================
+Audio : 2306_Audio06.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uridu restoran sport minjit dah ilam adina leaden
+
+WER : 1.0
+CER : 0.6316
+
+============================================================
+Audio : 2306_Audio11.wav
+
+Truth :
+kenapa fasting di رمضان itu wajib bagi muslim
+
+Prediction :
+kenapa fasting di ramadan itu wajib bagi muslim
+
+WER : 0.125
+CER : 0.1556
+
+============================================================
+Audio : 2306_Audio12.wav
+
+Truth :
+bagaimana proses visa saudi untuk umrah dari indonesia sekarang
+
+Prediction :
+bagaimana proses visa saudi untuk umrah dari indonesia sekarang
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2306_Audio13.wav
+
+Truth :
+jelaskan step by step cara booking flight ke jeddah secara online
+
+Prediction :
+jelaskan step by step cara bukin flight ke jendah secara online
+
+WER : 0.1818
+CER : 0.0615
+
+============================================================
+Audio : 2306_Audio14.wav
+
+Truth :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+Prediction :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2306_Audio15.wav
+
+Truth :
+tolong buat checklist persiapan umrah termasuk barang wajib dibawa
+
+Prediction :
+tolong buat checklist persiapan umrah termasuk barang wajib di bawah
+
+WER : 0.2222
+CER : 0.0303
+
+============================================================
+Audio : 2307_audio01.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2307_audio02.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel omrah simpel tapi include madinah visit
+
+WER : 0.2222
+CER : 0.0536
+
+============================================================
+Audio : 2307_audio03.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+bolehkah kamu bantu aku menyiapkan transport dari jeddah ke madinah esok
+
+WER : 0.4545
+CER : 0.4697
+
+============================================================
+Audio : 2307_audio04.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2307_audio05.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya aki urnidu buk flight ilajedah alusbu alqadim hal bisa bantu ajid afdal skejul warikhotan mbasirotan
+
+WER : 0.8235
+CER : 0.6846
+
+============================================================
+Audio : 2307_audio06.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uridu arranges transports from jeddah to madinah jordan
+
+WER : 0.75
+CER : 0.4211
+
+============================================================
+Audio : 2307_audio07.wav
+
+Truth :
+book flight ke jeddah lalu lanjut ke madinah schedule terbaik kapan
+
+Prediction :
+buk flight ke jeddah lalu lanjut ke madinah skejul terbaik kapan
+
+WER : 0.1818
+CER : 0.0896
+
+============================================================
+Audio : 2307_audio10.wav
+
+Truth :
+apa perbedaan umrah dan hajj secara detail dalam islam
+
+Prediction :
+apa perbedaan umrah dan haji secara detail dalam islam
+
+WER : 0.1111
+CER : 0.0185
+
+============================================================
+Audio : 2307_audio15.wav
+
+Truth :
+tolong buat checklist persiapan umrah termasuk barang wajib dibawa
+
+Prediction :
+tolong buat checklist persiapan umurah termasuk barang wajib di bawah
+
+WER : 0.3333
+CER : 0.0455
+
+============================================================
+Audio : 2307_audio17.wav
+
+Truth :
+menurut kamu belajar bahasa arab itu susah gak untuk pemula
+
+Prediction :
+menurut kamu belajar bahasa arab itu susah enggak untuk pemula
+
+WER : 0.1
+CER : 0.0508
+
+============================================================
+Audio : 2308_audio01.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book flight ke jedah minggu depan bisa bantu schedule
+
+WER : 0.0909
+CER : 0.0161
+
+============================================================
+Audio : 2308_audio02.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simpel tapi include madinah visit
+
+WER : 0.1111
+CER : 0.0357
+
+============================================================
+Audio : 2308_audio03.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+can you help aku arrange transport dari jedah ke madinah tomorrow
+
+WER : 0.0909
+CER : 0.0152
+
+============================================================
+Audio : 2308_audio04.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2308_audio05.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya akhi uridu book flight ila jeddah alusbu alqodim hal bisa bantu ajidah afdol skejul wari halatan mubashiroh
+
+WER : 0.7647
+CER : 0.6615
+
+============================================================
+Audio : 2308_audio06.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uri du arrange transport min jedah ila madinah waddan
+
+WER : 0.75
+CER : 0.4035
+
+============================================================
+Audio : 2308_audio12.wav
+
+Truth :
+bagaimana proses visa saudi untuk umrah dari indonesia sekarang
+
+Prediction :
+bagaimana proses visa saudi untuk umroh dari indonesia sekarang
+
+WER : 0.1111
+CER : 0.0159
+
+============================================================
+Audio : 2308_audio13.wav
+
+Truth :
+jelaskan step by step cara booking flight ke jeddah secara online
+
+Prediction :
+jelaskan step by step cara booking flight ke jedah secara online
+
+WER : 0.0909
+CER : 0.0154
+
+============================================================
+Audio : 2308_audio15.wav
+
+Truth :
+tolong buat checklist persiapan umrah termasuk barang wajib dibawa
+
+Prediction :
+tolong buat checklist persiapan umroh termasuk barang wajib di bawah
+
+WER : 0.3333
+CER : 0.0455
+
+============================================================
+Audio : 2308_audio17.wav
+
+Truth :
+menurut kamu belajar bahasa arab itu susah gak untuk pemula
+
+Prediction :
+menurut kamu belajar bahasa arab itu susah nggak untuk pemula
+
+WER : 0.1
+CER : 0.0339
+
+============================================================
+Audio : 2309_audio01.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book fly ke jeddah minggu depan bisa bantu schedule
+
+WER : 0.0909
+CER : 0.0645
+
+============================================================
+Audio : 2309_audio02.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simpel tapi include madinah visit
+
+WER : 0.1111
+CER : 0.0357
+
+============================================================
+Audio : 2309_audio03.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2309_audio04.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2309_audio05.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+يا أخي وريد بوك فلاك إلى جده الأسبوع القديم هل بيسابنت أجد أفضل سكيجل ورحلة مباشرة؟
+
+WER : 1.0
+CER : 0.5462
+
+============================================================
+Audio : 2309_audio06.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uridu range transport mincedah ila madinah hoddan
+
+WER : 0.75
+CER : 0.4737
+
+============================================================
+Audio : 2309_audio08.wav
+
+Truth :
+اريد schedule trip dari jeddah ke makkah besok pagi
+
+Prediction :
+uridu schedule trip dari jeddah ke mekah besok pagi
+
+WER : 0.2222
+CER : 0.1373
+
+============================================================
+Audio : 2309_audio12.wav
+
+Truth :
+bagaimana proses visa saudi untuk umrah dari indonesia sekarang
+
+Prediction :
+bagaimana proses visa saudi untuk umrah dari indonesia sekarang
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2309_audio15.wav
+
+Truth :
+tolong buat checklist persiapan umrah termasuk barang wajib dibawa
+
+Prediction :
+tolong buat checklist persiapan umrah termasuk barang wajib di bawah
+
+WER : 0.2222
+CER : 0.0303
+
+============================================================
+Audio : 2309_audio17.wav
+
+Truth :
+menurut kamu belajar bahasa arab itu susah gak untuk pemula
+
+Prediction :
+menurut kamu belajar bahasa arab itu susah nggak untuk pemula
+
+WER : 0.1
+CER : 0.0339
+
+============================================================
+Audio : 2310_Audio01.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book flight ke jalan minggu depan bisa bantu schedule
+
+WER : 0.0909
+CER : 0.0645
+
+============================================================
+Audio : 2310_Audio02.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simpel tapi include madinah visit
+
+WER : 0.1111
+CER : 0.0357
+
+============================================================
+Audio : 2310_Audio03.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+bolehkah anda tolong saya menanam transport dari jeddah kemadinat esok
+
+WER : 0.7273
+CER : 0.5
+
+============================================================
+Audio : 2310_Audio04.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2310_Audio05.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya akhi uridu book flag ilajadah alusbu alqadim hal bisa bantu ajidah afdal schedule wari helatan mubashiroh
+
+WER : 0.8235
+CER : 0.6769
+
+============================================================
+Audio : 2310_Audio06.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uridu orange transport menjadilah madinah warden
+
+WER : 0.75
+CER : 0.5088
+
+============================================================
+Audio : 2310_Audio07.wav
+
+Truth :
+book flight ke jeddah lalu lanjut ke madinah schedule terbaik kapan
+
+Prediction :
+book flight ke jeddah lalu lanjut ke madinah skejul terbaik kapan
+
+WER : 0.0909
+CER : 0.0597
+
+============================================================
+Audio : 2310_Audio11.wav
+
+Truth :
+kenapa fasting di رمضان itu wajib bagi muslim
+
+Prediction :
+kenapa fasting di ramadan itu wajib bagi muslim
+
+WER : 0.125
+CER : 0.1556
+
+============================================================
+Audio : 2310_Audio14.wav
+
+Truth :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+Prediction :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2310_Audio20.wav
+
+Truth :
+translate ke english aku mau pergi ke makkah minggu depan
+
+Prediction :
+ayo mwaka nga mwaka
+
+WER : 1.0
+CER : 0.807
+
+============================================================
+Audio : 2311_audio01.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2311_audio02.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simpel tapi include madinah visit
+
+WER : 0.1111
+CER : 0.0357
+
+============================================================
+Audio : 2311_audio03.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+can you help aku arrange transport dari jeddah ke madinah tomoro
+
+WER : 0.0909
+CER : 0.0303
+
+============================================================
+Audio : 2311_audio04.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2311_audio05.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya ahi uridu book flight ilajet dah al usmu al qadim hal bisa bantu adida afdal skejul wari hlatan mubashirah
+
+WER : 0.9412
+CER : 0.6846
+
+============================================================
+Audio : 2311_audio06.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+turidu arens transport minjidda ila madinah radhan
+
+WER : 0.75
+CER : 0.5088
+
+============================================================
+Audio : 2311_audio09.wav
+
+Truth :
+ممكن book transport dari makkah ke madinah untuk besok؟
+
+Prediction :
+mungkin buk transport minmaka ilamadina untuk besok
+
+WER : 0.7778
+CER : 0.3636
+
+============================================================
+Audio : 2311_audio12.wav
+
+Truth :
+bagaimana proses visa saudi untuk umrah dari indonesia sekarang
+
+Prediction :
+bagaimana proses visa saudi untuk umrah dari indonesia sekarang
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2311_audio14.wav
+
+Truth :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+Prediction :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2311_audio17.wav
+
+Truth :
+menurut kamu belajar bahasa arab itu susah gak untuk pemula
+
+Prediction :
+menurut kamu belajar bahasa arab itu susah enggak untuk pemula
+
+WER : 0.1
+CER : 0.0508
+
+============================================================
+Audio : 2312_audio1.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2312_audio2.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simpel tapi ingkut madinah visit
+
+WER : 0.2222
+CER : 0.1071
+
+============================================================
+Audio : 2312_audio3.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+bolehkah anda tolong saya aturkan transport dari jeddah ke madinah esok
+
+WER : 0.5455
+CER : 0.4697
+
+============================================================
+Audio : 2312_audio4.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2312_audio5.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya akhi uridu buk flyk ilajad dah al usbu ul kadim hal bisa bantu ajidah afdal skedul warihlatan mubashirah
+
+WER : 1.0
+CER : 0.7154
+
+============================================================
+Audio : 2312_audio6.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uridu range transport minjid dah ila madinah gadan
+
+WER : 0.75
+CER : 0.4561
+
+============================================================
+Audio : 2312_audio7.wav
+
+Truth :
+book flight ke jeddah lalu lanjut ke madinah schedule terbaik kapan
+
+Prediction :
+book flight ke jeddah lalu lanjut ke madinah schedule terbaik kapan
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2312_audio11.wav
+
+Truth :
+kenapa fasting di رمضان itu wajib bagi muslim
+
+Prediction :
+kenapa fasting di ramadan itu wajib bagi muslim
+
+WER : 0.125
+CER : 0.1556
+
+============================================================
+Audio : 2312_audio15.wav
+
+Truth :
+tolong buat checklist persiapan umrah termasuk barang wajib dibawa
+
+Prediction :
+tolong buat checklist persiapan umrah termasuk barang wajib di bawah
+
+WER : 0.2222
+CER : 0.0303
+
+============================================================
+Audio : 2312_audio19.wav
+
+Truth :
+احيانا saya bingung mulai dari mana untuk umrah
+
+Prediction :
+ah yanan saya bingung mulai dari mana untuk umrah
+
+WER : 0.25
+CER : 0.1702
+
+============================================================
+Audio : 2312_audio20.wav
+
+Truth :
+translate ke english aku mau pergi ke makkah minggu depan
+
+Prediction :
+translate ke english aku mau pergi ke makkah minggu depan
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2318_audio01.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau buk fly ke jedah minggu depan bisa bantu schedule
+
+WER : 0.2727
+CER : 0.1129
+
+============================================================
+Audio : 2318_audio02.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simpel tapi include madinah piscine
+
+WER : 0.2222
+CER : 0.1071
+
+============================================================
+Audio : 2318_audio03.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+ken yuhab aku arrange transport dari jedah ke madinah tumuru
+
+WER : 0.4545
+CER : 0.197
+
+============================================================
+Audio : 2318_audio04.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+i explain step by step cara apply pisa saudi dengan benar
+
+WER : 0.2
+CER : 0.0545
+
+============================================================
+Audio : 2318_audio05.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+yaahihi uridu buflaik ila jeddah alusbu alkhalim hal bisa bantu ajidah afdal skedul waril fatan mubassirah
+
+WER : 0.8824
+CER : 0.7231
+
+============================================================
+Audio : 2318_audio06.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uridu arens transport min jeddah ila madinah gadan
+
+WER : 0.625
+CER : 0.4386
+
+============================================================
+Audio : 2318_audio09.wav
+
+Truth :
+ممكن book transport dari makkah ke madinah untuk besok؟
+
+Prediction :
+mungkin buk transport min makkah ila madinah untuk besok
+
+WER : 0.5556
+CER : 0.3091
+
+============================================================
+Audio : 2318_audio10.wav
+
+Truth :
+apa perbedaan umrah dan hajj secara detail dalam islam
+
+Prediction :
+apa perbedaan umrah dan haji secara detail dalam islam
+
+WER : 0.1111
+CER : 0.0185
+
+============================================================
+Audio : 2318_audio13.wav
+
+Truth :
+jelaskan step by step cara booking flight ke jeddah secara online
+
+Prediction :
+jelaskan step by step cara booking flight ke jedah secara online
+
+WER : 0.0909
+CER : 0.0154
+
+============================================================
+Audio : 2318_audio19.wav
+
+Truth :
+احيانا saya bingung mulai dari mana untuk umrah
+
+Prediction :
+akianan saya bingung mulai dari mana untuk umrah
+
+WER : 0.125
+CER : 0.1489
+
+============================================================
+Audio : 2319_Audio1.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book fly ke jedah minggu depan bisa bantu schedule
+
+WER : 0.1818
+CER : 0.0806
+
+============================================================
+Audio : 2319_Audio2.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simpel tapi include madina visit
+
+WER : 0.2222
+CER : 0.0536
+
+============================================================
+Audio : 2319_Audio3.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+can you help aku arrange rampat dari dedah ke bandidah tomorrow
+
+WER : 0.2727
+CER : 0.1515
+
+============================================================
+Audio : 2319_Audio4.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2319_Audio5.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya ahli uridubu fly ilajenda lesebuan kadim hal bisa bantu adida afdalski dhulwari letam bahasirah
+
+WER : 0.8824
+CER : 0.7538
+
+============================================================
+Audio : 2319_Audio6.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uridu arrangements transport min jeddah ila madinah wardan
+
+WER : 0.625
+CER : 0.4737
+
+============================================================
+Audio : 2319_Audio10.wav
+
+Truth :
+apa perbedaan umrah dan hajj secara detail dalam islam
+
+Prediction :
+apa perbedaan umrah dan hajj secara detail dalam islam
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2319_Audio13.wav
+
+Truth :
+jelaskan step by step cara booking flight ke jeddah secara online
+
+Prediction :
+jelaskan step by step cara booking flight ke jeddah secara online
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2319_Audio16.wav
+
+Truth :
+guide aku cara pilih hotel di makkah dekat haram dengan budget terbatas
+
+Prediction :
+guide aku cara pilih hotel di megah dekat ahram dengan budget terbatas
+
+WER : 0.1667
+CER : 0.0704
+
+============================================================
+Audio : 2319_Audio19.wav
+
+Truth :
+احيانا saya bingung mulai dari mana untuk umrah
+
+Prediction :
+ah yanan saya bingung mulai dari mana untuk umrah
+
+WER : 0.25
+CER : 0.1702
+
+============================================================
+Audio : 2323_audio01.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book flight ke jadah minggu depan bisa bantu schedule
+
+WER : 0.0909
+CER : 0.0323
+
+============================================================
+Audio : 2323_audio02.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simple tapi include madinah fisik
+
+WER : 0.1111
+CER : 0.0357
+
+============================================================
+Audio : 2323_audio03.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+can you help aku arrange transport dari jedah ke madinah tomorrow
+
+WER : 0.0909
+CER : 0.0152
+
+============================================================
+Audio : 2323_audio04.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2323_audio05.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya ahli uridu buk flyk ila jaddah alusbu alqadim hal bisa bantu ajidah afdal sqidul warikh letan mubashirah
+
+WER : 0.9412
+CER : 0.7154
+
+============================================================
+Audio : 2323_audio06.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+orido arranged transport from jeddah to madinah khoddan
+
+WER : 0.625
+CER : 0.4211
+
+============================================================
+Audio : 2323_audio13.wav
+
+Truth :
+jelaskan step by step cara booking flight ke jeddah secara online
+
+Prediction :
+jelaskan step by step cara booking flight ke jedah secara online
+
+WER : 0.0909
+CER : 0.0154
+
+============================================================
+Audio : 2323_audio14.wav
+
+Truth :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+Prediction :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2323_audio15.wav
+
+Truth :
+tolong buat checklist persiapan umrah termasuk barang wajib dibawa
+
+Prediction :
+tolong buat checklist persiapan umrah termasuk barang wajib di bawah
+
+WER : 0.2222
+CER : 0.0303
+
+============================================================
+Audio : 2323_audio16.wav
+
+Truth :
+guide aku cara pilih hotel di makkah dekat haram dengan budget terbatas
+
+Prediction :
+guide aku cara pilih hotel di makkah dekat haram dengan budget terbatas
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2323_audio18.wav
+
+Truth :
+i feel overwhelmed dengan persiapan umrah ada tips sederhana
+
+Prediction :
+i feel overwhelmed dengan persiapan umrah ada tips sederhana
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2325_audio1.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book flight ke jedah minggu depan bisa bantu schedule
+
+WER : 0.0909
+CER : 0.0161
+
+============================================================
+Audio : 2325_audio2.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simpel tapi inkluar madinah fizit
+
+WER : 0.3333
+CER : 0.125
+
+============================================================
+Audio : 2325_audio3.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+can you help aku arrange transport dari jeddah ke marina tomorrow
+
+WER : 0.0909
+CER : 0.0303
+
+============================================================
+Audio : 2325_audio4.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2325_audio5.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+يا أخي، أريد بوك فلاك إلى جده الأسبوع القديم هل بس بنت أجد أفضل سكجول ورخلتا مبشرة؟
+
+WER : 1.0
+CER : 0.5462
+
+============================================================
+Audio : 2325_audio6.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uridu orange transport menjedah ilang adina keadaan
+
+WER : 0.875
+CER : 0.5088
+
+============================================================
+Audio : 2325_audio7.wav
+
+Truth :
+book flight ke jeddah lalu lanjut ke madinah schedule terbaik kapan
+
+Prediction :
+book flight ke jedah lalu lanjut ke madinah schedule terbaik kapan
+
+WER : 0.0909
+CER : 0.0149
+
+============================================================
+Audio : 2325_audio8.wav
+
+Truth :
+اريد schedule trip dari jeddah ke makkah besok pagi
+
+Prediction :
+apa perbedaan umrah dan hajj secara detail dalam islam
+
+WER : 1.0
+CER : 0.8431
+
+============================================================
+Audio : 2325_audio9.wav
+
+Truth :
+ممكن book transport dari makkah ke madinah untuk besok؟
+
+Prediction :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+WER : 1.0
+CER : 0.7818
+
+============================================================
+Audio : 2325_audio10.wav
+
+Truth :
+apa perbedaan umrah dan hajj secara detail dalam islam
+
+Prediction :
+i feel overwhelmed dengan persiapan umrah ada tips sederhana
+
+WER : 1.0
+CER : 0.8889
+
+============================================================
+Audio : 2326_audio01.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book flight ke jedah minggu depan bisa bantu schedule
+
+WER : 0.0909
+CER : 0.0161
+
+============================================================
+Audio : 2326_audio02.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simpel tapi include madina visit
+
+WER : 0.2222
+CER : 0.0536
+
+============================================================
+Audio : 2326_audio03.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2326_audio04.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2326_audio05.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya akhi uridu book flight ila jeddah alusbu alqadim hal bisa bantu ajidah aftar skedul wari hlatan mubashiroh
+
+WER : 0.7647
+CER : 0.6538
+
+============================================================
+Audio : 2326_audio06.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uridu range transport menjedah ila madinah kodan
+
+WER : 0.75
+CER : 0.4386
+
+============================================================
+Audio : 2326_audio07.wav
+
+Truth :
+book flight ke jeddah lalu lanjut ke madinah schedule terbaik kapan
+
+Prediction :
+book flight ke jeddah lalu lanjut ke madinah schedule terbaik kapan
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2326_audio11.wav
+
+Truth :
+kenapa fasting di رمضان itu wajib bagi muslim
+
+Prediction :
+kenapa fasting di ramadan itu wajib bagi muslim
+
+WER : 0.125
+CER : 0.1556
+
+============================================================
+Audio : 2326_audio13.wav
+
+Truth :
+jelaskan step by step cara booking flight ke jeddah secara online
+
+Prediction :
+jelaskan step by step cara booking flight ke jedah secara online
+
+WER : 0.0909
+CER : 0.0154
+
+============================================================
+Audio : 2326_audio17.wav
+
+Truth :
+menurut kamu belajar bahasa arab itu susah gak untuk pemula
+
+Prediction :
+menurut kamu belajar bahasa arab itu susah nggak untuk pemula
+
+WER : 0.1
+CER : 0.0339
+
+============================================================
+Audio : 2330_audio01.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book flight ke jedah minggu depan bisa bantu schedule
+
+WER : 0.0909
+CER : 0.0161
+
+============================================================
+Audio : 2330_audio02.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simple tapi include madinah visit
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2330_audio03.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+can you help aku arrange transport dari jedah ke madinah tomorrow
+
+WER : 0.0909
+CER : 0.0152
+
+============================================================
+Audio : 2330_audio04.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2330_audio05.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya ahih uridu bukflik ilah jeddah alusbu alkodim hal bisa bantu ajidah afdal skejul warilatan mubashiroh
+
+WER : 0.8235
+CER : 0.7
+
+============================================================
+Audio : 2330_audio06.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uridu arrange transport min jeddah ila madinah gadan
+
+WER : 0.5
+CER : 0.3684
+
+============================================================
+Audio : 2330_audio07.wav
+
+Truth :
+book flight ke jeddah lalu lanjut ke madinah schedule terbaik kapan
+
+Prediction :
+book flight ke jeddah lalu lanjut ke madinah skejul terbaik kapan
+
+WER : 0.0909
+CER : 0.0597
+
+============================================================
+Audio : 2330_audio12.wav
+
+Truth :
+bagaimana proses visa saudi untuk umrah dari indonesia sekarang
+
+Prediction :
+bagaimana proses visa saudi untuk umrah dari indonesia sekarang
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2330_audio14.wav
+
+Truth :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+Prediction :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2330_audio15.wav
+
+Truth :
+tolong buat checklist persiapan umrah termasuk barang wajib dibawa
+
+Prediction :
+tolong buat checklist persiapan umroh termasuk barang wajib di bawah
+
+WER : 0.3333
+CER : 0.0455
+
+============================================================
+Audio : 2330_audio17.wav
+
+Truth :
+menurut kamu belajar bahasa arab itu susah gak untuk pemula
+
+Prediction :
+menurut kamu belajar bahasa arab itu susah enggak untuk pemula
+
+WER : 0.1
+CER : 0.0508
+
+============================================================
+Audio : 2331_audio01.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book flight ke jedah minggu depan bisa bantu schedule
+
+WER : 0.0909
+CER : 0.0161
+
+============================================================
+Audio : 2331_audio02.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simple tapi include madinah visit
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2331_audio03.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+can you help aku arrange transport dari jedah ke madinah tomorrow
+
+WER : 0.0909
+CER : 0.0152
+
+============================================================
+Audio : 2331_audio04.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2331_audio05.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya ahi uridu buk flight ilajedah alus bual kadim hal bisa bantu ajida afdal schedule wari latan mubasirah
+
+WER : 0.8235
+CER : 0.6538
+
+============================================================
+Audio : 2331_audio06.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uridu range transport menjedah ila madinah gadan
+
+WER : 0.75
+CER : 0.4386
+
+============================================================
+Audio : 2331_audio10.wav
+
+Truth :
+apa perbedaan umrah dan hajj secara detail dalam islam
+
+Prediction :
+apa perbedaan umrah dan haji secara detail dalam islam
+
+WER : 0.1111
+CER : 0.0185
+
+============================================================
+Audio : 2331_audio12.wav
+
+Truth :
+bagaimana proses visa saudi untuk umrah dari indonesia sekarang
+
+Prediction :
+bagaimana proses visa saudi untuk umrah dari indonesia sekarang
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2331_audio15.wav
+
+Truth :
+tolong buat checklist persiapan umrah termasuk barang wajib dibawa
+
+Prediction :
+tolong buat checklist persiapan umrah termasuk barang wajib di bawah
+
+WER : 0.2222
+CER : 0.0303
+
+============================================================
+Audio : 2331_audio17.wav
+
+Truth :
+menurut kamu belajar bahasa arab itu susah gak untuk pemula
+
+Prediction :
+menurut kamu belajar bahasa arab itu susah enggak untuk pemula
+
+WER : 0.1
+CER : 0.0508
+
+============================================================
+Audio : 2334_audio01.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2334_audio02.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simple tapi include madinah visit
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2334_audio03.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2334_audio04.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2334_audio05.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya akhi uridu bukflike ilajeddah alusbu alqadim hal bisa bantu ajidah afpal schedule warihlatan mubas syurah
+
+WER : 0.8824
+CER : 0.6769
+
+============================================================
+Audio : 2334_audio06.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uridu range transport min jeddah ila madinah rodan
+
+WER : 0.625
+CER : 0.4035
+
+============================================================
+Audio : 2334_audio07.wav
+
+Truth :
+book flight ke jeddah lalu lanjut ke madinah schedule terbaik kapan
+
+Prediction :
+book flight ke jeddah lalu lanjut ke madinah skejul terbaik kapan
+
+WER : 0.0909
+CER : 0.0597
+
+============================================================
+Audio : 2334_audio08.wav
+
+Truth :
+اريد schedule trip dari jeddah ke makkah besok pagi
+
+Prediction :
+bagaimana proses visa saudi untuk umrah dari indonesia sekarang
+
+WER : 1.0
+CER : 0.9804
+
+============================================================
+Audio : 2334_audio09.wav
+
+Truth :
+ممكن book transport dari makkah ke madinah untuk besok؟
+
+Prediction :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+WER : 1.0
+CER : 0.7818
+
+============================================================
+Audio : 2334_audio10.wav
+
+Truth :
+apa perbedaan umrah dan hajj secara detail dalam islam
+
+Prediction :
+menurut kamu belajar bahasa arab itu susah nggak untuk pemula
+
+WER : 1.1111
+CER : 0.8519
+
+============================================================
+Audio : 2337_audio01.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2337_audio02.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umroh simpel tapi include madinah visit
+
+WER : 0.2222
+CER : 0.0536
+
+============================================================
+Audio : 2337_audio03.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2337_audio04.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2337_audio05.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya achi uridu bukflike ilah jeddah alusbu alqadim hal bisa bantu ajidah afdal skejul wari helatan mubashirah
+
+WER : 0.8824
+CER : 0.7077
+
+============================================================
+Audio : 2337_audio06.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uridu arrange transport min jeddah ila madinahoddan
+
+WER : 0.625
+CER : 0.386
+
+============================================================
+Audio : 2337_audio07.wav
+
+Truth :
+book flight ke jeddah lalu lanjut ke madinah schedule terbaik kapan
+
+Prediction :
+book flight ke jedah lalu lanjut ke madinah schedule terbaik kapan
+
+WER : 0.0909
+CER : 0.0149
+
+============================================================
+Audio : 2337_audio13.wav
+
+Truth :
+jelaskan step by step cara booking flight ke jeddah secara online
+
+Prediction :
+jelaskan step by step cara booking flight ke jeddah secara online
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2337_audio14.wav
+
+Truth :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+Prediction :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2337_audio18.wav
+
+Truth :
+i feel overwhelmed dengan persiapan umrah ada tips sederhana
+
+Prediction :
+i feel overwhelmed dengan persiapan umroh ada tips sederhana
+
+WER : 0.1111
+CER : 0.0167
+
+============================================================
+Audio : 2338_audio01.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2338_audio02.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simple tapi include mandina visit
+
+WER : 0.1111
+CER : 0.0357
+
+============================================================
+Audio : 2338_audio03.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2338_audio04.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2338_audio05.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya ahli uridu buk flight ilajerdah alusbu alqadim hal bisa bantu ajidah afdol skejul warih latan mubah shiroh
+
+WER : 0.9412
+CER : 0.6923
+
+============================================================
+Audio : 2338_audio06.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uri 2 range transport minjit dah ilang madinah rodan
+
+WER : 0.875
+CER : 0.4737
+
+============================================================
+Audio : 2338_audio12.wav
+
+Truth :
+bagaimana proses visa saudi untuk umrah dari indonesia sekarang
+
+Prediction :
+bagaimana proses visa saudi untuk umrah dari indonesia sekarang
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2338_audio13.wav
+
+Truth :
+jelaskan step by step cara booking flight ke jeddah secara online
+
+Prediction :
+jelaskan step by step cara booking flight ke jeddah secara online
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2338_audio15.wav
+
+Truth :
+tolong buat checklist persiapan umrah termasuk barang wajib dibawa
+
+Prediction :
+tolong buat checklist persiapan umrah termasuk barang wajib di bawah
+
+WER : 0.2222
+CER : 0.0303
+
+============================================================
+Audio : 2338_audio17.wav
+
+Truth :
+menurut kamu belajar bahasa arab itu susah gak untuk pemula
+
+Prediction :
+menurut kamu belajar bahasa arab itu susah nggak untuk pemula
+
+WER : 0.1
+CER : 0.0339
+
+============================================================
+Audio : 2341_audio01.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau buk flight ke jedah minggu depan bisa bantu schedule
+
+WER : 0.1818
+CER : 0.0484
+
+============================================================
+Audio : 2341_audio01(1).wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau buk flight ke jedah minggu depan bisa bantu schedule
+
+WER : 0.1818
+CER : 0.0484
+
+============================================================
+Audio : 2341_audio02.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simpel tapi include madinafisip
+
+WER : 0.3333
+CER : 0.1071
+
+============================================================
+Audio : 2341_audio02(1).wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simpel tapi include madinafisip
+
+WER : 0.3333
+CER : 0.1071
+
+============================================================
+Audio : 2341_audio03.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+bolehkah kamu tolong saya mengurangkan transport dari jeddah ke madinah esok
+
+WER : 0.5455
+CER : 0.5
+
+============================================================
+Audio : 2341_audio03(1).wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+bolehkah kamu tolong saya mengurangkan transport dari jeddah ke madinah esok
+
+WER : 0.5455
+CER : 0.5
+
+============================================================
+Audio : 2341_audio04.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2341_audio04(1).wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2341_audio05.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya akri uridu book flight ilajadah alusbu alqadim hal bisa bantu ajadah afdal schedule wari halatan mubashirwah
+
+WER : 0.7647
+CER : 0.6615
+
+============================================================
+Audio : 2341_audio05(1).wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya akri uridu book flight ilajadah alusbu alqadim hal bisa bantu ajadah afdal schedule wari halatan mubashirwah
+
+WER : 0.7647
+CER : 0.6615
+
+============================================================
+Audio : 2341_audio06.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uridu orange transpars menjedah ila madinah dan
+
+WER : 0.875
+CER : 0.4737
+
+============================================================
+Audio : 2341_audio06(1).wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uridu orange transpars menjedah ila madinah dan
+
+WER : 0.875
+CER : 0.4737
+
+============================================================
+Audio : 2341_audio07.wav
+
+Truth :
+book flight ke jeddah lalu lanjut ke madinah schedule terbaik kapan
+
+Prediction :
+book flight ke jedah lalu lanjut ke madinah schedule terbaik kapan
+
+WER : 0.0909
+CER : 0.0149
+
+============================================================
+Audio : 2341_audio07(1).wav
+
+Truth :
+book flight ke jeddah lalu lanjut ke madinah schedule terbaik kapan
+
+Prediction :
+book flight ke jedah lalu lanjut ke madinah schedule terbaik kapan
+
+WER : 0.0909
+CER : 0.0149
+
+============================================================
+Audio : 2341_audio08.wav
+
+Truth :
+اريد schedule trip dari jeddah ke makkah besok pagi
+
+Prediction :
+bagaimana proses visa saudi untuk umrah dari indonesia sekarang
+
+WER : 1.0
+CER : 0.9804
+
+============================================================
+Audio : 2341_audio08(1).wav
+
+Truth :
+اريد schedule trip dari jeddah ke makkah besok pagi
+
+Prediction :
+bagaimana proses visa saudi untuk umrah dari indonesia sekarang
+
+WER : 1.0
+CER : 0.9804
+
+============================================================
+Audio : 2341_audio09.wav
+
+Truth :
+ممكن book transport dari makkah ke madinah untuk besok؟
+
+Prediction :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+WER : 1.0
+CER : 0.7818
+
+============================================================
+Audio : 2341_audio09(1).wav
+
+Truth :
+ممكن book transport dari makkah ke madinah untuk besok؟
+
+Prediction :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+WER : 1.0
+CER : 0.7818
+
+============================================================
+Audio : 2341_audio10.wav
+
+Truth :
+apa perbedaan umrah dan hajj secara detail dalam islam
+
+Prediction :
+menurut kamu belajar bahasa arab itu susah nggak untuk pemula
+
+WER : 1.1111
+CER : 0.8519
+
+============================================================
+Audio : 2341_audio10(1).wav
+
+Truth :
+apa perbedaan umrah dan hajj secara detail dalam islam
+
+Prediction :
+menurut kamu belajar bahasa arab itu susah nggak untuk pemula
+
+WER : 1.1111
+CER : 0.8519
+
+============================================================
+Audio : 2342_audio01.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book flight ke jedah minggu depan bisa bantu schedule
+
+WER : 0.0909
+CER : 0.0161
+
+============================================================
+Audio : 2342_audio02.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simpel tapi include madinah visit
+
+WER : 0.1111
+CER : 0.0357
+
+============================================================
+Audio : 2342_audio03.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2342_audio04.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2342_audio05.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya aku uridu buku klik ilah jaddah alusbuan alqodim hal bisa bantu ajidah afdol skedul warihlatan mubashirah
+
+WER : 0.8824
+CER : 0.7077
+
+============================================================
+Audio : 2342_audio06.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uridu range transport menjaddah ila madinah waden
+
+WER : 0.75
+CER : 0.4386
+
+============================================================
+Audio : 2342_audio10.wav
+
+Truth :
+apa perbedaan umrah dan hajj secara detail dalam islam
+
+Prediction :
+apa perbedaan umrah dan hajj secara detail dalam islam
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2342_audio11.wav
+
+Truth :
+kenapa fasting di رمضان itu wajib bagi muslim
+
+Prediction :
+kenapa fasting di ramadan itu wajib bagi muslim
+
+WER : 0.125
+CER : 0.1556
+
+============================================================
+Audio : 2342_audio14.wav
+
+Truth :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+Prediction :
+how to prepare dokumen om roh dari indonesia dengan benar
+
+WER : 0.2222
+CER : 0.0536
+
+============================================================
+Audio : 2342_audio19.wav
+
+Truth :
+احيانا saya bingung mulai dari mana untuk umrah
+
+Prediction :
+ah yanan saya bingung mulai dari mana untuk umrah
+
+WER : 0.25
+CER : 0.1702
+
+============================================================
+Audio : 2343_audio1.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book flight ke jedah minggu depan bisa bantu schedule
+
+WER : 0.0909
+CER : 0.0161
+
+============================================================
+Audio : 2343_audio2.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simpel tapi include madinah visit
+
+WER : 0.1111
+CER : 0.0357
+
+============================================================
+Audio : 2343_audio3.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+can you help aku arise transport dari jeddah ke bandina tomorrow
+
+WER : 0.1818
+CER : 0.1061
+
+============================================================
+Audio : 2343_audio4.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2343_audio5.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya aki uri dubuk flyk ila jeddah usbun alqadim hal bisa bantu ajidah afdal skejul warih latan musib barah
+
+WER : 0.9412
+CER : 0.7154
+
+============================================================
+Audio : 2343_audio6.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uridu aretsan spot minjedah ilamadi nahgodon
+
+WER : 1.0
+CER : 0.5965
+
+============================================================
+Audio : 2343_audio12.wav
+
+Truth :
+bagaimana proses visa saudi untuk umrah dari indonesia sekarang
+
+Prediction :
+bagaimana proses visa saudi untuk umrah dari indonesia sekarang
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2343_audio14.wav
+
+Truth :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+Prediction :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2343_audio16.wav
+
+Truth :
+guide aku cara pilih hotel di makkah dekat haram dengan budget terbatas
+
+Prediction :
+guide aku cara pilih hotel di merkah dekat haram dengan budget terbatas
+
+WER : 0.0833
+CER : 0.0282
+
+============================================================
+Audio : 2343_audio18.wav
+
+Truth :
+i feel overwhelmed dengan persiapan umrah ada tips sederhana
+
+Prediction :
+i will upper hand dengan persiapan umrah ada tips sederhana
+
+WER : 0.3333
+CER : 0.1833
+
+============================================================
+Audio : 2344_audio1.m4a.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book flight ke jedah minggu depan bisa bantu schedule
+
+WER : 0.0909
+CER : 0.0161
+
+============================================================
+Audio : 2344_audio2.m4a.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simple tapi include madinah visit
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2344_audio3.m4a.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+bolehkah anda tolong saya aturkan transport dari jedah ke madinah tomorow
+
+WER : 0.6364
+CER : 0.3939
+
+============================================================
+Audio : 2344_audio4.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2344_audio5.m4a.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya aki uridu buk flyk ilaj dah el usbu an kadim hal bisa bantu ajida afdal skedul wari latan mubashirah
+
+WER : 1.0588
+CER : 0.7154
+
+============================================================
+Audio : 2344_audio6.m4a.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+unidu range transport minjidah ila madinah gwadan
+
+WER : 0.75
+CER : 0.4737
+
+============================================================
+Audio : 2344_audio10.m4a.wav
+
+Truth :
+apa perbedaan umrah dan hajj secara detail dalam islam
+
+Prediction :
+apa perbedaan umrah dan haji secara detail dalam islam
+
+WER : 0.1111
+CER : 0.0185
+
+============================================================
+Audio : 2344_audio13.wav
+
+Truth :
+jelaskan step by step cara booking flight ke jeddah secara online
+
+Prediction :
+jelaskan step by step cara booking flight ke judah secara online
+
+WER : 0.0909
+CER : 0.0308
+
+============================================================
+Audio : 2344_audio17.wav
+
+Truth :
+menurut kamu belajar bahasa arab itu susah gak untuk pemula
+
+Prediction :
+menurut kamu belajar bahasa arab itu susah gak untuk pemula
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2344_audio20.m4a.wav
+
+Truth :
+translate ke english aku mau pergi ke makkah minggu depan
+
+Prediction :
+translate ke english aku mau pergi ke mekah minggu depan
+
+WER : 0.1
+CER : 0.0351
+
+============================================================
+Audio : 2345_audio01.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2345_audio02.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simpel tapi untuk madinah visit
+
+WER : 0.2222
+CER : 0.125
+
+============================================================
+Audio : 2345_audio03.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+can you help aku arrange transport dari jedah ke madinah to muro
+
+WER : 0.2727
+CER : 0.0758
+
+============================================================
+Audio : 2345_audio04.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2345_audio05.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya akhi uridu bukti ila jeddah alusbu alqadim hal bisa bantu ajidah afdol skejul warihlatan mubashiroh
+
+WER : 0.8235
+CER : 0.7154
+
+============================================================
+Audio : 2345_audio06.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uri du arrange transport minjeqdah ila madinah wadhan
+
+WER : 0.75
+CER : 0.4211
+
+============================================================
+Audio : 2345_audio07.wav
+
+Truth :
+book flight ke jeddah lalu lanjut ke madinah schedule terbaik kapan
+
+Prediction :
+book flight ke jeddah lalu lanjut ke madinah skejul terbaik kapan
+
+WER : 0.0909
+CER : 0.0597
+
+============================================================
+Audio : 2345_audio08.wav
+
+Truth :
+اريد schedule trip dari jeddah ke makkah besok pagi
+
+Prediction :
+apa perbedaan umrah dan haji secara detail dalam islam
+
+WER : 1.0
+CER : 0.8235
+
+============================================================
+Audio : 2345_audio09.wav
+
+Truth :
+ممكن book transport dari makkah ke madinah untuk besok؟
+
+Prediction :
+kenapa fasting di ramadhan itu wajib bagi muslim
+
+WER : 1.0
+CER : 0.7455
+
+============================================================
+Audio : 2345_audio10.wav
+
+Truth :
+apa perbedaan umrah dan hajj secara detail dalam islam
+
+Prediction :
+bagaimana proses visa saudi untuk umrah dari indonesia sekarang
+
+WER : 1.0
+CER : 0.9444
+
+============================================================
+Audio : 2345_audio11.wav
+
+Truth :
+kenapa fasting di رمضان itu wajib bagi muslim
+
+Prediction :
+jelaskan step by step cara booking flight ke jeddah secara online
+
+WER : 1.375
+CER : 1.1111
+
+============================================================
+Audio : 2345_audio12.wav
+
+Truth :
+bagaimana proses visa saudi untuk umrah dari indonesia sekarang
+
+Prediction :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+WER : 0.7778
+CER : 0.5556
+
+============================================================
+Audio : 2345_audio13.wav
+
+Truth :
+jelaskan step by step cara booking flight ke jeddah secara online
+
+Prediction :
+tolong buat checklist persiapan umroh termasuk barang wajib dibawa
+
+WER : 1.0
+CER : 0.8615
+
+============================================================
+Audio : 2345_audio14.wav
+
+Truth :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+Prediction :
+menurut kamu belajar bahasa arab itu susah gak untuk pemula
+
+WER : 1.1111
+CER : 0.8571
+
+============================================================
+Audio : 2345_audio15.wav
+
+Truth :
+tolong buat checklist persiapan umrah termasuk barang wajib dibawa
+
+Prediction :
+ah ya anan saya bingung mulai dari mana untuk umrah
+
+WER : 1.1111
+CER : 0.7727
+
+============================================================
+Audio : 2347_audio1.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book fly ke jedah minggu depan bisa bantu schedule
+
+WER : 0.1818
+CER : 0.0806
+
+============================================================
+Audio : 2347_audio2.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simpel tapi include madinah visit
+
+WER : 0.1111
+CER : 0.0357
+
+============================================================
+Audio : 2347_audio3.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+can you help aku arrange transport dari jedah ke madinah tomorrow
+
+WER : 0.0909
+CER : 0.0152
+
+============================================================
+Audio : 2347_audio4.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2347_audio5.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya ahi uridu bukflik ilajedah alusbu alkadhim hal bisa bantu ajidah afdal skedul warih latan mubashiroh
+
+WER : 0.9412
+CER : 0.7154
+
+============================================================
+Audio : 2347_audio6.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uridu range transport min jeddah ila madinah godan
+
+WER : 0.625
+CER : 0.4035
+
+============================================================
+Audio : 2347_audio7.wav
+
+Truth :
+book flight ke jeddah lalu lanjut ke madinah schedule terbaik kapan
+
+Prediction :
+book flight ke jedah lalu lanjut ke madinah schedule terbaik kapan
+
+WER : 0.0909
+CER : 0.0149
+
+============================================================
+Audio : 2347_audio11.wav
+
+Truth :
+kenapa fasting di رمضان itu wajib bagi muslim
+
+Prediction :
+kenapa fasting di ramadan itu wajib bagi muslim
+
+WER : 0.125
+CER : 0.1556
+
+============================================================
+Audio : 2347_audio14.wav
+
+Truth :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+Prediction :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2347_audio17.wav
+
+Truth :
+menurut kamu belajar bahasa arab itu susah gak untuk pemula
+
+Prediction :
+menurut kamu belajar bahasa arab itu susah enggak untuk pemula
+
+WER : 0.1
+CER : 0.0508
+
+============================================================
+Audio : 2348_audio01.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau buk flight ke jeddah minggu depan bisa bantu schedule
+
+WER : 0.0909
+CER : 0.0323
+
+============================================================
+Audio : 2348_audio02.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simple tapi include madinah visit
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2348_audio03.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+bolehkah anda tolong saya aturkan transport dari jeddah ke madinah esok
+
+WER : 0.5455
+CER : 0.4697
+
+============================================================
+Audio : 2348_audio04.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2348_audio05.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya aki uridu buk flight ilajir dah el usbu al qadim hal bisa bantu ajra afdal skejul wari helatan mubashirah
+
+WER : 1.0
+CER : 0.7077
+
+============================================================
+Audio : 2348_audio06.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uridu range transport menjeda ilamadina rodan
+
+WER : 0.875
+CER : 0.4912
+
+============================================================
+Audio : 2348_audio07.wav
+
+Truth :
+book flight ke jeddah lalu lanjut ke madinah schedule terbaik kapan
+
+Prediction :
+book flight ke jeddah lalu lanjut ke madinah skejul terbaik kapan
+
+WER : 0.0909
+CER : 0.0597
+
+============================================================
+Audio : 2348_audio12.wav
+
+Truth :
+bagaimana proses visa saudi untuk umrah dari indonesia sekarang
+
+Prediction :
+bagaimana proses visa saudi untuk umrah dari indonesia sekarang
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2348_audio13.wav
+
+Truth :
+jelaskan step by step cara booking flight ke jeddah secara online
+
+Prediction :
+jelaskan step by step cara booking flight ke jeddah secara online
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2348_audio14.wav
+
+Truth :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+Prediction :
+how to prepare umrah documents from indonesia correctly
+
+WER : 0.5556
+CER : 0.5179
+
+============================================================
+Audio : 2355_audio01.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book fly ke jedah minggu depan bisa bantu schedule
+
+WER : 0.1818
+CER : 0.0806
+
+============================================================
+Audio : 2355_audio02.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simpel tapi include madinah visit
+
+WER : 0.1111
+CER : 0.0357
+
+============================================================
+Audio : 2355_audio03.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+can you help aku arrange transport dari jedah ke madinah tomorrow
+
+WER : 0.0909
+CER : 0.0152
+
+============================================================
+Audio : 2355_audio04.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2355_audio05.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya akhi uridu book flight ilajadah alusbu alqadim hal bisa bantu ajidah afdal schedule wari latan mubassirah
+
+WER : 0.7647
+CER : 0.6462
+
+============================================================
+Audio : 2355_audio06.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uridu rains transport menjadah ila madinah gadan
+
+WER : 0.75
+CER : 0.5088
+
+============================================================
+Audio : 2355_audio07.wav
+
+Truth :
+book flight ke jeddah lalu lanjut ke madinah schedule terbaik kapan
+
+Prediction :
+book flight ke jeddah lalu lanjut ke madinah skedul terbaik kapan
+
+WER : 0.0909
+CER : 0.0448
+
+============================================================
+Audio : 2355_audio10.wav
+
+Truth :
+apa perbedaan umrah dan hajj secara detail dalam islam
+
+Prediction :
+apa perbedaan umrah dan haji secara detail dalam islam
+
+WER : 0.1111
+CER : 0.0185
+
+============================================================
+Audio : 2355_audio13.wav
+
+Truth :
+jelaskan step by step cara booking flight ke jeddah secara online
+
+Prediction :
+jelaskan step by step cara booking flight ke jedah secara online
+
+WER : 0.0909
+CER : 0.0154
+
+============================================================
+Audio : 2355_audio17.wav
+
+Truth :
+menurut kamu belajar bahasa arab itu susah gak untuk pemula
+
+Prediction :
+menurut kamu belajar bahasa arab itu susah gak untuk pemula
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2357_audio01.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book fly ke jedah minggu depan bisa bantu skejul
+
+WER : 0.2727
+CER : 0.1452
+
+============================================================
+Audio : 2357_audio02.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simple tapi include madinah visit
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2357_audio03.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+can you help aku arrange transport dari jedah ke madinah tomorrow
+
+WER : 0.0909
+CER : 0.0152
+
+============================================================
+Audio : 2357_audio04.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2357_audio05.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+yaa aki uridu book flight ilajet dah alusbu aladim hal bisa bantu ajidah afdol skejul wari latan mubashirah
+
+WER : 0.8235
+CER : 0.6769
+
+============================================================
+Audio : 2357_audio06.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uridu range transport min jeddah ila madinah rodan
+
+WER : 0.625
+CER : 0.4035
+
+============================================================
+Audio : 2357_audio07.wav
+
+Truth :
+book flight ke jeddah lalu lanjut ke madinah schedule terbaik kapan
+
+Prediction :
+book flight ke jeddah lalu lanjut ke madinah skejul terbaik kapan
+
+WER : 0.0909
+CER : 0.0597
+
+============================================================
+Audio : 2357_audio12.wav
+
+Truth :
+bagaimana proses visa saudi untuk umrah dari indonesia sekarang
+
+Prediction :
+bagaimana proses visa saudi untuk umrah dari indonesia sekarang
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2357_audio15.wav
+
+Truth :
+tolong buat checklist persiapan umrah termasuk barang wajib dibawa
+
+Prediction :
+tolong buat checklist persiapan umroh termasuk barang wajib di bawah
+
+WER : 0.3333
+CER : 0.0455
+
+============================================================
+Audio : 2357_audio17.wav
+
+Truth :
+menurut kamu belajar bahasa arab itu susah gak untuk pemula
+
+Prediction :
+menurut kamu belajar bahasa arab itu susah gak untuk pemula
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2359_audio1.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2359_audio2.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simpel tapi include madinah visit
+
+WER : 0.1111
+CER : 0.0357
+
+============================================================
+Audio : 2359_audio3.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2359_audio4.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2359_audio5.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya aki uridu bukflik ilajad dah alusbu alqadim hal bisa bantu ajidah afdal skedul warih latam mubassirah
+
+WER : 0.9412
+CER : 0.7231
+
+============================================================
+Audio : 2359_audio6.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uridu range transport minjad dahilah madinah rodan
+
+WER : 0.75
+CER : 0.4737
+
+============================================================
+Audio : 2359_audio7.wav
+
+Truth :
+book flight ke jeddah lalu lanjut ke madinah schedule terbaik kapan
+
+Prediction :
+book flight ke jeddah lalu lanjut ke madinah skejul terbaik kapan
+
+WER : 0.0909
+CER : 0.0597
+
+============================================================
+Audio : 2359_audio12.wav
+
+Truth :
+bagaimana proses visa saudi untuk umrah dari indonesia sekarang
+
+Prediction :
+bagaimana proses pisah saudi untuk umrah dari indonesia sekarang
+
+WER : 0.1111
+CER : 0.0317
+
+============================================================
+Audio : 2359_audio14.wav
+
+Truth :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+Prediction :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2359_audio17.wav
+
+Truth :
+menurut kamu belajar bahasa arab itu susah gak untuk pemula
+
+Prediction :
+menurut kamu belajar bahasa arab itu susah gak untuk pemula
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2360_audio01.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book flight ke jedah minggu depan bisa bantu schedule
+
+WER : 0.0909
+CER : 0.0161
+
+============================================================
+Audio : 2360_audio02.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simpel tapi include madinah visit
+
+WER : 0.1111
+CER : 0.0357
+
+============================================================
+Audio : 2360_audio03.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+can you help aku arrange transport dari jedah ke madinah tomorrow
+
+WER : 0.0909
+CER : 0.0152
+
+============================================================
+Audio : 2360_audio04.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2360_audio05.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya akhi uriduh book flight ila jeddah lusbuwan lqadim hal bisa bantu ajidah afdal schedule warihlatan mubashyurah
+
+WER : 0.6471
+CER : 0.6231
+
+============================================================
+Audio : 2360_audio06.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uridu range transport menjeda ilang madinah gowdan
+
+WER : 0.75
+CER : 0.4737
+
+============================================================
+Audio : 2360_audio07.wav
+
+Truth :
+book flight ke jeddah lalu lanjut ke madinah schedule terbaik kapan
+
+Prediction :
+book flight ke jedah lalu lanjut ke madinah schedule terbaik kapan
+
+WER : 0.0909
+CER : 0.0149
+
+============================================================
+Audio : 2360_audio10.wav
+
+Truth :
+apa perbedaan umrah dan hajj secara detail dalam islam
+
+Prediction :
+apa perbedaan umrah dan hajj secara detail dalam islam
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2360_audio11.wav
+
+Truth :
+kenapa fasting di رمضان itu wajib bagi muslim
+
+Prediction :
+kenapa fasting di ramadan itu wajib bagi muslim
+
+WER : 0.125
+CER : 0.1556
+
+============================================================
+Audio : 2360_audio14.wav
+
+Truth :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+Prediction :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2362_audio01.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book flight ke jedah minggu depan bisa bantu schedule
+
+WER : 0.0909
+CER : 0.0161
+
+============================================================
+Audio : 2362_audio02.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simpel tapi include madinah visit
+
+WER : 0.1111
+CER : 0.0357
+
+============================================================
+Audio : 2362_audio03.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+bisa bantu aku arrange transport dari jeddah ke madinah tomorrow
+
+WER : 0.2727
+CER : 0.1818
+
+============================================================
+Audio : 2362_audio04.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2362_audio05.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya aki uridu book flight ila jeddah alusbu alqadim hal bisa bantu ajidah afdal schedule wari hlatan mubashirah
+
+WER : 0.7059
+CER : 0.6308
+
+============================================================
+Audio : 2362_audio06.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uridu range transport minjedah ila madinah gadan
+
+WER : 0.75
+CER : 0.4386
+
+============================================================
+Audio : 2362_audio07.wav
+
+Truth :
+book flight ke jeddah lalu lanjut ke madinah schedule terbaik kapan
+
+Prediction :
+book flight ke jedah lalu lanjut ke maninah schedule terbaik kapan
+
+WER : 0.1818
+CER : 0.0299
+
+============================================================
+Audio : 2362_audio11.wav
+
+Truth :
+kenapa fasting di رمضان itu wajib bagi muslim
+
+Prediction :
+kenapa fasting di ramadan itu wajib bagi muslim
+
+WER : 0.125
+CER : 0.1556
+
+============================================================
+Audio : 2362_audio15.wav
+
+Truth :
+tolong buat checklist persiapan umrah termasuk barang wajib dibawa
+
+Prediction :
+tolong buat checklist persiapan umrah termasuk barang wajib di bawah
+
+WER : 0.2222
+CER : 0.0303
+
+============================================================
+Audio : 2362_audio17.wav
+
+Truth :
+menurut kamu belajar bahasa arab itu susah gak untuk pemula
+
+Prediction :
+menurut kamu belajar bahasa arab itu susah enggak untuk umla
+
+WER : 0.2
+CER : 0.1017
+
+============================================================
+Audio : 2362_audio20.wav
+
+Truth :
+translate ke english aku mau pergi ke makkah minggu depan
+
+Prediction :
+translate ke english aku mau pergi ke mekah minggu depan
+
+WER : 0.1
+CER : 0.0351
+
+============================================================
+Audio : 2363_audio01.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book flight ke jedah inggu depan bisa bantu schedule
+
+WER : 0.1818
+CER : 0.0323
+
+============================================================
+Audio : 2363_audio02.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simpel tapi include madinah visit
+
+WER : 0.1111
+CER : 0.0357
+
+============================================================
+Audio : 2363_audio03.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+can you help aku arrange transport dari jedah ke madinah tomorrow
+
+WER : 0.0909
+CER : 0.0152
+
+============================================================
+Audio : 2363_audio04.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2363_audio05.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya akhi uridu book flight ila jeddah alusbu ankidam al bisa bantu ajidah afdal schedule warihlatan mubashirah
+
+WER : 0.6471
+CER : 0.6231
+
+============================================================
+Audio : 2363_audio06.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uridu range transport minjidah ila madinah radan
+
+WER : 0.75
+CER : 0.4561
+
+============================================================
+Audio : 2363_audio07.wav
+
+Truth :
+book flight ke jeddah lalu lanjut ke madinah schedule terbaik kapan
+
+Prediction :
+book flight ke jedah lanjut ke madinah skedul terbaik kapan
+
+WER : 0.2727
+CER : 0.1343
+
+============================================================
+Audio : 2363_audio10.wav
+
+Truth :
+apa perbedaan umrah dan hajj secara detail dalam islam
+
+Prediction :
+apa perbedaan umrah dan haji secara detail dalam islam
+
+WER : 0.1111
+CER : 0.0185
+
+============================================================
+Audio : 2363_audio11.wav
+
+Truth :
+kenapa fasting di رمضان itu wajib bagi muslim
+
+Prediction :
+rapan fasting di ramadhan itu wajib bagi muslim
+
+WER : 0.25
+CER : 0.2667
+
+============================================================
+Audio : 2363_audio14.wav
+
+Truth :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+Prediction :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2364_audio01.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book fly ke jeddah minggu depan bisa bantu schedule
+
+WER : 0.0909
+CER : 0.0645
+
+============================================================
+Audio : 2364_audio02.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simple tapi include madinah fisik
+
+WER : 0.1111
+CER : 0.0357
+
+============================================================
+Audio : 2364_audio03.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+bolehkah anda membantu saya menyiapkan transport dari jeddah ke madinah esok
+
+WER : 0.5455
+CER : 0.5606
+
+============================================================
+Audio : 2364_audio04.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2364_audio05.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya akhi uridu book flight ila jeddah alusbu alqadim hal bisa bantu ajidah afdal schedule wari helatan mubas hirah
+
+WER : 0.7647
+CER : 0.6385
+
+============================================================
+Audio : 2364_audio06.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uridu arrange transport min jeddah ila madinahwadan
+
+WER : 0.625
+CER : 0.386
+
+============================================================
+Audio : 2364_audio12.wav
+
+Truth :
+bagaimana proses visa saudi untuk umrah dari indonesia sekarang
+
+Prediction :
+bagaimana proses visa saudi untuk umrah dari indonesia sekarang
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2364_audio13.wav
+
+Truth :
+jelaskan step by step cara booking flight ke jeddah secara online
+
+Prediction :
+jelaskan step by step cara booking fly ke jeddah secara online
+
+WER : 0.0909
+CER : 0.0615
+
+============================================================
+Audio : 2364_audio14.wav
+
+Truth :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+Prediction :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2364_audio17.wav
+
+Truth :
+menurut kamu belajar bahasa arab itu susah gak untuk pemula
+
+Prediction :
+menurut kamu belajar bahasa arab itu susah nggak untuk pemula
+
+WER : 0.1
+CER : 0.0339
+
+============================================================
+Audio : 2366_audio01.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2366_audio02.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simpel tapi include madinah visit
+
+WER : 0.1111
+CER : 0.0357
+
+============================================================
+Audio : 2366_audio03.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2366_audio04.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply bisa saudi dengan benar
+
+WER : 0.1
+CER : 0.0182
+
+============================================================
+Audio : 2366_audio05.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya ahli uridu buk flight ilajadah alusbu alqadim hal bisa bantu ajidah afda schedule wari hatan mubashiroh
+
+WER : 0.8235
+CER : 0.6615
+
+============================================================
+Audio : 2366_audio06.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uridu arrange transport mencet dah ila madinahkwadan
+
+WER : 0.75
+CER : 0.4561
+
+============================================================
+Audio : 2366_audio07.wav
+
+Truth :
+book flight ke jeddah lalu lanjut ke madinah schedule terbaik kapan
+
+Prediction :
+book flight ke judah lalu lanjut ke madinah skejul terbaik kapan
+
+WER : 0.1818
+CER : 0.0896
+
+============================================================
+Audio : 2366_audio11.wav
+
+Truth :
+kenapa fasting di رمضان itu wajib bagi muslim
+
+Prediction :
+kenapa fasting di ramadan itu wajib bagi muslim
+
+WER : 0.125
+CER : 0.1556
+
+============================================================
+Audio : 2366_audio13.wav
+
+Truth :
+jelaskan step by step cara booking flight ke jeddah secara online
+
+Prediction :
+jelaskan step by step cara booking flight gadget dah secara online
+
+WER : 0.1818
+CER : 0.0923
+
+============================================================
+Audio : 2366_audio15.wav
+
+Truth :
+tolong buat checklist persiapan umrah termasuk barang wajib dibawa
+
+Prediction :
+tolong bawa checklist persiapan umrah termasuk barang wajib di bawah
+
+WER : 0.3333
+CER : 0.0758
+
+============================================================
+Audio : 2367_audio1.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2367_audio2.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel omroah simpel tapi include madinah visit
+
+WER : 0.2222
+CER : 0.0714
+
+============================================================
+Audio : 2367_audio3.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+can you help aku arrange transport dari jeddah ke bandina tomorrow
+
+WER : 0.0909
+CER : 0.0455
+
+============================================================
+Audio : 2367_audio4.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2367_audio5.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya akhi kuri du bu flight ila jeddah alusbu an alqadim hal bisa bantu ajidah afdal schedule wari hlatan mubasirah
+
+WER : 0.8824
+CER : 0.6538
+
+============================================================
+Audio : 2367_audio6.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uridu range transport minjitda ilamadhinah kodan
+
+WER : 0.875
+CER : 0.5088
+
+============================================================
+Audio : 2367_audio7.wav
+
+Truth :
+book flight ke jeddah lalu lanjut ke madinah schedule terbaik kapan
+
+Prediction :
+book flight ke jeddah lalu lanjut ke madinah schedule terbaik kapan
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2367_audio10.wav
+
+Truth :
+apa perbedaan umrah dan hajj secara detail dalam islam
+
+Prediction :
+apa perbedaan umrah dan hajj secara detail dalam islam
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2367_audio13.wav
+
+Truth :
+jelaskan step by step cara booking flight ke jeddah secara online
+
+Prediction :
+jelaskan step by step cara booking flight ke jeddah secara online
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2367_audio18.wav
+
+Truth :
+i feel overwhelmed dengan persiapan umrah ada tips sederhana
+
+Prediction :
+i feel overwhelmed dengan persiapan umrah ada tips sederhana
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2369_audio1.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+kami ingin buka pesawat ke jeddah minggu depan bisa membantu schedule
+
+WER : 0.4545
+CER : 0.3226
+
+============================================================
+Audio : 2369_audio2.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simple tapi include madinah visit
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2369_audio3.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+bolehkah anda membantu saya menyiapkan transport dari jeddah ke madinah esok
+
+WER : 0.5455
+CER : 0.5606
+
+============================================================
+Audio : 2369_audio4.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2369_audio5.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya akhih uridu book flight ila jeddah alusbu alqadim hal bisa bantu ajidah afdal skejul warih latan mubasirah
+
+WER : 0.7647
+CER : 0.6615
+
+============================================================
+Audio : 2369_audio6.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uri du erens transport menjendah ilama dinah wadan
+
+WER : 1.0
+CER : 0.5263
+
+============================================================
+Audio : 2369_audio7.wav
+
+Truth :
+book flight ke jeddah lalu lanjut ke madinah schedule terbaik kapan
+
+Prediction :
+book flight ke jeddah lalu lanjut ke madinah skejul terbaik kapan
+
+WER : 0.0909
+CER : 0.0597
+
+============================================================
+Audio : 2369_audio8.wav
+
+Truth :
+اريد schedule trip dari jeddah ke makkah besok pagi
+
+Prediction :
+buridu schedule trip min jeddah ilamakah bukrosabah
+
+WER : 0.6667
+CER : 0.4314
+
+============================================================
+Audio : 2369_audio9.wav
+
+Truth :
+ممكن book transport dari makkah ke madinah untuk besok؟
+
+Prediction :
+bagaimana proses via saudi untuk umrah dari indonesia sekarang
+
+WER : 1.0
+CER : 0.8727
+
+============================================================
+Audio : 2369_audio10.wav
+
+Truth :
+apa perbedaan umrah dan hajj secara detail dalam islam
+
+Prediction :
+jelaskan step by step cara booking flight ke jedah secara online
+
+WER : 1.2222
+CER : 0.9259
+
+============================================================
+Audio : 2371_audio01.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book flight ke jedah minggu depan bisa bantu schedule
+
+WER : 0.0909
+CER : 0.0161
+
+============================================================
+Audio : 2371_audio02.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simpel tapi include madinah visit
+
+WER : 0.1111
+CER : 0.0357
+
+============================================================
+Audio : 2371_audio03.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+can you help aku arrange transport dari jedah ke madinah tomorrow
+
+WER : 0.0909
+CER : 0.0152
+
+============================================================
+Audio : 2371_audio04.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2371_audio05.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya aki uridu book flight ila jedah alusbu alqadim hal bisa bantu ajida afdal skejul wari rilatan mubashirah
+
+WER : 0.8235
+CER : 0.6692
+
+============================================================
+Audio : 2371_audio06.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uridu range transport menjedah ila madinah gadan
+
+WER : 0.75
+CER : 0.4386
+
+============================================================
+Audio : 2371_audio07.wav
+
+Truth :
+book flight ke jeddah lalu lanjut ke madinah schedule terbaik kapan
+
+Prediction :
+book flight ke jeddah lalu lanjut ke madinah skejul terbaik kapan
+
+WER : 0.0909
+CER : 0.0597
+
+============================================================
+Audio : 2371_audio12.wav
+
+Truth :
+bagaimana proses visa saudi untuk umrah dari indonesia sekarang
+
+Prediction :
+bagaimana proses visa saudi untuk umrah dari indonesia sekarang
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2371_audio13.wav
+
+Truth :
+jelaskan step by step cara booking flight ke jeddah secara online
+
+Prediction :
+jelaskan step by step cara booking flight ke jedah secara online
+
+WER : 0.0909
+CER : 0.0154
+
+============================================================
+Audio : 2371_audio17.wav
+
+Truth :
+menurut kamu belajar bahasa arab itu susah gak untuk pemula
+
+Prediction :
+menurut kamu belajar bahasa arab itu susah gak untuk pemula
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2372_audio01.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book flight ke jedah minggu depan bisa bantu schedule
+
+WER : 0.0909
+CER : 0.0161
+
+============================================================
+Audio : 2372_audio02.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simpel tapi include madina visit
+
+WER : 0.2222
+CER : 0.0536
+
+============================================================
+Audio : 2372_audio03.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+can you help aku arrange transport dari jedah ke madinah tomorrow
+
+WER : 0.0909
+CER : 0.0152
+
+============================================================
+Audio : 2372_audio04.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2372_audio05.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya hihi urido book fly ila jadah alusbu alqadim hal bisa bantu ajidah afdal schedule war hilatan mubas shiroh
+
+WER : 0.8824
+CER : 0.6769
+
+============================================================
+Audio : 2372_audio06.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uridu arange transport minjedah ila madinah koden
+
+WER : 0.75
+CER : 0.4211
+
+============================================================
+Audio : 2372_audio10.wav
+
+Truth :
+apa perbedaan umrah dan hajj secara detail dalam islam
+
+Prediction :
+apa perbedaan umrah dan haji secara detail dalam islam
+
+WER : 0.1111
+CER : 0.0185
+
+============================================================
+Audio : 2372_audio11.wav
+
+Truth :
+kenapa fasting di رمضان itu wajib bagi muslim
+
+Prediction :
+kenapa fasting di ramadan itu wajib bagi muslim
+
+WER : 0.125
+CER : 0.1556
+
+============================================================
+Audio : 2372_audio14.wav
+
+Truth :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+Prediction :
+how to prepare dokumen umrah dari indonesia dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2372_audio15.wav
+
+Truth :
+tolong buat checklist persiapan umrah termasuk barang wajib dibawa
+
+Prediction :
+tolong buat checklist persiapan omrah termasuk barang wajib di bawah
+
+WER : 0.3333
+CER : 0.0455
+
+============================================================
+Audio : 2374_audio01.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2374_audio02.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simpel tapi include madinah visit
+
+WER : 0.1111
+CER : 0.0357
+
+============================================================
+Audio : 2374_audio03.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2374_audio04.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2374_audio05.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya akhi kuridu buk flight ilajedah ulusebu ulqadim hal bisa bantu ajedah afdol skejul wari hlatan nubashirah
+
+WER : 0.8824
+CER : 0.6923
+
+============================================================
+Audio : 2374_audio06.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uridu urut transport menjadilah madinah wadan
+
+WER : 0.75
+CER : 0.5614
+
+============================================================
+Audio : 2374_audio11.wav
+
+Truth :
+kenapa fasting di رمضان itu wajib bagi muslim
+
+Prediction :
+kenapa fasting di ramadan itu wajib bagi muslim
+
+WER : 0.125
+CER : 0.1556
+
+============================================================
+Audio : 2374_audio13.wav
+
+Truth :
+jelaskan step by step cara booking flight ke jeddah secara online
+
+Prediction :
+jelaskan step by step cara booking flight ke jeddah secara online
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2374_audio15.wav
+
+Truth :
+tolong buat checklist persiapan umrah termasuk barang wajib dibawa
+
+Prediction :
+tolong buat checklist persiapan umrah termasuk barang wajib di bawah
+
+WER : 0.2222
+CER : 0.0303
+
+============================================================
+Audio : 2374_audio17.wav
+
+Truth :
+menurut kamu belajar bahasa arab itu susah gak untuk pemula
+
+Prediction :
+menurut kamu belajar bahasa arab itu susah enggak untuk pemula
+
+WER : 0.1
+CER : 0.0508
+
+============================================================
+Audio : 2375_audio01.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2375_audio02.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simpel tapi include madinah visit
+
+WER : 0.1111
+CER : 0.0357
+
+============================================================
+Audio : 2375_audio03.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+can you help aku arrange transport dari jedah ke madinah tomorrow
+
+WER : 0.0909
+CER : 0.0152
+
+============================================================
+Audio : 2375_audio04.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2375_audio05.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya akhi uridu buk flight ilajedah alusbu alqadim hal bisa bantu ajidah afdol skejul warihlatan mubashiroh
+
+WER : 0.8235
+CER : 0.6846
+
+============================================================
+Audio : 2375_audio06.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uridu range transport min jeddah ila madinah hoddan
+
+WER : 0.625
+CER : 0.4211
+
+============================================================
+Audio : 2375_audio08.wav
+
+Truth :
+اريد schedule trip dari jeddah ke makkah besok pagi
+
+Prediction :
+uri du schedule trip dari jedah ke makkah besok pagi
+
+WER : 0.3333
+CER : 0.1373
+
+============================================================
+Audio : 2375_audio11.wav
+
+Truth :
+kenapa fasting di رمضان itu wajib bagi muslim
+
+Prediction :
+kenapa fasting di ramadan itu wajib bagi muslim
+
+WER : 0.125
+CER : 0.1556
+
+============================================================
+Audio : 2375_audio15.wav
+
+Truth :
+tolong buat checklist persiapan umrah termasuk barang wajib dibawa
+
+Prediction :
+tolong buat check please persiapan umrah termasuk barang wajib dibawah
+
+WER : 0.3333
+CER : 0.0909
+
+============================================================
+Audio : 2375_audio18.wav
+
+Truth :
+i feel overwhelmed dengan persiapan umrah ada tips sederhana
+
+Prediction :
+i feel overwhelmed dengan persiapan umrah ada tip sederhana
+
+WER : 0.1111
+CER : 0.0167
+
+============================================================
+Audio : 2379_audio01.wav
+
+Truth :
+aku mau book flight ke jeddah minggu depan bisa bantu schedule
+
+Prediction :
+aku mau bok fly ke jedah minggu depan bisa bantu schedule
+
+WER : 0.2727
+CER : 0.0968
+
+============================================================
+Audio : 2379_audio02.wav
+
+Truth :
+aku butuh travel umrah simple tapi include madinah visit
+
+Prediction :
+aku butuh travel umrah simpel tapi ingkut madinah visib
+
+WER : 0.3333
+CER : 0.125
+
+============================================================
+Audio : 2379_audio03.wav
+
+Truth :
+can you help aku arrange transport dari jeddah ke madinah tomorrow
+
+Prediction :
+bolehkah anda tolong saya aturkan transport dari jeddah ke madinah esok
+
+WER : 0.5455
+CER : 0.4697
+
+============================================================
+Audio : 2379_audio05.wav
+
+Truth :
+يَا أَخِي، أُرِيدُ book flight إِلَى jeddah الأُسْبُوعَ القَادِمَ هَلْ bisa bantu أَجِدَ أَفْضَلَ schedule وَرِحْلَةً مُبَاشِرَةً؟
+
+Prediction :
+ya ahli uridu bukflai ilajedah alusbu alqadim hal bisa bantu ajidah afdal skejul wahrilatan mubashirah
+
+WER : 0.8824
+CER : 0.7231
+
+============================================================
+Audio : 2379_audio06.wav
+
+Truth :
+أُرِيدُ arrange transport مِنْ jeddah إِلَى madinah غَدًا
+
+Prediction :
+uri hidu a range transport menjadah ila madinah gadan
+
+WER : 1.0
+CER : 0.4561
+
+============================================================
+Audio : 2379_audio07.wav
+
+Truth :
+book flight ke jeddah lalu lanjut ke madinah schedule terbaik kapan
+
+Prediction :
+book flight ke jeddah lalu lanjut ke madinah schedule terbaik kapan
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2379_audio12.wav
+
+Truth :
+bagaimana proses visa saudi untuk umrah dari indonesia sekarang
+
+Prediction :
+bagaimana proses visa saudi untuk umrah dari indonesia sekarang
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2379_audio18.wav
+
+Truth :
+i feel overwhelmed dengan persiapan umrah ada tips sederhana
+
+Prediction :
+i feel overwhelmed dengan persiapan umrah ada tips sederhana
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2479_audio04.wav
+
+Truth :
+explain step by step cara apply visa saudi dengan benar
+
+Prediction :
+explain step by step cara apply visa saudi dengan benar
+
+WER : 0.0
+CER : 0.0
+
+============================================================
+Audio : 2479_audio15.wav
+
+Truth :
+tolong buat checklist persiapan umrah termasuk barang wajib dibawa
+
+Prediction :
+tolong buat ceklis persiapan umrah termasuk barang wajib di bawah
+
+WER : 0.3333
+CER : 0.0758
+
+============================================================
+BASELINE EVALUATION
+Jumlah audio : 460
+Rata-rata WER : 0.2971
+Rata-rata CER : 0.1957

@@ -1,6 +1,23 @@
+# Virtual Environment
 .env
-/data/
-/nlp_prak_env/
-/temp/
-/home/azani/Kuliah/semester_6/nlp/prak/uas/voice-cs-system/app/coqui_tts/
+nlp_prak_env/
+
+# Data & Temporary Files
+data/
+temp/
+
+# Models & Libraries (Coqui TTS & Whisper)
 app/coqui_tts/
+models/whisper.cpp/
+
+# Audio Outputs
+
+results/tts_output/
+
+# Format audio umum (opsional, jaga-jaga kalau ada yang tercecer)
+*.wav
+*.mp3
+
+# Mengabaikan model TTS bahasa Indonesia
+models/indonesian-tts/
+*.pth

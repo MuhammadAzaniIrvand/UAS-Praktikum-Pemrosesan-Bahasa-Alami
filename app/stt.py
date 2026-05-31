@@ -1,33 +1,74 @@
-import os
-from faster_whisper import WhisperModel
+# app/stt.py — baris paling atas, sebelum import lain
 
-# Model Whisper dimuat sekali saat aplikasi dijalankan
-model = WhisperModel(
-    "large-v3",
-    device="cpu",   # ganti "cuda" kalau pakai GPU NVIDIA
-    compute_type="int8"
+import os
+import re
+import time
+import subprocess
+from pathlib import Path
+
+# Set LD_LIBRARY_PATH untuk whisper.cpp shared libraries
+_BASE = Path(__file__).resolve().parent.parent
+_LIB1 = str(_BASE / "models" / "whisper.cpp" / "build" / "src")
+_LIB2 = str(_BASE / "models" / "whisper.cpp" / "build" / "ggml" / "src")
+os.environ["LD_LIBRARY_PATH"] = (
+    _LIB1 + ":" + _LIB2 + ":" + os.environ.get("LD_LIBRARY_PATH", "")
 )
 
-def transcribe(audio_path: str):
+from app.utils import get_logger, preprocess_audio, cleanup_temp, normalize_text
 
-    if not os.path.exists(audio_path):
-        raise FileNotFoundError(
-            f"File tidak ditemukan: {audio_path}"
-        )
+logger = get_logger("stt")
 
-    segments, info = model.transcribe(
-        audio_path,
-        beam_size=5
-    )
+BASE_DIR      = Path(__file__).resolve().parent.parent
+WHISPER_BIN   = BASE_DIR / "models" / "whisper.cpp" / "build" / "bin" / "whisper-cli"
+WHISPER_MODEL = BASE_DIR / "models" / "whisper.cpp" / "models" / "ggml-medium.bin"
 
-    result=[]
 
-    for segment in segments:
-        result.append(segment.text)
+def transcribe(audio_path: str | Path, cleanup: bool = False) -> dict:
+    audio_path = Path(audio_path)
+    if not audio_path.exists():
+        raise FileNotFoundError(f"Audio tidak ditemukan: {audio_path}")
 
-    full_text=" ".join(result)
+    prep_path = preprocess_audio(audio_path)
+    t0        = time.time()
+
+    cmd = [
+        str(WHISPER_BIN),
+        "-m",  str(WHISPER_MODEL),
+        "-f",  str(prep_path),
+        "--language", "auto",
+        "--no-timestamps",
+    ]
+
+    result = subprocess.run(cmd, capture_output=True, text=True)
+
+    if result.returncode != 0:
+        raise RuntimeError(f"whisper-cli error: {result.stderr}")
+
+    latency = round(time.time() - t0, 2)
+
+    lines = []
+    for line in result.stdout.splitlines():
+        line = line.strip()
+        if (not line
+                or "whisper_" in line
+                or "system_info" in line
+                or "timings" in line
+                or line.startswith("main:")):
+            continue
+        lines.append(line)
+
+    text = " ".join(lines)
+    text = re.sub(r'\[[\d:,\. \->]+\]', '', text).strip()
+    text = re.sub(r'\s+', ' ', text)
+
+    logger.info(f"[{audio_path.name}] latency={latency}s | \"{text[:60]}\"")
+
+    if cleanup:
+        cleanup_temp(prep_path)
 
     return {
-        "language": info.language,
-        "text": full_text.strip()
+        "text":      text,
+        "language":  "auto",
+        "latency_s": latency,
+        "audio_id":  audio_path.stem,
     }

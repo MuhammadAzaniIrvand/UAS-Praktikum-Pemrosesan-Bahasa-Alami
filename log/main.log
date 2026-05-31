@@ -1,0 +1,139 @@
+2026-05-28 16:47:00,288 | main | INFO | Upload diterima: upload_1779961620.wav
+2026-05-28 16:47:01,485 | main | ERROR | Pipeline error: whisper-cli error: /home/azani/Kuliah/semester_6/nlp/prak/uas/voice-cs-system/models/whisper.cpp/build/bin/whisper-cli: error while loading shared libraries: libwhisper.so.1: cannot open shared object file: No such file or directory
+
+2026-05-28 16:49:47,143 | main | ERROR | pipeline/text error: whisper-cli error: /home/azani/Kuliah/semester_6/nlp/prak/uas/voice-cs-system/models/whisper.cpp/build/bin/whisper-cli: error while loading shared libraries: libwhisper.so.1: cannot open shared object file: No such file or directory
+
+2026-05-28 16:49:47,200 | main | INFO | Upload diterima: upload_1779961787.wav
+2026-05-28 16:49:47,611 | main | ERROR | Pipeline error: whisper-cli error: /home/azani/Kuliah/semester_6/nlp/prak/uas/voice-cs-system/models/whisper.cpp/build/bin/whisper-cli: error while loading shared libraries: libwhisper.so.1: cannot open shared object file: No such file or directory
+
+2026-05-28 16:54:18,572 | main | INFO | Upload diterima: upload_1779962058.wav
+2026-05-28 16:54:19,510 | main | ERROR | Pipeline error: whisper-cli error: /home/azani/Kuliah/semester_6/nlp/prak/uas/voice-cs-system/models/whisper.cpp/build/bin/whisper-cli: error while loading shared libraries: libggml.so.0: cannot open shared object file: No such file or directory
+
+2026-05-28 16:54:41,403 | main | INFO | Upload diterima: upload_1779962081.wav
+2026-05-28 16:54:42,337 | main | ERROR | Pipeline error: whisper-cli error: /home/azani/Kuliah/semester_6/nlp/prak/uas/voice-cs-system/models/whisper.cpp/build/bin/whisper-cli: error while loading shared libraries: libggml.so.0: cannot open shared object file: No such file or directory
+
+2026-05-28 16:55:41,022 | main | ERROR | pipeline/text error: whisper-cli error: /home/azani/Kuliah/semester_6/nlp/prak/uas/voice-cs-system/models/whisper.cpp/build/bin/whisper-cli: error while loading shared libraries: libggml.so.0: cannot open shared object file: No such file or directory
+
+2026-05-28 16:55:41,061 | main | INFO | Upload diterima: upload_1779962141.wav
+2026-05-28 16:55:41,969 | main | ERROR | Pipeline error: whisper-cli error: /home/azani/Kuliah/semester_6/nlp/prak/uas/voice-cs-system/models/whisper.cpp/build/bin/whisper-cli: error while loading shared libraries: libggml.so.0: cannot open shared object file: No such file or directory
+
+2026-05-28 16:56:38,895 | main | ERROR | pipeline/text error: whisper-cli error: /home/azani/Kuliah/semester_6/nlp/prak/uas/voice-cs-system/models/whisper.cpp/build/bin/whisper-cli: error while loading shared libraries: libggml.so.0: cannot open shared object file: No such file or directory
+
+2026-05-28 16:59:10,636 | main | INFO | Upload diterima: upload_1779962350.wav
+2026-05-28 16:59:38,092 | main | INFO | STT: "Aku mau book flight ke Jedah minggu depan, bisa bantu schedu"
+2026-05-28 16:59:38,093 | main | INFO | TextProc: dominant=ID langs=['ID', 'EN']
+2026-05-28 16:59:55,776 | main | INFO | LLM: "Tentu, aku bisa bantu carikan jadwalnya. Tolong infokan tang"
+2026-05-28 16:59:59,395 | main | ERROR | Pipeline error: 
+Coqui TTS requires the PyTorch and Torchaudio libraries but they were not found in your
+environment. Check out the instructions on the installation page:
+https://pytorch.org/get-started/locally/
+and follow the ones that match your environment.
+
+2026-05-28 18:05:07,194 | main | INFO | Upload diterima: upload_1779966307.wav
+2026-05-28 18:05:33,031 | main | INFO | STT: "Aku mau book flight ke Jedah minggu depan, bisa bantu schedu"
+2026-05-28 18:05:33,032 | main | INFO | TextProc: dominant=ID langs=['ID', 'EN']
+2026-05-28 18:06:04,948 | main | INFO | LLM: "Tentu, saya bisa bantu carikan jadwal penerbangan ke Jeddah."
+2026-05-28 18:06:05,449 | main | ERROR | Pipeline error: 
+Coqui TTS requires the PyTorch and Torchaudio libraries but they were not found in your
+environment. Check out the instructions on the installation page:
+https://pytorch.org/get-started/locally/
+and follow the ones that match your environment.
+
+2026-05-28 20:40:04,365 | main | INFO | Upload diterima: upload_1779975604.wav
+2026-05-28 20:40:32,599 | main | INFO | STT: "Aku mau book flight ke Jedah minggu depan, bisa bantu schedu"
+2026-05-28 20:40:32,600 | main | INFO | TextProc: dominant=ID langs=['ID', 'EN']
+2026-05-28 20:40:44,558 | main | INFO | LLM: "Tentu, aku bisa bantu carikan jadwal penerbangan ke Jeddah u"
+2026-05-28 20:40:45,418 | main | ERROR | Pipeline error: coqui-tts switched to a forked version of Coqpit, but you still have the original package installed. Run the following to avoid conflicts:
+  pip uninstall coqpit
+  pip install coqpit-config
+2026-05-28 20:46:09,910 | main | INFO | Upload diterima: upload_1779975969.wav
+2026-05-28 20:46:36,336 | main | INFO | STT: "Aku mau book flight ke Jedah minggu depan, bisa bantu schedu"
+2026-05-28 20:46:36,337 | main | INFO | TextProc: dominant=ID langs=['ID', 'EN']
+2026-05-28 20:46:57,914 | main | INFO | LLM: "Tentu, aku bisa bantu carikan jadwalnya. Tolong infokan tang"
+2026-05-28 20:53:43,294 | main | ERROR | Pipeline error: cannot import name 'BeamSearchScorer' from 'transformers' (/home/azani/Kuliah/semester_6/nlp/prak/uas/voice-cs-system/nlp_prak_env/lib64/python3.11/site-packages/transformers/__init__.py)
+2026-05-28 22:54:52,244 | main | INFO | Upload diterima: upload_1779983692.wav
+2026-05-28 22:54:55,177 | main | ERROR | Pipeline error: whisper-cli error: whisper_init_from_file_with_params_no_state: loading model from '/home/azani/Kuliah/semester_6/nlp/prak/uas/voice-cs-system/models/whisper.cpp/models/ggml-medium.bin'
+whisper_init_with_params_no_state: use gpu    = 1
+whisper_init_with_params_no_state: flash attn = 1
+whisper_init_with_params_no_state: gpu_device = 0
+whisper_init_with_params_no_state: dtw        = 0
+whisper_init_with_params_no_state: devices    = 1
+whisper_init_with_params_no_state: backends   = 1
+whisper_model_load: loading model
+whisper_model_load: n_vocab       = 51865
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 1024
+whisper_model_load: n_audio_head  = 16
+whisper_model_load: n_audio_layer = 24
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 1024
+whisper_model_load: n_text_head   = 16
+whisper_model_load: n_text_layer  = 24
+whisper_model_load: n_mels        = 80
+whisper_model_load: ftype         = 1
+whisper_model_load: qntvr         = 0
+whisper_model_load: type          = 4 (medium)
+whisper_model_load: adding 1608 extra tokens
+whisper_model_load: n_langs       = 99
+whisper_model_load:          CPU total size =  1533.14 MB
+
+2026-05-28 22:55:03,977 | main | INFO | Upload diterima: upload_1779983703.wav
+2026-05-28 22:55:29,901 | main | INFO | STT: "Aku mau book flight ke Jedah minggu depan, bisa bantu schedu"
+2026-05-28 22:55:29,901 | main | INFO | TextProc: dominant=ID langs=['ID', 'EN']
+2026-05-28 22:56:04,077 | main | INFO | LLM: "Tentu, aku bisa bantu carikan opsi flight-nya. Tolong beri t"
+2026-05-28 22:56:21,835 | main | ERROR | Pipeline error: issubclass() arg 1 must be a class
+2026-05-28 22:58:34,002 | main | INFO | Upload diterima: upload_1779983913.wav
+2026-05-28 22:59:01,454 | main | INFO | STT: "Aku mau book flight ke Jedah minggu depan, bisa bantu schedu"
+2026-05-28 22:59:01,454 | main | INFO | TextProc: dominant=ID langs=['ID', 'EN']
+2026-05-28 22:59:11,238 | main | INFO | LLM: "Bisa banget! Tolong infokan kota asal dan tanggal keberangka"
+2026-05-28 22:59:28,273 | main | ERROR | Pipeline error: issubclass() arg 1 must be a class
+2026-05-28 23:57:58,526 | main | INFO | Upload diterima: upload_1779987478.wav
+2026-05-28 23:58:26,221 | main | INFO | STT: "Aku mau book flight ke Jedah minggu depan, bisa bantu schedu"
+2026-05-28 23:58:26,221 | main | INFO | TextProc: dominant=ID langs=['ID', 'EN']
+2026-05-28 23:58:47,189 | main | INFO | LLM: "Tentu, silakan infokan tanggal keberangkatan dan kota asalmu"
+2026-05-29 14:10:27,828 | main | INFO | Upload diterima: upload_1780038627.wav
+2026-05-29 14:10:55,179 | main | INFO | STT: "Aku mau book flight ke Jedah minggu depan, bisa bantu schedu"
+2026-05-29 14:10:55,179 | main | INFO | TextProc: dominant=ID langs=['ID', 'EN']
+2026-05-29 14:11:07,190 | main | INFO | LLM: "Tentu, saya bisa bantu carikan jadwal flight ke Jeddah untuk"
+2026-05-29 14:11:14,630 | main | INFO | Pipeline selesai | stt=27.35s llm=12.01s tts=7.44s total=46.81s
+2026-05-29 14:13:44,039 | main | INFO | Upload diterima: upload_1780038824.wav
+2026-05-29 14:14:11,507 | main | INFO | STT: "Aku mau book flight ke Jedah minggu depan, bisa bantu schedu"
+2026-05-29 14:14:11,508 | main | INFO | TextProc: dominant=ID langs=['ID', 'EN']
+2026-05-29 14:14:22,778 | main | INFO | LLM: "Tentu, aku bisa bantu carikan jadwalnya. Tolong infokan tang"
+2026-05-29 14:14:30,050 | main | INFO | Pipeline selesai | stt=27.47s llm=11.27s tts=7.27s total=46.01s
+2026-05-29 14:16:42,415 | main | INFO | Upload diterima: upload_1780039002.wav
+2026-05-29 14:17:09,221 | main | INFO | STT: "Aku mau book flight ke Jedah minggu depan, bisa bantu schedu"
+2026-05-29 14:17:09,222 | main | INFO | TextProc: dominant=ID langs=['ID', 'EN']
+2026-05-29 14:17:31,085 | main | INFO | LLM: "Tentu, saya bisa bantu carikan jadwalnya. Tolong infokan kot"
+2026-05-29 14:18:37,838 | main | INFO | Upload diterima: upload_1780039117.wav
+2026-05-29 14:19:05,005 | main | INFO | STT: "Aku mau book flight ke Jedah minggu depan, bisa bantu schedu"
+2026-05-29 14:19:05,006 | main | INFO | TextProc: dominant=ID langs=['ID', 'EN']
+2026-05-29 14:19:28,753 | main | INFO | LLM: "Tentu, aku bisa bantu carikan jadwalnya. Tolong infokan kamu"
+2026-05-29 14:19:43,890 | main | INFO | Pipeline selesai | stt=27.17s llm=23.75s tts=15.14s total=66.06s
+2026-05-29 16:39:12,875 | main | ERROR | pipeline/text error: whisper-cli error: /home/azani/Kuliah/semester_6/nlp/prak/uas/voice-cs-system/models/whisper.cpp/build/bin/whisper-cli: error while loading shared libraries: libwhisper.so.1: cannot open shared object file: No such file or directory
+
+2026-05-29 16:43:59,673 | main | INFO | Upload diterima: upload_1780047839.wav
+2026-05-29 16:44:22,744 | main | INFO | STT: "Aku mau book flight ke Jedah minggu depan, bisa bantu schedu"
+2026-05-29 16:44:22,745 | main | INFO | TextProc: dominant=ID langs=['ID', 'EN']
+2026-05-29 16:44:44,845 | main | INFO | LLM: "Tentu, aku bisa bantu carikan jadwalnya. Tolong infokan kota"
+2026-05-29 16:45:01,418 | main | INFO | Pipeline selesai | stt=23.07s llm=22.1s tts=16.57s total=61.75s
+2026-05-29 17:09:34,057 | main | INFO | Upload diterima: upload_1780049374.wav
+2026-05-29 17:09:58,264 | main | INFO | STT: "Aku butuh travel umrah simple tapi include marina visit."
+2026-05-29 17:09:58,265 | main | INFO | TextProc: dominant=EN langs=['ID', 'EN', 'AR']
+2026-05-29 17:10:16,700 | main | INFO | LLM: "Most standard Umrah packages already include a visit to Madi"
+2026-05-29 17:11:11,967 | main | INFO | Pipeline selesai | stt=24.21s llm=18.43s tts=55.27s total=97.91s
+2026-05-31 12:23:34,372 | main | INFO | Upload diterima: upload_1780205014.wav
+2026-05-31 12:23:58,139 | main | INFO | STT: "Halo, saya tersesat di Madinah sekarang, gimana ini?"
+2026-05-31 12:23:58,140 | main | INFO | TextProc: dominant=ID langs=['ID', 'AR']
+2026-05-31 12:24:18,268 | main | INFO | LLM: "Segera cari petugas keamanan atau polisi di sekitar Masjid N"
+2026-05-31 12:24:33,267 | main | INFO | Pipeline selesai | stt=23.77s llm=20.13s tts=15.0s total=58.9s
+2026-05-31 12:26:43,787 | main | INFO | Upload diterima: upload_1780205203.wav
+2026-05-31 12:27:08,628 | main | INFO | STT: "Halo, saya tersesat di Madinah sekarang, gimana ini?"
+2026-05-31 12:27:08,629 | main | INFO | TextProc: dominant=ID langs=['ID', 'AR']
+2026-05-31 12:27:28,862 | main | INFO | LLM: "Tetap tenang dan carilah petugas keamanan atau Askar di seki"
+2026-05-31 12:27:45,398 | main | INFO | Pipeline selesai | stt=24.84s llm=20.23s tts=16.54s total=61.61s
+2026-05-31 12:34:12,332 | main | INFO | Upload diterima: upload_1780205652.wav
+2026-05-31 12:34:36,559 | main | INFO | STT: "Halo, saya tersesat di Balina. Bisa tolong saya?"
+2026-05-31 12:34:36,559 | main | INFO | TextProc: dominant=ID langs=['ID']
+2026-05-31 12:34:57,585 | main | INFO | LLM: "Segera hubungi nomor darurat 911 untuk meminta bantuan polis"
+2026-05-31 12:35:12,011 | main | INFO | Pipeline selesai | stt=24.23s llm=21.03s tts=14.43s total=59.68s
